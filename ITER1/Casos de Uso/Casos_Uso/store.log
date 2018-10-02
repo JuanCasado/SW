@@ -1,45 +1,35 @@
-<<<<<<< HEAD
-10, 02, 2018 (19:32:42): Starting Pre-Save actions
+10, 02, 2018 (19:44:20): Starting Pre-Save actions
 
-10, 02, 2018 (19:32:42): Starting Dialogs Check/Save
-10, 02, 2018 (19:32:42): Finished Dialogs Check/Save
-10, 02, 2018 (19:32:42): Starting Controlled Files Resolution
-10, 02, 2018 (19:32:42): Finished Controlled Files Resolution
-10, 02, 2018 (19:32:42): Finished Pre-Save actions
+10, 02, 2018 (19:44:20): Starting Dialogs Check/Save
+10, 02, 2018 (19:44:20): Finished Dialogs Check/Save
+10, 02, 2018 (19:44:20): Starting Controlled Files Resolution
+10, 02, 2018 (19:44:20): Finished Controlled Files Resolution
+10, 02, 2018 (19:44:20): Finished Pre-Save actions
 
-10, 02, 2018 (19:32:42): Creating C:\githubsoftware\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy
-10, 02, 2018 (19:32:42): 
-Started writing C:\githubsoftware\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Tuesday, October 02, 2018 (19:32:42)
+10, 02, 2018 (19:44:20): Creating M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy
+10, 02, 2018 (19:44:20): 
+Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Tuesday, October 02, 2018 (19:44:20)
 
-10, 02, 2018 (19:32:42): version 8.5.2
-10, 02, 2018 (19:32:42): 
-Started writing C:\githubsoftware\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\filesTable.dat on Tuesday, October 02, 2018 (19:32:42)
+10, 02, 2018 (19:44:20): version 8.5.2
+10, 02, 2018 (19:44:20): 
+Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\filesTable.dat on Tuesday, October 02, 2018 (19:44:20)
 
-10, 02, 2018 (19:32:42): Finished writing C:\githubsoftware\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\filesTable.dat on Tuesday, October 02, 2018 (19:32:42)
+10, 02, 2018 (19:44:20): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\filesTable.dat on Tuesday, October 02, 2018 (19:44:20)
 
-10, 02, 2018 (19:32:42): Finished writing C:\githubsoftware\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Tuesday, October 02, 2018 (19:32:42)
+10, 02, 2018 (19:44:20): Creating M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\Default.sbs
+10, 02, 2018 (19:44:20): 
+Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\Default.sbs on Tuesday, October 02, 2018 (19:44:20)
 
-10, 02, 2018 (19:32:42): End Log
-=======
-10, 02, 2018 (09:42:34): Starting Pre-Save actions
+10, 02, 2018 (19:44:20): version 8.5.2
+10, 02, 2018 (19:44:20): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\Default.sbs on Tuesday, October 02, 2018 (19:44:20)
 
-10, 02, 2018 (09:42:34): Starting Dialogs Check/Save
-10, 02, 2018 (09:42:34): Finished Dialogs Check/Save
-10, 02, 2018 (09:42:34): Starting Controlled Files Resolution
-10, 02, 2018 (09:42:34): Finished Controlled Files Resolution
-10, 02, 2018 (09:42:34): Finished Pre-Save actions
+10, 02, 2018 (19:44:20): Creating M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\DefaultComponent.cmp
+10, 02, 2018 (19:44:20): 
+Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\DefaultComponent.cmp on Tuesday, October 02, 2018 (19:44:20)
 
-10, 02, 2018 (09:42:34): Creating D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy
-10, 02, 2018 (09:42:34): 
-Started writing D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Tuesday, October 02, 2018 (09:42:34)
+10, 02, 2018 (19:44:20): version 8.5.2
+10, 02, 2018 (19:44:20): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\DefaultComponent.cmp on Tuesday, October 02, 2018 (19:44:20)
 
-10, 02, 2018 (09:42:34): version 8.5.2
-10, 02, 2018 (09:42:34): 
-Started writing D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\filesTable.dat on Tuesday, October 02, 2018 (09:42:34)
+10, 02, 2018 (19:44:20): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Tuesday, October 02, 2018 (19:44:20)
 
-10, 02, 2018 (09:42:34): Finished writing D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\filesTable.dat on Tuesday, October 02, 2018 (09:42:34)
-
-10, 02, 2018 (09:42:34): Finished writing D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Tuesday, October 02, 2018 (09:42:34)
-
-10, 02, 2018 (09:42:34): End Log
->>>>>>> a817d8ae940605295adec66d3136f16f24963244
+10, 02, 2018 (19:44:20): End Log
