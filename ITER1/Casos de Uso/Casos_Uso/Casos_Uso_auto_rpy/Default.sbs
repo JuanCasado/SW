@@ -1,0 +1,2854 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _id = GUID 3c62a8ab-a467-4207-b597-a933903ff46d;
+	- _myState = 8192;
+	- _name = "Default";
+	- _objectCreation = "5321080233201819101711053";
+	- _umlDependencyID = "2331";
+	- _lastID = 56;
+	- Declaratives = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IStereotype 
+			- _id = GUID ed1a4602-54f0-48c5-afa9-9b8d1434ae47;
+			- _myState = 8192;
+			- _name = "Solicita";
+			- _objectCreation = "5321082233201819101691053";
+			- _umlDependencyID = "2455";
+			- _m2Classes = { IRPYRawContainer 
+				- size = 2;
+				- value = "Dependency"; "AcceptEventAction"; 
+			}
+		}
+		{ IStereotype 
+			- _id = GUID 71c1356f-8f68-4968-a05e-81bf494a8658;
+			- _myState = 10240;
+			- _name = "stereotype_22";
+			- _objectCreation = "5321084233201819101671053";
+			- _umlDependencyID = "2934";
+			- _m2Classes = { IRPYRawContainer 
+				- size = 1;
+				- value = "Dependency"; 
+			}
+		}
+	}
+	- weakCGTime = 10.2.2018::16:58:6;
+	- strongCGTime = 9.26.2018::9:57:27;
+	- AssociationElements = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IAssociationClass 
+			- _id = GUID 521e405e-fc4b-4e43-b40d-121d5c00d565;
+			- _myState = 8192;
+			- _name = "solicita";
+			- _objectCreation = "5321086233201819101651053";
+			- _umlDependencyID = "2487";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _isClass = 0;
+			- m_end1 = { IHandle 
+				- _m2Class = "IAssociationEnd";
+				- _id = GUID df2b8882-02d0-4a16-9024-aa49b8ddae6b;
+			}
+			- m_end2 = { IHandle 
+				- _m2Class = "IAssociationEnd";
+				- _id = GUID ff3ea152-4d2a-481c-9fd4-2f253640907e;
+			}
+		}
+	}
+	- _defaultComposite = GUID f16fc61b-647e-4df9-926b-5ad6157eb273;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID f16fc61b-647e-4df9-926b-5ad6157eb273;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "5321088233201819101631053";
+			- _umlDependencyID = "2442";
+			- weakCGTime = 10.2.2018::7:33:41;
+			- strongCGTime = 9.26.2018::9:57:27;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- UseCases = { IRPYRawContainer 
+		- size = 44;
+		- value = 
+		{ IUseCase 
+			- _id = GUID 8e93b036-37bd-4b3d-88af-ebec2ac4ff7f;
+			- _myState = 8192;
+			- _name = "Gestion de Clientes";
+			- _objectCreation = "5321090233201819101611053";
+			- _umlDependencyID = "3375";
+			- Dependencies = { IRPYRawContainer 
+				- size = 4;
+				- value = 
+				{ IDependency 
+					- _id = GUID 68c3a904-18a0-4e10-9ff4-7263b21de2eb;
+					- _myState = 2048;
+					- _name = "Dar de Alta Cliente";
+					- _objectCreation = "5321092233201819101591053";
+					- _umlDependencyID = "3205";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 3fca4354-2599-4cf2-93c8-8ebb13698c7d;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 408cef02-4af1-4405-b536-2bee5568a24d;
+					- _myState = 2048;
+					- _name = "Dar de Baja Cliente";
+					- _objectCreation = "5321094233201819101571053";
+					- _umlDependencyID = "3185";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID cffab6c5-2971-4d36-9499-461320b4d7e6;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 2736af40-63d7-44f8-a2b2-6ddbe9529b1a;
+					- _myState = 2048;
+					- _name = "Modificar Cliente";
+					- _objectCreation = "5321096233201819101551053";
+					- _umlDependencyID = "3249";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 3b2e379b-211a-46a2-9994-bf358fa2cb8b;
+					}
+				}
+				{ IDependency 
+					- _id = GUID fb2b0776-bc34-4cd3-bd01-b2732780241d;
+					- _myState = 2048;
+					- _name = "Seleccionar Cliente";
+					- _objectCreation = "5321098233201819101531053";
+					- _umlDependencyID = "3467";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID f0f4b72c-cf59-4d5b-8721-20a0cd2f8a41;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El coordinador podr\\'e1 dar de alta y de baja a los clientes, adem\\'e1s de poder modificarlos.\\par
+}
+";
+			}
+			- _lastID = 4;
+			- weakCGTime = 9.26.2018::10:14:26;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 5f924358-52d8-4159-892b-cb416951aaf9;
+					- _myState = 10240;
+					- _name = "itsCoordinador";
+					- _objectCreation = "5321100233201819101511053";
+					- _umlDependencyID = "3089";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 9f422711-9cf6-484f-b806-ee5eb9709d2f;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 8fcd5f5d-5bdd-4c8c-96ab-4cb1ab3811a2;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 3fca4354-2599-4cf2-93c8-8ebb13698c7d;
+			- _myState = 8192;
+			- _name = "Dar de Alta Cliente";
+			- _objectCreation = "5321102233201819101491053";
+			- _umlDependencyID = "3196";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID cffab6c5-2971-4d36-9499-461320b4d7e6;
+			- _myState = 8192;
+			- _name = "Dar de Baja Cliente";
+			- _objectCreation = "5321104233201819101471053";
+			- _umlDependencyID = "3176";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 3b2e379b-211a-46a2-9994-bf358fa2cb8b;
+			- _myState = 8192;
+			- _name = "Modificar Cliente";
+			- _objectCreation = "5321106233201819101451053";
+			- _umlDependencyID = "3240";
+			- Dependencies = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IDependency 
+					- _id = GUID 20d20bd4-d7f2-4016-8cda-10328da7638e;
+					- _myState = 2048;
+					- _name = "Datos Proveedor";
+					- _objectCreation = "5321108233201819101431053";
+					- _umlDependencyID = "3079";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8b79147d-aacf-4310-8f5d-a1aa080af5bf;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 9a76465f-8940-465c-b397-0b9d91af300d;
+					- _myState = 2048;
+					- _name = "Piezas Proveedor";
+					- _objectCreation = "5321110233201819101411053";
+					- _umlDependencyID = "3183";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID f5ac7ed2-4153-4580-934e-8132cd6acbf3;
+					}
+				}
+			}
+			- _lastID = 2;
+			- weakCGTime = 9.26.2018::11:4:2;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID f0f4b72c-cf59-4d5b-8721-20a0cd2f8a41;
+			- _myState = 8192;
+			- _name = "Seleccionar Cliente";
+			- _objectCreation = "5321112233201819101391053";
+			- _umlDependencyID = "3458";
+			- Dependencies = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IDependency 
+					- _id = GUID 292298d1-9918-48a3-8173-0659d9487db0;
+					- _myState = 2048;
+					- _name = "Modificar Cliente";
+					- _objectCreation = "5321114233201819101371053";
+					- _umlDependencyID = "3240";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 3b2e379b-211a-46a2-9994-bf358fa2cb8b;
+					}
+				}
+				{ IDependency 
+					- _id = GUID b77c667f-71ea-4902-9aa4-89bf0f4a859a;
+					- _myState = 2048;
+					- _name = "Dar de Baja Cliente";
+					- _objectCreation = "5321116233201819101351053";
+					- _umlDependencyID = "3176";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID cffab6c5-2971-4d36-9499-461320b4d7e6;
+					}
+				}
+			}
+			- _lastID = 2;
+			- weakCGTime = 9.26.2018::10:38:57;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID da5075a2-8453-438a-810c-c98742a53990;
+			- _myState = 8192;
+			- _name = "Gestion Peticiones";
+			- _objectCreation = "5321118233201819101331053";
+			- _umlDependencyID = "3394";
+			- Dependencies = { IRPYRawContainer 
+				- size = 4;
+				- value = 
+				{ IDependency 
+					- _id = GUID 4ece0578-b045-40ab-b774-73e25116bcf5;
+					- _myState = 2048;
+					- _name = "Crear Registro";
+					- _objectCreation = "5321120233201819101311053";
+					- _umlDependencyID = "2953";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 5bd8cc10-a2f7-4c25-8d33-bf6a395e1b16;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 50029070-85a5-471b-814c-75ae388f8c08;
+					- _myState = 2048;
+					- _name = "Crear Presupuesto";
+					- _objectCreation = "5321122233201819101291053";
+					- _umlDependencyID = "3314";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a95bd9a5-3b7b-4e6b-a291-4bdac245a67c;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 9eb8b095-0c19-485f-b212-10866c553042;
+					- _myState = 2048;
+					- _name = "Crear Factura";
+					- _objectCreation = "5321124233201819101271053";
+					- _umlDependencyID = "2825";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID c2d8a1e1-4e40-4fcd-8f27-77990d64ddf0;
+					}
+				}
+				{ IDependency 
+					- _id = GUID f1763f92-2d21-4a7a-b78e-c55f70f7fe37;
+					- _myState = 2048;
+					- _name = "Gestion Peticiones";
+					- _objectCreation = "5321126233201819101251053";
+					- _umlDependencyID = "3394";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID da5075a2-8453-438a-810c-c98742a53990;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _text = "El coordinador recibe las peticiones de trabajo por parte de los clientes y crea los presupuestos. Accede al listado de peticiones pendientes para poder registrarlas en el sistema y poder crear sus presupuestos correspondientes
+";
+			}
+			- _lastID = 3;
+			- weakCGTime = 9.26.2018::10:37:1;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 5bd8cc10-a2f7-4c25-8d33-bf6a395e1b16;
+			- _myState = 8192;
+			- _name = "Crear Registro";
+			- _objectCreation = "5321128233201819101231053";
+			- _umlDependencyID = "2962";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 Crea un registro en el sistema de la petici\\'f3n elegido\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID a95bd9a5-3b7b-4e6b-a291-4bdac245a67c;
+			- _myState = 8192;
+			- _name = "Crear Presupuesto";
+			- _objectCreation = "5321130233201819101211053";
+			- _umlDependencyID = "3305";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 77303276-5344-4d70-aff0-43df97ffc541;
+					- _myState = 10240;
+					- _name = "itsCliente_2";
+					- _objectCreation = "5321132233201819101191053";
+					- _umlDependencyID = "2811";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 3938c6c7-3009-4a53-818c-c9cd32ab9c77;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 770421f0-fadd-4322-96c4-0e5b1e03a218;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID ff3ea152-4d2a-481c-9fd4-2f253640907e;
+					- _myState = 10240;
+					- _name = "itsCliente";
+					- _objectCreation = "5321134233201819101171053";
+					- _umlDependencyID = "2666";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 3938c6c7-3009-4a53-818c-c9cd32ab9c77;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID df2b8882-02d0-4a16-9024-aa49b8ddae6b;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+					- m_associationClass = { IHandle 
+						- _m2Class = "IAssociationClass";
+						- _id = GUID 521e405e-fc4b-4e43-b40d-121d5c00d565;
+					}
+				}
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID d4056310-5a6f-49ca-813f-8314dc286f1b;
+			- _myState = 8192;
+			- _name = "Gestion Partes Trabajo";
+			- _objectCreation = "5321136233201819101151053";
+			- _umlDependencyID = "3681";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID d613b4da-c41f-411d-9a93-ca240704606c;
+			- _myState = 8192;
+			- _name = "Gesti\ón Trabajadores";
+			- _objectCreation = "5321138233201819101131053";
+			- _umlDependencyID = "3474";
+			- Dependencies = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IDependency 
+					- _id = GUID efe75467-9504-49df-8c74-feb09df7839b;
+					- _myState = 2048;
+					- _name = "Consultar Trabajador";
+					- _objectCreation = "5321140233201819101111053";
+					- _umlDependencyID = "3586";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 80bae406-93a0-488f-be0e-9c532abd8e7a;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 19fe9187-ce9f-4507-a169-3cd09205cd2f;
+					- _myState = 2048;
+					- _name = "Mostrar Historial de Trabajo";
+					- _objectCreation = "5321142233201819101091053";
+					- _umlDependencyID = "4217";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID fec23ceb-a8ae-45c9-8a50-25aa3fc079d7;
+					}
+				}
+				{ IDependency 
+					- _id = GUID b136a0e3-e803-4fcb-8898-4c912ff57d3d;
+					- _myState = 2048;
+					- _name = "Asignar Petici\ón de Trabajo";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Asignar Petici\\'f3n de Trabajo\\par
+}
+";
+					- _objectCreation = "5321144233201819101071053";
+					- _umlDependencyID = "3955";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID ee1fe0be-0d52-46b9-9578-871279d7e162;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El coordinador puede consultar el historial de los trabajadores para as\\'ed saber que trabajos han realizado y asignar el trabajo que el coordinador crea m\\'e1s oportuno a cada trabajador.\\par
+}
+";
+			}
+			- _lastID = 3;
+			- weakCGTime = 10.2.2018::7:39:23;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID e82347c4-ca95-4cbb-920e-18252600e4e0;
+			- _myState = 8192;
+			- _name = "Gesti\ón Administrativa";
+			- _objectCreation = "5321146233201819101051053";
+			- _umlDependencyID = "3712";
+			- Dependencies = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IDependency 
+					- _id = GUID 315242c3-a32d-402c-b65b-f5c17cf1d0dc;
+					- _myState = 2048;
+					- _name = "Consultar Facturaci\ón";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Consultar Facturaci\\'f3n\\par
+}
+";
+					- _objectCreation = "5321148233201819101031053";
+					- _umlDependencyID = "3601";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8094906e-df50-4b19-995e-f183395f169a;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 3a9a7490-5983-4004-877a-0aab10ee5cd3;
+					- _myState = 2048;
+					- _name = "Consultar Materiales";
+					- _objectCreation = "5321150233201819101011053";
+					- _umlDependencyID = "3599";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 9461c7ef-767c-4004-8654-a15f8c5cd1c8;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El coordinador puede consultar la facturaci\\'f3n y consulta los materiales para asi poder calcular los ingresos y gastos totales.\\par
+}
+";
+			}
+			- _lastID = 2;
+			- weakCGTime = 9.26.2018::10:33:13;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 8094906e-df50-4b19-995e-f183395f169a;
+			- _myState = 8192;
+			- _name = "Consultar Facturaci\ón";
+			- _objectCreation = "5321152233201819100991053";
+			- _umlDependencyID = "3610";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 9461c7ef-767c-4004-8654-a15f8c5cd1c8;
+			- _myState = 8192;
+			- _name = "Consultar Materiales";
+			- _objectCreation = "5321154233201819100971053";
+			- _umlDependencyID = "3617";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El coordinador podr\\'e1 ver cu\\'e1l ha sido la compra de materiales\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 4605706b-0586-4a98-b0a4-8a78cd844090;
+			- _myState = 10240;
+			- _name = "usecase_18";
+			- _objectCreation = "5321156233201819100951053";
+			- _umlDependencyID = "2576";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID c2d8a1e1-4e40-4fcd-8f27-77990d64ddf0;
+			- _myState = 8192;
+			- _name = "Crear Factura";
+			- _objectCreation = "5321158233201819100931053";
+			- _umlDependencyID = "2834";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 Una vez el trabajo haya sido realizado, el coordinador emitir\\'e1 una factura\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 9c6b875a-9f73-493b-94e2-6c195d1366f3;
+			- _myState = 8192;
+			- _name = "Gesti\ón Piezas";
+			- _objectCreation = "5321160233201819100911053";
+			- _umlDependencyID = "2860";
+			- Dependencies = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IDependency 
+					- _id = GUID 69c02592-9e54-492a-95b5-3ef7bb21d73d;
+					- _myState = 2048;
+					- _name = "Mostrar Listado Piezas";
+					- _objectCreation = "5321162233201819100891053";
+					- _umlDependencyID = "3715";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 12ac98ff-ad4b-4e0d-9702-4dc78daf7601;
+					}
+				}
+				{ IDependency 
+					- _id = GUID ac468723-b850-464b-ada4-2d545f1e614d;
+					- _myState = 2048;
+					- _name = "Realizar Pedido Piezas Especiales";
+					- _objectCreation = "5321164233201819100871053";
+					- _umlDependencyID = "4696";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 4a4de713-a661-48e7-a932-d32f26d5ab57;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El responsable de almac\\'e9n es el encargado de gestionar las piezas del almacen pudiendo mostrar un listado de las piezas para asi saber si es necesario realizar un pedido de piezas especiales.\\par
+}
+";
+			}
+			- _lastID = 2;
+			- weakCGTime = 9.26.2018::10:56:8;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID aad2cc31-e7b1-41b1-bbdf-b7921d727e68;
+			- _myState = 8192;
+			- _name = "Gesti\ón Proveedores";
+			- _objectCreation = "5321166233201819100851053";
+			- _umlDependencyID = "3415";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 12ac98ff-ad4b-4e0d-9702-4dc78daf7601;
+			- _myState = 8192;
+			- _name = "Mostrar Listado Piezas";
+			- _objectCreation = "5321168233201819100831053";
+			- _umlDependencyID = "3715";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede visualizar el listado de todas las piezas que hay en stock en tiempo real.\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 4a4de713-a661-48e7-a932-d32f26d5ab57;
+			- _myState = 8192;
+			- _name = "Realizar Pedido Piezas Especiales";
+			- _objectCreation = "5321170233201819100811053";
+			- _umlDependencyID = "4687";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede realizar un pedido del as piezas especiales cuando le sean necesarias.\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 8b79147d-aacf-4310-8f5d-a1aa080af5bf;
+			- _myState = 8192;
+			- _name = "Datos Proveedor";
+			- _objectCreation = "5321172233201819100791053";
+			- _umlDependencyID = "3088";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede modificar los datos del proveedor referidos a la informaci\\'f3n (nombre, tel\\'e9fono de contacto, correo, direcci\\'f3n), pero no los art\\'edculos\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID f5ac7ed2-4153-4580-934e-8132cd6acbf3;
+			- _myState = 8192;
+			- _name = "Piezas Proveedor";
+			- _objectCreation = "5321174233201819100771053";
+			- _umlDependencyID = "3201";
+			- Dependencies = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IDependency 
+					- _id = GUID 015ccf1e-fb63-4380-a7a9-3dc9a141b906;
+					- _myState = 2048;
+					- _name = "A\ñadir Pieza";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 A\\'f1adir Pieza\\par
+}
+";
+					- _objectCreation = "5321176233201819100751053";
+					- _umlDependencyID = "2617";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID bc3e1c83-bca2-4c23-a6b8-aaee14718144;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 1612e1f8-6746-4301-b937-cee621231a52;
+					- _myState = 2048;
+					- _name = "Borrar Pieza";
+					- _objectCreation = "5321178233201819100731053";
+					- _umlDependencyID = "2752";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 1945a4f8-f42e-4969-bbe9-8654df087ce6;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 28b0d56d-54f1-4ce5-bb50-9bb150a5be79;
+					- _myState = 2048;
+					- _name = "Modificar Pieza";
+					- _objectCreation = "5321180233201819100711053";
+					- _umlDependencyID = "3037";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 6a8c3961-d038-47dc-8963-5a7351ccf9aa;
+					}
+				}
+			}
+			- _lastID = 3;
+			- weakCGTime = 9.26.2018::11:4:34;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID bc3e1c83-bca2-4c23-a6b8-aaee14718144;
+			- _myState = 8192;
+			- _name = "A\ñadir Pieza";
+			- _objectCreation = "5321182233201819100691053";
+			- _umlDependencyID = "2617";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede a\\'f1adir una pieza a la lista de piezas vinculadas a un proveedor.\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 1945a4f8-f42e-4969-bbe9-8654df087ce6;
+			- _myState = 8192;
+			- _name = "Borrar Pieza";
+			- _objectCreation = "5321184233201819100671053";
+			- _umlDependencyID = "2752";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede eliminar una pieza de la lista de piezas vinculadas a un proveedor.\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 6a8c3961-d038-47dc-8963-5a7351ccf9aa;
+			- _myState = 8192;
+			- _name = "Modificar Pieza";
+			- _objectCreation = "5321186233201819100651053";
+			- _umlDependencyID = "3046";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede modificar la informaci\\'f3n de una pieza (descripci\\'f3n, c\\'f3digo, precio, etc) del listado de piezas vinculadas a un proveedor.\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID e9a18512-92b0-4b03-9b46-b56037f44aad;
+			- _myState = 8192;
+			- _name = "Identifcaci\ón";
+			- _objectCreation = "5321188233201819100631053";
+			- _umlDependencyID = "2848";
+			- Dependencies = { IRPYRawContainer 
+				- size = 4;
+				- value = 
+				{ IDependency 
+					- _id = GUID 60dc96c5-3fbe-430b-bb5b-5c7b578e0c3d;
+					- _myState = 2048;
+					- _name = "Gesti\ón Partes Trabajo";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Gesti\\'f3n Partes Trabajo\\par
+}
+";
+					- _objectCreation = "5321190233201819100611053";
+					- _umlDependencyID = "3570";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID d8e40272-d6d2-4d11-b2b7-9e3e55464785;
+					}
+				}
+				{ IDependency 
+					- _id = GUID f808933b-d382-42b0-bd52-f6e5d5ae2437;
+					- _myState = 2048;
+					- _name = "Mostrar Peticiones Trabajo Pendientes";
+					- _objectCreation = "5321192233201819100591053";
+					- _umlDependencyID = "5164";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 58480bf0-1096-4a27-bf70-5874eef05264;
+					}
+				}
+				{ IDependency 
+					- _id = GUID c8b0fb2c-cfa8-4f15-8ee2-b84d2878ac0e;
+					- _myState = 2048;
+					- _name = "Mandar Peticiones de Trabajo";
+					- _objectCreation = "5321194233201819100571053";
+					- _umlDependencyID = "4177";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 822f3055-de48-4d06-8a79-784b74fdc971;
+					}
+				}
+				{ IDependency 
+					- _id = GUID b7e0839c-0623-4a3a-9d72-acf2a0dbac55;
+					- _myState = 2048;
+					- _name = "Gesti\ón Peticiones";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Gesti\\'f3n Peticiones\\par
+}
+";
+					- _objectCreation = "5321196233201819100551053";
+					- _umlDependencyID = "3292";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 35288097-013b-4ec9-9bbc-a23bac221580;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 Para poder acceder a las funcionalidades del sistema, se deber\\'e1 inicar sesi\\'f3n en este.\\par
+}
+";
+			}
+			- _lastID = 4;
+			- weakCGTime = 9.26.2018::11:29:12;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 85c75cbf-d686-42cb-985d-7c393609a07e;
+					- _myState = 10240;
+					- _name = "itsCliente";
+					- _objectCreation = "5321198233201819100531053";
+					- _umlDependencyID = "2675";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 3938c6c7-3009-4a53-818c-c9cd32ab9c77;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 9a356f05-86b9-460f-a650-65b918252bb2;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID d8e40272-d6d2-4d11-b2b7-9e3e55464785;
+			- _myState = 8192;
+			- _name = "Gesti\ón Partes Trabajo";
+			- _objectCreation = "5321200233201819100511053";
+			- _umlDependencyID = "3561";
+			- Dependencies = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IDependency 
+					- _id = GUID 182893a6-b2b8-4312-a9a8-1d48d7c3afc8;
+					- _myState = 2048;
+					- _name = "Dar de Alta Parte Trabajo";
+					- _objectCreation = "5321202233201819100491053";
+					- _umlDependencyID = "3703";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID b2a058e4-1d84-4fe8-aac4-c61d395b82df;
+					}
+				}
+				{ IDependency 
+					- _id = GUID ae70df82-206e-47d9-a167-1ff142805b4b;
+					- _myState = 2048;
+					- _name = "Seleccionar Parte Trabajo";
+					- _objectCreation = "5321204233201819100471053";
+					- _umlDependencyID = "3965";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID f730542f-95e9-45ea-aa12-66ed145215c5;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 Los t\\'e9cnicos pueden gestionar los partes de trabajo dandolos de alta cuando comienza un trabajo nuevo o modificandolos para llevar un control del trabajo a tiempo real.\\par
+}
+";
+			}
+			- _lastID = 2;
+			- weakCGTime = 9.26.2018::11:15:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID b2a058e4-1d84-4fe8-aac4-c61d395b82df;
+			- _myState = 8192;
+			- _name = "Dar de Alta Parte Trabajo";
+			- _objectCreation = "5321206233201819100451053";
+			- _umlDependencyID = "3703";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 Los t\\'e9cnicos una vez finalizado un trabajo de una petici\\'f3n de trabajo, dan de alta el parte de trabajo correspondiente.\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID f730542f-95e9-45ea-aa12-66ed145215c5;
+			- _myState = 8192;
+			- _name = "Seleccionar Parte Trabajo";
+			- _objectCreation = "5321208233201819100431053";
+			- _umlDependencyID = "3965";
+			- Dependencies = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IDependency 
+					- _id = GUID 90de73ca-f4eb-4955-b18f-5f5ff3ac11fc;
+					- _myState = 2048;
+					- _name = "Modificar Parte Trabajo";
+					- _objectCreation = "5321210233201819100411053";
+					- _umlDependencyID = "3738";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 9ecc5adb-c34b-4dfd-bb93-53b034a88667;
+					}
+				}
+			}
+			- _lastID = 1;
+			- weakCGTime = 9.26.2018::11:15:40;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 9ecc5adb-c34b-4dfd-bb93-53b034a88667;
+			- _myState = 8192;
+			- _name = "Modificar Parte Trabajo";
+			- _objectCreation = "5321212233201819100391053";
+			- _umlDependencyID = "3747";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 Los t\\'e9cnicos pueden seleccionar un parte de trabajo para modificar informaci\\'f3n correspondiente a dicho parte (n\\'ba petici\\'f3n de trabajo, fecha, hora de entrada/salida, material empleado).\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 58480bf0-1096-4a27-bf70-5874eef05264;
+			- _myState = 8192;
+			- _name = "Mostrar Peticiones Trabajo Pendientes";
+			- _objectCreation = "5321214233201819100371053";
+			- _umlDependencyID = "5155";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID f763b2c4-64f6-4521-b0c8-0320656cc359;
+			- _myState = 8192;
+			- _name = "Identificaci\ón";
+			- _objectCreation = "5321216233201819100351053";
+			- _umlDependencyID = "2944";
+			- Dependencies = { IRPYRawContainer 
+				- size = 9;
+				- value = 
+				{ IDependency 
+					- _id = GUID 383bf7b6-b903-4120-97ce-32d5486fde13;
+					- _myState = 2048;
+					- _name = "Gestion de Clientes";
+					- _objectCreation = "5321218233201819100331053";
+					- _umlDependencyID = "3375";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8e93b036-37bd-4b3d-88af-ebec2ac4ff7f;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 406cd5a9-29a6-48a6-9efb-3c41b9dfe386;
+					- _myState = 2048;
+					- _name = "Gestion Peticiones";
+					- _objectCreation = "5321220233201819100311053";
+					- _umlDependencyID = "3385";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID da5075a2-8453-438a-810c-c98742a53990;
+					}
+				}
+				{ IDependency 
+					- _id = GUID e53c2a1e-740b-4cca-b256-33efe16c4b23;
+					- _myState = 2048;
+					- _name = "Gesti\ón Administrativa";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Gesti\\'f3n Administrativa\\par
+}
+";
+					- _objectCreation = "5321222233201819100291053";
+					- _umlDependencyID = "3712";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID e82347c4-ca95-4cbb-920e-18252600e4e0;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 0789771b-0144-4ebb-b350-8b63c5274ae9;
+					- _myState = 2048;
+					- _name = "Gesti\ón Piezas";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Gesti\\'f3n Piezas\\par
+}
+";
+					- _objectCreation = "5321224233201819100271053";
+					- _umlDependencyID = "2860";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 9c6b875a-9f73-493b-94e2-6c195d1366f3;
+					}
+				}
+				{ IDependency 
+					- _id = GUID b1c4d60d-47d9-4105-b207-2f6641f0fdc2;
+					- _myState = 2048;
+					- _name = "Gesti\ón Proveedores";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Gesti\\'f3n Proveedores\\par
+}
+";
+					- _objectCreation = "5321226233201819100251053";
+					- _umlDependencyID = "3406";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID aad2cc31-e7b1-41b1-bbdf-b7921d727e68;
+					}
+				}
+				{ IDependency 
+					- _id = GUID c4ecd41f-d3fe-48df-8191-5791d1713cda;
+					- _myState = 2048;
+					- _name = "Gestion de Clientes_0";
+					- _objectCreation = "5321228233201819100231053";
+					- _umlDependencyID = "3518";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8e93b036-37bd-4b3d-88af-ebec2ac4ff7f;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 3c2b2ab8-8302-49ab-bc93-9e6a79e38ef5;
+					- _myState = 2048;
+					- _name = "Gesti\ón Trabajadores";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Gesti\\'f3n Trabajadores\\par
+}
+";
+					- _objectCreation = "5321230233201819100211053";
+					- _umlDependencyID = "3465";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID d613b4da-c41f-411d-9a93-ca240704606c;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 91f9368c-b245-4580-90ee-f3917f037098;
+					- _myState = 2048;
+					- _name = "Gesti\ón de Proveedores";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Gesti\\'f3n de Proveedores\\par
+}
+";
+					- _objectCreation = "5321232233201819100191053";
+					- _umlDependencyID = "3607";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 4bc2e25a-b4c3-4680-8357-932cd64f51e2;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 7a0e4891-7b39-4570-b797-deb61cc8a336;
+					- _myState = 2048;
+					- _name = "Gestion Peticiones_0";
+					- _objectCreation = "5321234233201819100171053";
+					- _umlDependencyID = "3537";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID da5075a2-8453-438a-810c-c98742a53990;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 Para poder acceder a las funcionalidades del sistema, se deber\\'e1 inicar sesi\\'f3n en este.\\par
+}
+";
+			}
+			- _lastID = 5;
+			- weakCGTime = 10.2.2018::7:4:46;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- Inheritances = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IGeneralization 
+					- _id = GUID 55f9030f-eb2f-4e2f-ab72-413831634a85;
+					- _objectCreation = "5321236233201819100151053";
+					- _umlDependencyID = "1622";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8e93b036-37bd-4b3d-88af-ebec2ac4ff7f;
+					}
+					- _inheritanceType = iPublic;
+					- _isVirtual = 0;
+				}
+			}
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 822f3055-de48-4d06-8a79-784b74fdc971;
+			- _myState = 8192;
+			- _name = "Mandar Peticiones de Trabajo";
+			- _objectCreation = "5321238233201819100131053";
+			- _umlDependencyID = "4168";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El cliente puede mandar una petici\\'f3n de trabajo.\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID beffacdf-70da-4bbf-b0df-fc4bf6b85412;
+			- _myState = 8192;
+			- _name = "Contartar con Coordinador T\écnico";
+			- _objectCreation = "5321240233201819100111053";
+			- _umlDependencyID = "4623";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 35288097-013b-4ec9-9bbc-a23bac221580;
+			- _myState = 8192;
+			- _name = "Gesti\ón Peticiones";
+			- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Gesti\\'f3n Pedidos\\par
+}
+";
+			- _objectCreation = "5321242233201819100091053";
+			- _umlDependencyID = "3283";
+			- Dependencies = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IDependency 
+					- _id = GUID 21fa720c-b9e8-483c-a4ec-6852ff36c06b;
+					- _myState = 2048;
+					- _name = "Solicitar Presupuesto";
+					- _objectCreation = "5321244233201819100071053";
+					- _umlDependencyID = "3759";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a1ec03f1-a3c1-4deb-9175-85fc56636c3a;
+					}
+				}
+				{ IDependency 
+					- _id = GUID e2a4ef3d-e560-437f-809b-eedb647c4ef9;
+					- _myState = 2048;
+					- _name = "Aceptar Presupuesto";
+					- _objectCreation = "5321246233201819100051053";
+					- _umlDependencyID = "3525";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 1b22af84-bddc-44d8-80d2-b85d47562364;
+					}
+				}
+				{ IDependency 
+					- _id = GUID bf76eb68-865d-44f5-b868-4a10509be012;
+					- _myState = 2048;
+					- _name = "Contartar con Coordinador T\écnico";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Contartar con Coordinador T\\'e9cnico\\par
+}
+";
+					- _objectCreation = "5321248233201819100031053";
+					- _umlDependencyID = "4632";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID beffacdf-70da-4bbf-b0df-fc4bf6b85412;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El cliente puede solicitar un presupuesto de la petici\\'f3n de trabajo que ha solicitado. Aceptar dicho presupuesto o contactar con un coordinador t\\'e9cnico.\\par
+}
+";
+			}
+			- _lastID = 3;
+			- weakCGTime = 9.26.2018::11:31:43;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID a1ec03f1-a3c1-4deb-9175-85fc56636c3a;
+			- _myState = 8192;
+			- _name = "Solicitar Presupuesto";
+			- _objectCreation = "5321250233201819100011053";
+			- _umlDependencyID = "3750";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 1b22af84-bddc-44d8-80d2-b85d47562364;
+			- _myState = 8192;
+			- _name = "Aceptar Presupuesto";
+			- _objectCreation = "532125223320181999991053";
+			- _umlDependencyID = "3504";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 80bae406-93a0-488f-be0e-9c532abd8e7a;
+			- _myState = 8192;
+			- _name = "Consultar Trabajador";
+			- _objectCreation = "532125423320181999971053";
+			- _umlDependencyID = "3574";
+			- Dependencies = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IDependency 
+					- _id = GUID 3457fbca-6fa3-4c77-beec-08884059076c;
+					- _myState = 2048;
+					- _name = "Mostrar Historial de Trabajo";
+					- _objectCreation = "532125623320181999951053";
+					- _umlDependencyID = "4196";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID fec23ceb-a8ae-45c9-8a50-25aa3fc079d7;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 7800b23c-74e2-4043-92b2-0cca38cee252;
+					- _myState = 2048;
+					- _name = "Asignar Petici\ón de Trabajo";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Asignar Petici\\'f3n de Trabajo\\par
+}
+";
+					- _objectCreation = "532125823320181999931053";
+					- _umlDependencyID = "3934";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID ee1fe0be-0d52-46b9-9578-871279d7e162;
+					}
+				}
+			}
+			- _lastID = 2;
+			- weakCGTime = 9.27.2018::15:23:30;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID fec23ceb-a8ae-45c9-8a50-25aa3fc079d7;
+			- _myState = 8192;
+			- _name = "Mostrar Historial de Trabajo";
+			- _objectCreation = "532126023320181999911053";
+			- _umlDependencyID = "4187";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID ee1fe0be-0d52-46b9-9578-871279d7e162;
+			- _myState = 8192;
+			- _name = "Asignar Petici\ón de Trabajo";
+			- _objectCreation = "532126223320181999891053";
+			- _umlDependencyID = "3934";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 4bc2e25a-b4c3-4680-8357-932cd64f51e2;
+			- _myState = 8192;
+			- _name = "Gesti\ón de Proveedores";
+			- _objectCreation = "532126423320181999871053";
+			- _umlDependencyID = "3586";
+			- Dependencies = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IDependency 
+					- _id = GUID 7008ca64-e827-40a2-b09c-49ec4ff938cc;
+					- _myState = 2048;
+					- _name = "Dar de Alta Cliente";
+					- _objectCreation = "532126623320181999851053";
+					- _umlDependencyID = "3175";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 3fca4354-2599-4cf2-93c8-8ebb13698c7d;
+					}
+				}
+				{ IDependency 
+					- _id = GUID cf3b77c7-979f-44e8-aabf-7a5f6537b6ac;
+					- _myState = 2048;
+					- _name = "Seleccionar Proveedor";
+					- _objectCreation = "532126823320181999831053";
+					- _umlDependencyID = "3679";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID f925f953-9d8c-4bd3-8c25-78a9088a5147;
+					}
+				}
+				{ IDependency 
+					- _id = GUID c7bb42c7-5e29-457e-926b-c65e6d1f0de8;
+					- _myState = 2048;
+					- _name = "Dar de Alta Proveedor";
+					- _objectCreation = "532127023320181999811053";
+					- _umlDependencyID = "3408";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8ddd23d3-7b56-473a-8e49-76c6a02527cd;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El responsable del almac\\'e9n tambien es el encargado de la gesti\\'f3n de proveedores para asi poder dar de alta a proveedores, dar de baja a proveedores, o modificar los proveedores asignandoles o eliminandoles alguna pieza que le corresponde a dicho proveedor.\\par
+}
+";
+			}
+			- _lastID = 3;
+			- weakCGTime = 10.2.2018::7:33:21;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- Inheritances = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IGeneralization 
+					- _id = GUID 73ce0e67-04b3-4077-89b8-35c6a050e7ea;
+					- _objectCreation = "532127223320181999791053";
+					- _umlDependencyID = "1601";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 3fca4354-2599-4cf2-93c8-8ebb13698c7d;
+					}
+					- _inheritanceType = iPublic;
+					- _isVirtual = 0;
+				}
+			}
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID f925f953-9d8c-4bd3-8c25-78a9088a5147;
+			- _myState = 8192;
+			- _name = "Seleccionar Proveedor";
+			- _objectCreation = "532127423320181999771053";
+			- _umlDependencyID = "3679";
+			- Dependencies = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IDependency 
+					- _id = GUID 87c77077-2ae0-483e-aba0-01d50c0a193d;
+					- _myState = 2048;
+					- _name = "Dar de Baja Cliente";
+					- _objectCreation = "532127623320181999751053";
+					- _umlDependencyID = "3155";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID cffab6c5-2971-4d36-9499-461320b4d7e6;
+					}
+				}
+				{ IDependency 
+					- _id = GUID cb5a1d88-986f-4356-a7e5-fc7b81cd2bc8;
+					- _myState = 2048;
+					- _name = "Modificar Proveedor";
+					- _objectCreation = "532127823320181999731053";
+					- _umlDependencyID = "3461";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID b92d7b4e-2bcb-411c-9394-54ad57c9b486;
+					}
+				}
+				{ IDependency 
+					- _id = GUID a8f022d1-e1fa-4831-beb1-8b645bb95333;
+					- _myState = 2048;
+					- _name = "Dar de Baja Proveedor";
+					- _objectCreation = "532128023320181999711053";
+					- _umlDependencyID = "3388";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "extend";
+							- _id = GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 95de3ec3-1f4e-4bd0-9fe3-12d1b9517ff1;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede seleccionar desde la lista de proveedores almacenados en el sistema a un proveedor, para hacer modificaciones sobre los datos de este.\\f1\\fs20\\par
+}
+";
+			}
+			- _lastID = 3;
+			- weakCGTime = 10.2.2018::7:33:56;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID b92d7b4e-2bcb-411c-9394-54ad57c9b486;
+			- _myState = 8192;
+			- _name = "Modificar Proveedor";
+			- _objectCreation = "532128223320181999691053";
+			- _umlDependencyID = "3461";
+			- Dependencies = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IDependency 
+					- _id = GUID 6556a3bb-8fb8-4eb4-a8d3-8943ff3712f2;
+					- _myState = 2048;
+					- _name = "Datos Proveedor";
+					- _objectCreation = "532128423320181999671053";
+					- _umlDependencyID = "3058";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8b79147d-aacf-4310-8f5d-a1aa080af5bf;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 7ab28c03-0f1b-4ba7-a4ce-b2e9c6db81ed;
+					- _myState = 2048;
+					- _name = "Piezas Proveedor";
+					- _objectCreation = "532128623320181999651053";
+					- _umlDependencyID = "3171";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID f5ac7ed2-4153-4580-934e-8132cd6acbf3;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede modificar los datos del proveedor seleccionado.\\f1\\fs20\\par
+}
+";
+			}
+			- _lastID = 2;
+			- weakCGTime = 9.27.2018::15:31:10;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 8ddd23d3-7b56-473a-8e49-76c6a02527cd;
+			- _myState = 8192;
+			- _name = "Dar de Alta Proveedor";
+			- _objectCreation = "532128823320181999631053";
+			- _umlDependencyID = "3417";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n podr\\'e1 dar de alta a un proveedor, para tener as\\'ed informaci\\'f3n de \\'e9ste \\'faltimo en el sistema (art\\'edculos, tel\\'e9fono de contacto, correo, etc).\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 95de3ec3-1f4e-4bd0-9fe3-12d1b9517ff1;
+			- _myState = 8192;
+			- _name = "Dar de Baja Proveedor";
+			- _objectCreation = "532129023320181999611053";
+			- _umlDependencyID = "3388";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede dar de baja a un proveedor del sistema (el sistema eliminar\\'e1 todos los datos del proveedor).\\f1\\fs20\\par
+}
+";
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- Actors = { IRPYRawContainer 
+		- size = 4;
+		- value = 
+		{ IActor 
+			- _id = GUID 9f422711-9cf6-484f-b806-ee5eb9709d2f;
+			- _myState = 8192;
+			- _name = "Coordinador";
+			- _objectCreation = "532129223320181999591053";
+			- _umlDependencyID = "2741";
+			- Dependencies = { IRPYRawContainer 
+				- size = 4;
+				- value = 
+				{ IDependency 
+					- _id = GUID e2f5d158-705e-4cb9-bcf2-3b5d6e0b34c7;
+					- _myState = 2048;
+					- _name = "Gestion de Clientes";
+					- _objectCreation = "532129423320181999571053";
+					- _umlDependencyID = "3354";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8e93b036-37bd-4b3d-88af-ebec2ac4ff7f;
+					}
+				}
+				{ IDependency 
+					- _id = GUID 1cd74135-2bf4-4ea6-9299-6d02871b8987;
+					- _myState = 2048;
+					- _name = "Gestion Peticiones";
+					- _objectCreation = "532129623320181999551053";
+					- _umlDependencyID = "3373";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID da5075a2-8453-438a-810c-c98742a53990;
+					}
+				}
+				{ IDependency 
+					- _id = GUID f5db022f-4b26-40d1-9bed-c9443f938dbb;
+					- _myState = 2048;
+					- _name = "Identificaci\ón";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Identificaci\\'f3n\\par
+}
+";
+					- _objectCreation = "532129823320181999531053";
+					- _umlDependencyID = "2923";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID f763b2c4-64f6-4521-b0c8-0320656cc359;
+					}
+				}
+				{ IDependency 
+					- _id = GUID c5e8c43b-03fc-435e-9833-110998fde183;
+					- _myState = 2048;
+					- _name = "Identificaci\ón_0";
+					- _objectCreation = "532130023320181999511053";
+					- _umlDependencyID = "3048";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID f763b2c4-64f6-4521-b0c8-0320656cc359;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El coordinador t\\'e9cnico es un trabajador del departamento t\\'e9cnico de la empresa. Hay uno por cada oficina y se encarga de la gesti\\'f3n de clientes, gesti\\'f3n de peticiones, gesti\\'f3n administrativa y gesti\\'f3n de trabajadores.\\par
+}
+";
+			}
+			- _lastID = 4;
+			- weakCGTime = 10.2.2018::6:40:41;
+			- strongCGTime = 9.26.2018::9:59:40;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 8fcd5f5d-5bdd-4c8c-96ab-4cb1ab3811a2;
+					- _myState = 10240;
+					- _name = "itsGestion de Clientes";
+					- _objectCreation = "532130223320181999491053";
+					- _umlDependencyID = "3681";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8e93b036-37bd-4b3d-88af-ebec2ac4ff7f;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 5f924358-52d8-4159-892b-cb416951aaf9;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID 3938c6c7-3009-4a53-818c-c9cd32ab9c77;
+			- _myState = 8192;
+			- _name = "Cliente";
+			- _objectCreation = "532130423320181999471053";
+			- _umlDependencyID = "2300";
+			- Dependencies = { IRPYRawContainer 
+				- size = 5;
+				- value = 
+				{ IDependency 
+					- _id = GUID f26146d9-c1d8-456e-a84a-0476ce3e3e6e;
+					- _myState = 2048;
+					- _name = "Crear Presupuesto";
+					- _objectCreation = "532130623320181999451053";
+					- _umlDependencyID = "3284";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _id = GUID ed1a4602-54f0-48c5-afa9-9b8d1434ae47;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a95bd9a5-3b7b-4e6b-a291-4bdac245a67c;
+					}
+				}
+				{ IDependency 
+					- _id = GUID ec5ab4b3-cd35-4e60-bd3a-6ad7d12814ca;
+					- _name = "SOLICITA";
+					- _objectCreation = "532130823320181999431053";
+					- _umlDependencyID = "2192";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a95bd9a5-3b7b-4e6b-a291-4bdac245a67c;
+					}
+				}
+				{ IDependency 
+					- _id = GUID b24d863a-c7bf-4b7c-94ea-4c4aa76a5b98;
+					- _myState = 2048;
+					- _name = "Crear Presupuesto_0";
+					- _objectCreation = "532131023320181999411053";
+					- _umlDependencyID = "3418";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _id = GUID 71c1356f-8f68-4968-a05e-81bf494a8658;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a95bd9a5-3b7b-4e6b-a291-4bdac245a67c;
+					}
+				}
+				{ IDependency 
+					- _id = GUID bb8b6165-fd2c-4c76-8c18-dee5c97e2134;
+					- _myState = 2048;
+					- _name = "Identifcaci\ón";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Identifcaci\\'f3n\\par
+}
+";
+					- _objectCreation = "532131223320181999391053";
+					- _umlDependencyID = "2809";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID e9a18512-92b0-4b03-9b46-b56037f44aad;
+					}
+				}
+				{ IDependency 
+					- _id = GUID c93f65a1-7948-44db-9777-2a43209384cb;
+					- _name = "solicita";
+					- _objectCreation = "532131423320181999371053";
+					- _umlDependencyID = "2448";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a95bd9a5-3b7b-4e6b-a291-4bdac245a67c;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _text = "Los clientes son los encargados de solicitar un servicio a la empresa.";
+			}
+			- _lastID = 5;
+			- weakCGTime = 10.2.2018::6:40:8;
+			- strongCGTime = 9.26.2018::10:40:5;
+			- Inheritances = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IGeneralization 
+					- _id = GUID 776bafae-4228-4c27-ba56-e485518e2bda;
+					- _objectCreation = "532131623320181999351053";
+					- _umlDependencyID = "1592";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a95bd9a5-3b7b-4e6b-a291-4bdac245a67c;
+					}
+					- _inheritanceType = iPublic;
+					- _isVirtual = 0;
+				}
+			}
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 770421f0-fadd-4322-96c4-0e5b1e03a218;
+					- _myState = 10240;
+					- _name = "itsCrear Presupuesto_2";
+					- _objectCreation = "532131823320181999331053";
+					- _umlDependencyID = "3765";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a95bd9a5-3b7b-4e6b-a291-4bdac245a67c;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 77303276-5344-4d70-aff0-43df97ffc541;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID df2b8882-02d0-4a16-9024-aa49b8ddae6b;
+					- _myState = 10240;
+					- _name = "itsCrear Presupuesto";
+					- _objectCreation = "532132023320181999311053";
+					- _umlDependencyID = "3611";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a95bd9a5-3b7b-4e6b-a291-4bdac245a67c;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID ff3ea152-4d2a-481c-9fd4-2f253640907e;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+					- m_associationClass = { IHandle 
+						- _m2Class = "IAssociationClass";
+						- _id = GUID 521e405e-fc4b-4e43-b40d-121d5c00d565;
+					}
+				}
+				{ IAssociationEnd 
+					- _id = GUID 9a356f05-86b9-460f-a650-65b918252bb2;
+					- _myState = 10240;
+					- _name = "itsIdentifcaci\ón";
+					- _objectCreation = "532132223320181999291053";
+					- _umlDependencyID = "3145";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID e9a18512-92b0-4b03-9b46-b56037f44aad;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 85c75cbf-d686-42cb-985d-7c393609a07e;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID ed8180ef-89b9-40cd-9977-0620b70eb7c3;
+			- _myState = 8192;
+			- _name = "Responsable de Almacen";
+			- _objectCreation = "532132423320181999271053";
+			- _umlDependencyID = "3632";
+			- Dependencies = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IDependency 
+					- _id = GUID c8b89d6c-47fa-4de6-b620-03de87434d53;
+					- _myState = 2048;
+					- _name = "Identificaci\ón";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Identificaci\\'f3n\\par
+}
+";
+					- _objectCreation = "532132623320181999251053";
+					- _umlDependencyID = "2914";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID f763b2c4-64f6-4521-b0c8-0320656cc359;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 El responsable de almacen pertenece al departamento t\\'e9cnico y hay uno por cada oficina. Se encarga de las relaciones con los proveedores y del aprovisionamiento de las piezas y materiales necesarios para los trabajos de reparacion y mantenimiento.\\par
+}
+";
+			}
+			- _lastID = 1;
+			- weakCGTime = 9.27.2018::15:43:0;
+			- strongCGTime = 9.26.2018::10:46:51;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID a7f59bdb-a46c-4d84-9a6f-8f2eb619c229;
+			- _myState = 8192;
+			- _name = "T\écnico";
+			- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Sans Serif;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 T\\'e9ncico\\par
+}
+";
+			- _objectCreation = "532132823320181999231053";
+			- _umlDependencyID = "2200";
+			- Dependencies = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IDependency 
+					- _id = GUID 549e9a81-a34e-4ec5-9519-4ecdd323d84e;
+					- _myState = 2048;
+					- _name = "Identifcaci\ón";
+					- _displayName = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 MS Shell Dlg;}}
+\\viewkind4\\uc1\\pard\\f0\\fs17 Identifcaci\\'f3n\\par
+}
+";
+					- _objectCreation = "532133023320181999211053";
+					- _umlDependencyID = "2800";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "include";
+							- _id = GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd;
+						}
+					}
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID e9a18512-92b0-4b03-9b46-b56037f44aad;
+					}
+				}
+				{ IDependency 
+					- _id = GUID b1e2462e-42d1-4dc2-a331-e8ade1286deb;
+					- _myState = 2048;
+					- _name = "Identifcaci\ón_0";
+					- _objectCreation = "532133223320181999191053";
+					- _umlDependencyID = "2952";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID e9a18512-92b0-4b03-9b46-b56037f44aad;
+					}
+				}
+			}
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\fs20 Los t\\'e9cnicos forman parte de el departamento t\\'e9cnico y son los encargados de desplazarse a los domicilios de los clientes para realizar las reparaciones o mantenimientos oportunos.\\par
+}
+";
+			}
+			- _lastID = 2;
+			- weakCGTime = 10.2.2018::17:23:4;
+			- strongCGTime = 9.26.2018::11:6:22;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+
