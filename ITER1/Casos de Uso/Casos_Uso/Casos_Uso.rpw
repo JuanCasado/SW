@@ -57,8 +57,13 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 43fbfd57-822c-4ca2-b5f9-465091b878a8;
 			}
+<<<<<<< HEAD
 			- _UpLeft = 425 200 ;
 			- _DownRight = 959 897 ;
+=======
+			- _UpLeft = 0 91 ;
+			- _DownRight = 964 613 ;
+>>>>>>> a817d8ae940605295adec66d3136f16f24963244
 			- _instanceName = "";
 			- m_nDiagramIndex = 3;
 		}
@@ -85,8 +90,13 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Responsable de Almacen";
 				- _id = GUID e54503cc-c709-431e-b5e9-c813b52d6d1a;
 			}
+<<<<<<< HEAD
 			- _UpLeft = 36 57 ;
 			- _DownRight = 943 548 ;
+=======
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1064 600 ;
+>>>>>>> a817d8ae940605295adec66d3136f16f24963244
 			- _instanceName = "";
 			- m_nDiagramIndex = 2;
 		}
@@ -147,7 +157,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 4;
 		}
 	}
-	- _fullName = "C:\\githubsoftware\\SW\\ITER1\\Casos de Uso\\Casos_Uso\\Casos_Uso";
+	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER1\\Casos de Uso\\Casos_Uso\\Casos_Uso";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
