@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 { CGEMdiWorkspace 
 	- stubList = { IRPYRawContainer 
@@ -52,58 +51,3 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 
 }
 
-=======
-I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
-{ CGEMdiWorkspace 
-	- stubList = { IRPYRawContainer 
-		- size = 0;
-	}
-	- myViewsWithID = { IRPYRawContainer 
-		- size = 1;
-		- value = 
-		{ CGEMdiDiagramParams 
-			- _placement = { CCommon_WINDOWPLACEMENT 
-				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
-				- m_ptMinPositionX = -1;
-				- m_ptMinPositionY = -1;
-				- m_ptMaxPositionX = -8;
-				- m_ptMaxPositionY = -31;
-				- m_nLeft = 156;
-				- m_nTop = 156;
-				- m_nRight = 927;
-				- m_nBottom = 534;
-			}
-			- _wasOpenedOnCloseProject = 1;
-			- _theDiagram = { IHandle 
-				- _m2Class = "IDiagram";
-				- _filename = "";
-				- _subsystem = "";
-				- _class = "";
-				- _name = "Model1";
-				- _id = GUID fb709e07-9c24-4921-8c9e-37f0af574e7f;
-			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 1296 698 ;
-			- _instanceName = "";
-			- m_nDiagramIndex = 0;
-		}
-	}
-	- _fullName = "D:\\gituni\\SW\\ITER1\\Casos de Uso\\Diagrama_Estados\\Diagrama_Estados";
-	- m_SearchScopeList = { IRPYRawContainer 
-		- size = 0;
-	}
-
-	- m_favoritesTree = {
-		count=1;
-		{ - favoritesItem
-			generation = 0;
-			name = Favorites;
-			idOrFolder = folder;
-		}
-	}
-
-}
-
->>>>>>> dc54b945adf44a5e5bd532723bd30534cd49bb54
