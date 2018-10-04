@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 10, 04, 2018 (13:22:45): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
 10, 04, 2018 (13:22:45): 
  Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Thursday, October 04, 2018 (13:22:45).-
@@ -106,3 +107,113 @@ Finished inUnit resolution phase
 10, 04, 2018 (13:22:46): Starting checks of EventsBaseID conflicts
 10, 04, 2018 (13:22:46): Finished checks of EventsBaseID conflicts
 10, 04, 2018 (13:22:46): End Log
+=======
+10, 04, 2018 (12:05:13): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
+10, 04, 2018 (12:05:13): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): 
+
+Starting inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+
+Finished inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs
+10, 04, 2018 (12:05:13): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): 
+
+Starting inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+
+Finished inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Diagrama_Estados\Diagrama_Estados.rpy
+10, 04, 2018 (12:05:13): 
+ Started loading D:\gituni\SW\ITER1\Casos de Uso\Diagrama_Estados\Diagrama_Estados.rpy on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Diagrama_Estados\Diagrama_Estados_rpy\Default.sbs
+10, 04, 2018 (12:05:13): 
+ Started loading D:\gituni\SW\ITER1\Casos de Uso\Diagrama_Estados\Diagrama_Estados_rpy\Default.sbs on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): 
+
+Starting inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+
+Finished inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+ Finished loading D:\gituni\SW\ITER1\Casos de Uso\Diagrama_Estados\Diagrama_Estados_rpy\Default.sbs on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Diagrama_Estados\Diagrama_Estados_rpy\DefaultComponent.cmp
+10, 04, 2018 (12:05:13): 
+ Started loading D:\gituni\SW\ITER1\Casos de Uso\Diagrama_Estados\Diagrama_Estados_rpy\DefaultComponent.cmp on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): 
+
+Starting inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+
+Finished inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+ Finished loading D:\gituni\SW\ITER1\Casos de Uso\Diagrama_Estados\Diagrama_Estados_rpy\DefaultComponent.cmp on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): 
+
+Starting inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+
+Finished inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+
+Starting inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+
+Finished inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+
+Starting inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+
+Finished inUnit resolution phase
+
+
+10, 04, 2018 (12:05:13): 
+ Finished loading D:\gituni\SW\ITER1\Casos de Uso\Diagrama_Estados\Diagrama_Estados.rpy on Thursday, October 04, 2018 (12:05:13).-
+
+10, 04, 2018 (12:05:13): Starting checks of EventsBaseID conflicts
+10, 04, 2018 (12:05:13): Finished checks of EventsBaseID conflicts
+10, 04, 2018 (12:05:13): End Log
+>>>>>>> dc54b945adf44a5e5bd532723bd30534cd49bb54
