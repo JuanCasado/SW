@@ -1,108 +1,108 @@
-10, 02, 2018 (10:00:54): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
-10, 02, 2018 (10:00:54): 
- Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Tuesday, October 02, 2018 (10:00:54).-
+10, 04, 2018 (12:05:52): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
+10, 04, 2018 (12:05:52): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Thursday, October 04, 2018 (12:05:52).-
 
-10, 02, 2018 (10:00:54): 
-
-Starting inUnit resolution phase
-
-
-10, 02, 2018 (10:00:54): 
-
-Finished inUnit resolution phase
-
-
-10, 02, 2018 (10:00:54): 
- Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Tuesday, October 02, 2018 (10:00:54).-
-
-10, 02, 2018 (10:00:54): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs
-10, 02, 2018 (10:00:54): 
- Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Tuesday, October 02, 2018 (10:00:54).-
-
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
 
 Starting inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
 
 Finished inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
- Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Tuesday, October 02, 2018 (10:00:54).-
+10, 04, 2018 (12:05:52): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Thursday, October 04, 2018 (12:05:52).-
 
-10, 02, 2018 (10:00:54): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy
-10, 02, 2018 (10:00:54): 
- Started loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Tuesday, October 02, 2018 (10:00:54).-
+10, 04, 2018 (12:05:52): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs
+10, 04, 2018 (12:05:52): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Thursday, October 04, 2018 (12:05:52).-
 
-10, 02, 2018 (10:00:54): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\Default.sbs
-10, 02, 2018 (10:00:54): 
- Started loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\Default.sbs on Tuesday, October 02, 2018 (10:00:54).-
-
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
 
 Starting inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
 
 Finished inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
- Finished loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\Default.sbs on Tuesday, October 02, 2018 (10:00:54).-
+10, 04, 2018 (12:05:52): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Thursday, October 04, 2018 (12:05:52).-
 
-10, 02, 2018 (10:00:54): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\DefaultComponent.cmp
-10, 02, 2018 (10:00:54): 
- Started loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\DefaultComponent.cmp on Tuesday, October 02, 2018 (10:00:54).-
+10, 04, 2018 (12:05:52): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy
+10, 04, 2018 (12:05:52): 
+ Started loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Thursday, October 04, 2018 (12:05:52).-
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\Default.sbs
+10, 04, 2018 (12:05:52): 
+ Started loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\Default.sbs on Thursday, October 04, 2018 (12:05:52).-
+
+10, 04, 2018 (12:05:52): 
 
 Starting inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
 
 Finished inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
- Finished loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\DefaultComponent.cmp on Tuesday, October 02, 2018 (10:00:54).-
+10, 04, 2018 (12:05:52): 
+ Finished loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\Default.sbs on Thursday, October 04, 2018 (12:05:52).-
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\DefaultComponent.cmp
+10, 04, 2018 (12:05:52): 
+ Started loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\DefaultComponent.cmp on Thursday, October 04, 2018 (12:05:52).-
+
+10, 04, 2018 (12:05:52): 
 
 Starting inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
 
 Finished inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
+ Finished loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso_rpy\DefaultComponent.cmp on Thursday, October 04, 2018 (12:05:52).-
+
+10, 04, 2018 (12:05:52): 
 
 Starting inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
 
 Finished inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
 
 Starting inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
+10, 04, 2018 (12:05:52): 
 
 Finished inUnit resolution phase
 
 
-10, 02, 2018 (10:00:54): 
- Finished loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Tuesday, October 02, 2018 (10:00:54).-
+10, 04, 2018 (12:05:52): 
 
-10, 02, 2018 (10:00:54): Starting checks of EventsBaseID conflicts
-10, 02, 2018 (10:00:54): Finished checks of EventsBaseID conflicts
-10, 02, 2018 (10:00:54): End Log
+Starting inUnit resolution phase
+
+
+10, 04, 2018 (12:05:52): 
+
+Finished inUnit resolution phase
+
+
+10, 04, 2018 (12:05:52): 
+ Finished loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso\Casos_Uso.rpy on Thursday, October 04, 2018 (12:05:52).-
+
+10, 04, 2018 (12:05:52): Starting checks of EventsBaseID conflicts
+10, 04, 2018 (12:05:52): Finished checks of EventsBaseID conflicts
+10, 04, 2018 (12:05:52): End Log
