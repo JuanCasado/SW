@@ -141,8 +141,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "StatechartDiagram";
 				- _id = GUID b652bfb0-f174-4819-97a5-a5fcd7e9a634;
 			}
-			- _UpLeft = -92 0 ;
-			- _DownRight = 855 1245 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1396 862 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
