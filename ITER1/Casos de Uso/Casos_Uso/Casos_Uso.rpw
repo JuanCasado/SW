@@ -9,8 +9,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -30,7 +30,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 3f26b3c2-7fdd-4dd1-be3e-f6173cb69e6a;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 964 522 ;
+			- _DownRight = 934 1130 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 1;
 		}
@@ -57,8 +57,13 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 43fbfd57-822c-4ca2-b5f9-465091b878a8;
 			}
+<<<<<<< HEAD
 			- _UpLeft = 0 0 ;
 			- _DownRight = 964 522 ;
+=======
+			- _UpLeft = 81 0 ;
+			- _DownRight = 1045 522 ;
+>>>>>>> a6d0035a63f059d60029d9b49494108a9768a58f
 			- _instanceName = "";
 			- m_nDiagramIndex = 4;
 		}
@@ -85,8 +90,13 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Responsable de Almacen";
 				- _id = GUID e54503cc-c709-431e-b5e9-c813b52d6d1a;
 			}
+<<<<<<< HEAD
 			- _UpLeft = 100 0 ;
 			- _DownRight = 652 299 ;
+=======
+			- _UpLeft = 152 20 ;
+			- _DownRight = 1059 511 ;
+>>>>>>> a6d0035a63f059d60029d9b49494108a9768a58f
 			- _instanceName = "";
 			- m_nDiagramIndex = 3;
 		}
@@ -114,7 +124,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 6c97560a-a914-4666-adcf-68c4e7f4ce11;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 762 413 ;
+			- _DownRight = 896 486 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 2;
 		}
@@ -175,7 +185,11 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 5;
 		}
 	}
+<<<<<<< HEAD
 	- _fullName = "D:\\gituni\\SW\\ITER1\\Casos de Uso\\Casos_Uso\\Casos_Uso";
+=======
+	- _fullName = "M:\\UNIVERSIDAD\\REPOSITORIOS\\SW\\ITER1\\Casos de Uso\\Casos_Uso\\Casos_Uso";
+>>>>>>> a6d0035a63f059d60029d9b49494108a9768a58f
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
