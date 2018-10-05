@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 2d0f5bc8-f2d4-4545-b840-ce4d968b82d2;
 	- _myState = 8192;
 	- _name = "Casos_Uso";
-	- _objectCreation = "2010652244201819116891020";
-	- _umlDependencyID = "2541";
+	- _objectCreation = "262863959201813280641026";
+	- _umlDependencyID = "2512";
 	- _lastID = 3;
 	- _UserColors = { IRPYRawContainer 
 		- size = 16;
@@ -61,8 +61,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 			- _id = GUID 3786080e-ce76-4fa2-8d1a-e1b5c39e3784;
 			- _myState = 8192;
 			- _name = "Model1";
-			- _objectCreation = "2010906244201819114351020";
-			- _umlDependencyID = "2167";
+			- _objectCreation = "262864159201813280621026";
+			- _umlDependencyID = "2138";
 			- _lastModifiedTime = "9.26.2018::9:57:29";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 7ed12afa-79ba-4791-a7c3-9111f564ec6c;
@@ -450,8 +450,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Coordinador";
-			- _objectCreation = "2010916244201819114251020";
-			- _umlDependencyID = "3566";
+			- _objectCreation = "262864359201813280601026";
+			- _umlDependencyID = "3537";
 			- _lastModifiedTime = "10.2.2018::7:39:28";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 74c7805f-90ca-437f-bfaa-0ade00c4189b;
@@ -2784,8 +2784,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Responsable de Almacen";
-			- _objectCreation = "2010918244201819114231020";
-			- _umlDependencyID = "4466";
+			- _objectCreation = "262864559201813280581026";
+			- _umlDependencyID = "4446";
 			- _description = { IDescription 
 				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
 \\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede modificar la informaci\\'f3n referida a los art\\'edculos de un proveedor (a\\'f1adir nuevos art\\'edculos, eliminar art\\'edculos y modificar informaci\\'f3n de los art\\'edculos).\\f1\\fs20\\par
@@ -4716,8 +4716,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones de los T\écnicos";
-			- _objectCreation = "2010920244201819114211020";
-			- _umlDependencyID = "3675";
+			- _objectCreation = "262864759201813280561026";
+			- _umlDependencyID = "3664";
 			- _lastModifiedTime = "10.2.2018::17:35:23";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 5863ead8-6ed7-466f-902b-c078ba22aed2;
@@ -5567,9 +5567,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Cliente";
-			- _objectCreation = "2010922244201819114191020";
-			- _umlDependencyID = "3134";
-			- _lastModifiedTime = "10.2.2018::6:40:14";
+			- _objectCreation = "262864959201813280541026";
+			- _umlDependencyID = "3114";
+			- _lastModifiedTime = "10.5.2018::11:4:29";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 26430b64-fca0-4095-9947-f8aba79568aa;
 				- m_type = 0;
@@ -5787,12 +5787,12 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- _filename = "Default.sbs";
 						- _subsystem = "Default";
 						- _class = "";
-						- _name = "Contartar con Coordinador T\écnico";
+						- _name = "Contactar con Coordinador T\écnico";
 						- _id = GUID beffacdf-70da-4bbf-b0df-fc4bf6b85412;
 					}
 					- m_pParent = GUID 01abd4b2-9335-429e-9b7e-010622b5500c;
 					- m_name = { CGIText 
-						- m_str = "Contartar con Coordinador T\écnico";
+						- m_str = "Contactar con Coordinador T\écnico";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -6304,7 +6304,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- _filename = "Default.sbs";
 						- _subsystem = "Default";
 						- _class = "Gesti\ón Peticiones";
-						- _name = "Contartar con Coordinador T\écnico";
+						- _name = "Contactar con Coordinador T\écnico";
 						- _id = GUID bf76eb68-865d-44f5-b868-4a10509be012;
 					}
 					- m_pParent = ;
