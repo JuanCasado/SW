@@ -99,6 +99,34 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
 				- m_ptMaxPositionY = -31;
+				- m_nLeft = 26;
+				- m_nTop = 26;
+				- m_nRight = 758;
+				- m_nBottom = 360;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Acciones Sistema";
+				- _id = GUID f1c01f4e-8847-406b-b409-279e20f5fb65;
+			}
+			- _UpLeft = 0 50 ;
+			- _DownRight = 695 324 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
 				- m_nLeft = 130;
 				- m_nTop = 130;
 				- m_nRight = 929;
@@ -145,34 +173,6 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- _DownRight = 907 313 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 5;
-		}
-		{ CGEMdiDiagramParams 
-			- _placement = { CCommon_WINDOWPLACEMENT 
-				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
-				- m_ptMinPositionX = -1;
-				- m_ptMinPositionY = -1;
-				- m_ptMaxPositionX = -8;
-				- m_ptMaxPositionY = -31;
-				- m_nLeft = 26;
-				- m_nTop = 26;
-				- m_nRight = 758;
-				- m_nBottom = 360;
-			}
-			- _wasOpenedOnCloseProject = 1;
-			- _theDiagram = { IHandle 
-				- _m2Class = "IUCDiagram";
-				- _filename = "";
-				- _subsystem = "";
-				- _class = "";
-				- _name = "Sistema";
-				- _id = GUID f1c01f4e-8847-406b-b409-279e20f5fb65;
-			}
-			- _UpLeft = 0 50 ;
-			- _DownRight = 695 324 ;
-			- _instanceName = "";
-			- m_nDiagramIndex = 0;
 		}
 	}
 	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER1\\Casos de Uso\\Casos_Uso\\Casos_Uso";
