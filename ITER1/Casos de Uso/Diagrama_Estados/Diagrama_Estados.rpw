@@ -30,12 +30,12 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID fb709e07-9c24-4921-8c9e-37f0af574e7f;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1309 944 ;
+			- _DownRight = 2394 948 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
 	}
-	- _fullName = "\\\\Mac\\Home\\Documents\\UAH_2018_2019\\SW\\LAB\\ITER1\\Casos de Uso\\Diagrama_Estados\\Diagrama_Estados";
+	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER1\\Casos de Uso\\Diagrama_Estados\\Diagrama_Estados";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
