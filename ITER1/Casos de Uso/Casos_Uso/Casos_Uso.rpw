@@ -113,8 +113,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Sistema";
 				- _id = GUID f1c01f4e-8847-406b-b409-279e20f5fb65;
 			}
-			- _UpLeft = 0 50 ;
-			- _DownRight = 1012 736 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1578 1195 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
@@ -175,7 +175,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 5;
 		}
 	}
-	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER1\\Casos de Uso\\Casos_Uso\\Casos_Uso";
+	- _fullName = "\\\\Mac\\Home\\Documents\\UAH_2018_2019\\SW\\LAB\\ITER1\\Casos de Uso\\Casos_Uso\\Casos_Uso";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
