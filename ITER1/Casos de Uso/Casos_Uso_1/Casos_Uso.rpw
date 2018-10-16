@@ -29,8 +29,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 43fbfd57-822c-4ca2-b5f9-465091b878a8;
 			}
-			- _UpLeft = 177 80 ;
-			- _DownRight = 1016 938 ;
+			- _UpLeft = 0 20 ;
+			- _DownRight = 1659 1144 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 3;
 		}
@@ -147,7 +147,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 4;
 		}
 	}
-	- _fullName = "M:\\UNIVERSIDAD\\REPOSITORIOS\\SW\\ITER1\\Casos de Uso\\Casos_Uso_1\\Casos_Uso";
+	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER1\\Casos de Uso\\Casos_Uso_1\\Casos_Uso";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
