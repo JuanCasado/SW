@@ -1,21 +1,35 @@
-10, 13, 2018 (17:36:28): Starting Pre-Save actions
+10, 19, 2018 (17:43:15): Starting Pre-Save actions
 
-10, 13, 2018 (17:36:28): Starting Dialogs Check/Save
-10, 13, 2018 (17:36:28): Finished Dialogs Check/Save
-10, 13, 2018 (17:36:28): Starting Controlled Files Resolution
-10, 13, 2018 (17:36:28): Finished Controlled Files Resolution
-10, 13, 2018 (17:36:28): Finished Pre-Save actions
+10, 19, 2018 (17:43:15): Starting Dialogs Check/Save
+10, 19, 2018 (17:43:15): Finished Dialogs Check/Save
+10, 19, 2018 (17:43:15): Starting Controlled Files Resolution
+10, 19, 2018 (17:43:15): Finished Controlled Files Resolution
+10, 19, 2018 (17:43:15): Finished Pre-Save actions
 
-10, 13, 2018 (17:36:28): Creating M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy
-10, 13, 2018 (17:36:28): 
-Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy on Saturday, October 13, 2018 (17:36:28)
+10, 19, 2018 (17:43:15): Creating M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy
+10, 19, 2018 (17:43:15): 
+Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy on Friday, October 19, 2018 (17:43:15)
 
-10, 13, 2018 (17:36:28): version 8.5.2
-10, 13, 2018 (17:36:28): 
-Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\filesTable.dat on Saturday, October 13, 2018 (17:36:28)
+10, 19, 2018 (17:43:15): version 8.5.2
+10, 19, 2018 (17:43:15): 
+Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\filesTable.dat on Friday, October 19, 2018 (17:43:15)
 
-10, 13, 2018 (17:36:28): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\filesTable.dat on Saturday, October 13, 2018 (17:36:28)
+10, 19, 2018 (17:43:15): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\filesTable.dat on Friday, October 19, 2018 (17:43:15)
 
-10, 13, 2018 (17:36:28): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy on Saturday, October 13, 2018 (17:36:28)
+10, 19, 2018 (17:43:15): Creating M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\Default.sbs
+10, 19, 2018 (17:43:15): 
+Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\Default.sbs on Friday, October 19, 2018 (17:43:15)
 
-10, 13, 2018 (17:36:28): End Log
+10, 19, 2018 (17:43:15): version 8.5.2
+10, 19, 2018 (17:43:15): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\Default.sbs on Friday, October 19, 2018 (17:43:15)
+
+10, 19, 2018 (17:43:15): Creating M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\DefaultComponent.cmp
+10, 19, 2018 (17:43:15): 
+Started writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\DefaultComponent.cmp on Friday, October 19, 2018 (17:43:15)
+
+10, 19, 2018 (17:43:15): version 8.5.2
+10, 19, 2018 (17:43:15): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\DefaultComponent.cmp on Friday, October 19, 2018 (17:43:15)
+
+10, 19, 2018 (17:43:15): Finished writing M:\UNIVERSIDAD\REPOSITORIOS\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy on Friday, October 19, 2018 (17:43:15)
+
+10, 19, 2018 (17:43:15): End Log
