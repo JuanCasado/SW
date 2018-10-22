@@ -30,7 +30,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 3f26b3c2-7fdd-4dd1-be3e-f6173cb69e6a;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1814 983 ;
+			- _DownRight = 1172 635 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 14;
 		}
@@ -57,8 +57,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 43fbfd57-822c-4ca2-b5f9-465091b878a8;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 1291 700 ;
+			- _UpLeft = 0 26 ;
+			- _DownRight = 964 548 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 17;
 		}
@@ -86,11 +86,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID e54503cc-c709-431e-b5e9-c813b52d6d1a;
 			}
 			- _UpLeft = -31 0 ;
-<<<<<<< HEAD
-			- _DownRight = 1414 935 ;
-=======
-			- _DownRight = 1349 867 ;
->>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
+			- _DownRight = 1336 885 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 16;
 		}
@@ -543,7 +539,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 18;
 		}
 	}
-	- _fullName = "C:\\Users\\Usuario\\OneDrive\\UNIVERSIDAD\\TERCER CURSO\\INGENIERIA DEL SOFTWARE AVANZADA\\LABORATORIO\\SW\\ITER1\\Casos de Uso\\Casos_Uso_2_y_3\\Casos_Uso";
+	- _fullName = "D:\\Casos de Uso\\Casos_Uso_2_y_3\\Casos_Uso";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
