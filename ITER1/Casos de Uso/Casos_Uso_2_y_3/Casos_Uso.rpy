@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 2d0f5bc8-f2d4-4545-b840-ce4d968b82d2;
 	- _myState = 8192;
 	- _name = "Casos_Uso";
-	- _objectCreation = "15710819432018171851015";
-	- _umlDependencyID = "2449";
+	- _objectCreation = "1429092223020181517771014";
+	- _umlDependencyID = "2545";
 	- _lastID = 4;
 	- _UserColors = { IRPYRawContainer 
 		- size = 16;
@@ -61,8 +61,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 			- _id = GUID 3786080e-ce76-4fa2-8d1a-e1b5c39e3784;
 			- _myState = 8192;
 			- _name = "Model1";
-			- _objectCreation = "1575741943201817-2811015";
-			- _umlDependencyID = "2133";
+			- _objectCreation = "1429094223020181517751014";
+			- _umlDependencyID = "2180";
 			- _lastModifiedTime = "9.26.2018::9:57:29";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 7ed12afa-79ba-4791-a7c3-9111f564ec6c;
@@ -450,9 +450,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Coordinador";
-			- _objectCreation = "1575841943201817-2911015";
-			- _umlDependencyID = "3534";
-			- _lastModifiedTime = "10.19.2018::15:32:14";
+			- _objectCreation = "1429096223020181517731014";
+			- _umlDependencyID = "3579";
+			- _lastModifiedTime = "10.21.2018::17:36:15";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 74c7805f-90ca-437f-bfaa-0ade00c4189b;
 				- m_type = 0;
@@ -2706,15 +2706,15 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Responsable de Almacen";
-			- _objectCreation = "1575861943201817-2931015";
-			- _umlDependencyID = "4438";
+			- _objectCreation = "1429098223020181517711014";
+			- _umlDependencyID = "4479";
 			- _description = { IDescription 
 				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
 \\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede modificar la informaci\\'f3n referida a los art\\'edculos de un proveedor (a\\'f1adir nuevos art\\'edculos, eliminar art\\'edculos y modificar informaci\\'f3n de los art\\'edculos).\\f1\\fs20\\par
 }
 ";
 			}
-			- _lastModifiedTime = "10.19.2018::15:30:6";
+			- _lastModifiedTime = "10.21.2018::11:6:16";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID a6437642-e388-4a90-9935-267cb308233a;
 				- m_type = 0;
@@ -4670,9 +4670,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones de los T\écnicos";
-			- _objectCreation = "1575881943201817-2951015";
-			- _umlDependencyID = "3660";
-			- _lastModifiedTime = "10.19.2018::15:31:56";
+			- _objectCreation = "1429100223020181517691014";
+			- _umlDependencyID = "3688";
+			- _lastModifiedTime = "10.21.2018::16:3:43";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 5863ead8-6ed7-466f-902b-c078ba22aed2;
 				- m_type = 0;
@@ -5695,9 +5695,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Cliente";
-			- _objectCreation = "1575901943201817-2971015";
-			- _umlDependencyID = "3105";
-			- _lastModifiedTime = "10.19.2018::15:33:28";
+			- _objectCreation = "1429102223020181517671014";
+			- _umlDependencyID = "3138";
+			- _lastModifiedTime = "10.21.2018::17:36:15";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 26430b64-fca0-4095-9947-f8aba79568aa;
 				- m_type = 0;
@@ -6801,7 +6801,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 			- _myState = 8192;
 			- _properties = { IPropertyContainer 
 				- Subjects = { IRPYRawContainer 
-					- size = 1;
+					- size = 2;
 					- value = 
 					{ IPropertySubject 
 						- _Name = "Format";
@@ -6995,12 +6995,36 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							}
 						}
 					}
+					{ IPropertySubject 
+						- _Name = "General";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "Graphics";
+								- Properties = { IRPYRawContainer 
+									- size = 2;
+									- value = 
+									{ IProperty 
+										- _Name = "MaintainWindowContent";
+										- _Value = "True";
+										- _Type = Bool;
+									}
+									{ IProperty 
+										- _Name = "grid_display";
+										- _Value = "False";
+										- _Type = Bool;
+									}
+								}
+							}
+						}
+					}
 				}
 			}
 			- _name = "Acciones Sistema";
-			- _objectCreation = "1575921943201817-2991015";
-			- _umlDependencyID = "3127";
-			- _lastModifiedTime = "10.19.2018::15:36:7";
+			- _objectCreation = "1429104223020181517651014";
+			- _umlDependencyID = "3156";
+			- _lastModifiedTime = "10.21.2018::16:42:2";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 99794fdc-9644-4e7c-b795-4d4c5c469561;
 				- m_type = 0;
