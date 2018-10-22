@@ -86,7 +86,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID e54503cc-c709-431e-b5e9-c813b52d6d1a;
 			}
 			- _UpLeft = -31 0 ;
-			- _DownRight = 2632 1723 ;
+			- _DownRight = 1349 867 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 16;
 		}
@@ -225,8 +225,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "ActivityDiagram";
 				- _id = GUID a8f74ab4-45b4-421f-b3d0-046c9b303c55;
 			}
-			- _UpLeft = 174 0 ;
-			- _DownRight = 887 726 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 713 726 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 1;
 		}
@@ -253,8 +253,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "ActivityDiagram";
 				- _id = GUID efeba2ac-219f-4cd0-a319-3ac01312242e;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 302 523 ;
+			- _UpLeft = 0 140 ;
+			- _DownRight = 302 663 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
@@ -539,7 +539,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 18;
 		}
 	}
-	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER1\\Casos de Uso\\Casos_Uso_2_y_3\\Casos_Uso";
+	- _fullName = "C:\\Users\\Usuario\\OneDrive\\UNIVERSIDAD\\TERCER CURSO\\INGENIERIA DEL SOFTWARE AVANZADA\\LABORATORIO\\SW\\ITER1\\Casos de Uso\\Casos_Uso_2_y_3\\Casos_Uso";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
