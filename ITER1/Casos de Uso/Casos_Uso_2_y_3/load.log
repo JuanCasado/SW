@@ -1,17 +1,30 @@
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
 10, 22, 2018 (19:53:16): 
  Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Monday, October 22, 2018 (19:53:16).-
 
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
+10, 22, 2018 (16:55:19): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
  Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Monday, October 22, 2018 (19:53:16).-
 
@@ -20,15 +33,30 @@ Finished inUnit resolution phase
  Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Monday, October 22, 2018 (19:53:16).-
 
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs
+10, 22, 2018 (16:55:19): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
  Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Monday, October 22, 2018 (19:53:16).-
 
@@ -41,15 +69,34 @@ Finished inUnit resolution phase
  Started loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\Default.sbs on Monday, October 22, 2018 (19:53:16).-
 
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): Opening rpy file C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy
+10, 22, 2018 (16:55:19): 
+ Started loading C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): Opening rpy file C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\Default.sbs
+10, 22, 2018 (16:55:19): 
+ Started loading C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\Default.sbs on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\Default.sbs on Monday, October 22, 2018 (19:53:16).-
 
@@ -58,51 +105,101 @@ Finished inUnit resolution phase
  Started loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\DefaultComponent.cmp on Monday, October 22, 2018 (19:53:16).-
 
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+ Finished loading C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\Default.sbs on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): Opening rpy file C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\DefaultComponent.cmp
+10, 22, 2018 (16:55:19): 
+ Started loading C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\DefaultComponent.cmp on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\DefaultComponent.cmp on Monday, October 22, 2018 (19:53:16).-
 
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+ Finished loading C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso_rpy\DefaultComponent.cmp on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
+=======
+10, 22, 2018 (16:55:19): 
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 10, 22, 2018 (19:53:16): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy on Monday, October 22, 2018 (19:53:16).-
 
 10, 22, 2018 (19:53:16): Starting checks of EventsBaseID conflicts
 10, 22, 2018 (19:53:16): Finished checks of EventsBaseID conflicts
 10, 22, 2018 (19:53:16): End Log
+=======
+10, 22, 2018 (16:55:19): 
+ Finished loading C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER1\Casos de Uso\Casos_Uso_2_y_3\Casos_Uso.rpy on Monday, October 22, 2018 (16:55:19).-
+
+10, 22, 2018 (16:55:19): Starting checks of EventsBaseID conflicts
+10, 22, 2018 (16:55:19): Finished checks of EventsBaseID conflicts
+10, 22, 2018 (16:55:19): End Log
+>>>>>>> 52a6d6e284f6ce88a0029cbb521c628ab36167e1
