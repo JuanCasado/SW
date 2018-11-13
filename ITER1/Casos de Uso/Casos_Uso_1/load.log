@@ -1,17 +1,30 @@
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
 11, 13, 2018 (08:15:43): 
  Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Tuesday, November 13, 2018 (08:15:43).-
 
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
+11, 07, 2018 (13:44:21): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
  Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Tuesday, November 13, 2018 (08:15:43).-
 
@@ -20,15 +33,30 @@ Finished inUnit resolution phase
  Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Tuesday, November 13, 2018 (08:15:43).-
 
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs
+11, 07, 2018 (13:44:21): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
  Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Tuesday, November 13, 2018 (08:15:43).-
 
@@ -41,15 +69,34 @@ Finished inUnit resolution phase
  Started loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\Default.sbs on Tuesday, November 13, 2018 (08:15:43).-
 
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso.rpy
+11, 07, 2018 (13:44:21): 
+ Started loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso.rpy on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\Default.sbs
+11, 07, 2018 (13:44:21): 
+ Started loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\Default.sbs on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\Default.sbs on Tuesday, November 13, 2018 (08:15:43).-
 
@@ -58,51 +105,101 @@ Finished inUnit resolution phase
  Started loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\DefaultComponent.cmp on Tuesday, November 13, 2018 (08:15:43).-
 
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+ Finished loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\Default.sbs on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): Opening rpy file D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\DefaultComponent.cmp
+11, 07, 2018 (13:44:21): 
+ Started loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\DefaultComponent.cmp on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\DefaultComponent.cmp on Tuesday, November 13, 2018 (08:15:43).-
 
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+ Finished loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso_rpy\DefaultComponent.cmp on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
+=======
+11, 07, 2018 (13:44:21): 
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 11, 13, 2018 (08:15:43): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso.rpy on Tuesday, November 13, 2018 (08:15:43).-
 
 11, 13, 2018 (08:15:43): Starting checks of EventsBaseID conflicts
 11, 13, 2018 (08:15:43): Finished checks of EventsBaseID conflicts
 11, 13, 2018 (08:15:43): End Log
+=======
+11, 07, 2018 (13:44:21): 
+ Finished loading D:\gituni\SW\ITER1\Casos de Uso\Casos_Uso_1\Casos_Uso.rpy on Wednesday, November 07, 2018 (13:44:21).-
+
+11, 07, 2018 (13:44:21): Starting checks of EventsBaseID conflicts
+11, 07, 2018 (13:44:21): Finished checks of EventsBaseID conflicts
+11, 07, 2018 (13:44:21): End Log
+>>>>>>> 6a689e1b30e13a5600e710cd1c51cc741193d725
