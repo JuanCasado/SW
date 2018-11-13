@@ -29,8 +29,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 43fbfd57-822c-4ca2-b5f9-465091b878a8;
 			}
-			- _UpLeft = 0 6 ;
-			- _DownRight = 1172 641 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1172 635 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 16;
 		}
@@ -169,8 +169,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "ActivityDiagram";
 				- _id = GUID 9d14e510-af57-4806-9a5f-7ba6b9cd3b47;
 			}
-			- _UpLeft = 0 302 ;
-			- _DownRight = 1945 1250 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1945 948 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 10;
 		}
@@ -225,8 +225,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "ActivityDiagram";
 				- _id = GUID f00190ed-2b1c-4548-aee2-26ec4934cdcc;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 489 523 ;
+			- _UpLeft = 17 0 ;
+			- _DownRight = 506 523 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
@@ -281,8 +281,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "StatechartDiagram";
 				- _id = GUID 90a63944-8351-4d63-9252-1869535f7e04;
 			}
-			- _UpLeft = 91 170 ;
-			- _DownRight = 1501 770 ;
+			- _UpLeft = 0 7 ;
+			- _DownRight = 1967 940 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 12;
 		}
@@ -393,8 +393,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "ActivityDiagram";
 				- _id = GUID f18b2207-1045-4e85-8042-7d818ce3b0b0;
 			}
-			- _UpLeft = 503 0 ;
-			- _DownRight = 992 523 ;
+			- _UpLeft = 7 0 ;
+			- _DownRight = 496 523 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 5;
 		}
