@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 2d0f5bc8-f2d4-4545-b840-ce4d968b82d2;
 	- _myState = 8192;
 	- _name = "Casos_Uso";
-	- _objectCreation = "582849730320189-8561058";
-	- _umlDependencyID = "2469";
+	- _objectCreation = "2216034132520188108421122";
+	- _umlDependencyID = "2535";
 	- _lastID = 4;
 	- _UserColors = { IRPYRawContainer 
 		- size = 16;
@@ -61,8 +61,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 			- _id = GUID 3786080e-ce76-4fa2-8d1a-e1b5c39e3784;
 			- _myState = 8192;
 			- _name = "Model1";
-			- _objectCreation = "582992330320189-22821058";
-			- _umlDependencyID = "2142";
+			- _objectCreation = "2216036132520188108401122";
+			- _umlDependencyID = "2170";
 			- _lastModifiedTime = "9.26.2018::9:57:29";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 7ed12afa-79ba-4791-a7c3-9111f564ec6c;
@@ -462,9 +462,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Coordinador";
-			- _objectCreation = "582992530320189-22841058";
-			- _umlDependencyID = "3545";
-			- _lastModifiedTime = "10.23.2018::6:17:56";
+			- _objectCreation = "2216038132520188108381122";
+			- _umlDependencyID = "3578";
+			- _lastModifiedTime = "11.13.2018::7:24:16";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 74c7805f-90ca-437f-bfaa-0ade00c4189b;
 				- m_type = 0;
@@ -1942,7 +1942,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.115146 0 0 0.0532213 851.23 1195.05 ;
+					- m_transform = 0.117803 0 0 0.0728291 851.235 1195.07 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -4152,8 +4152,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Responsable de Almacen";
-			- _objectCreation = "582992730320189-22861058";
-			- _umlDependencyID = "4449";
+			- _objectCreation = "2216040132520188108361122";
+			- _umlDependencyID = "4469";
 			- _description = { IDescription 
 				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
 \\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede modificar la informaci\\'f3n referida a los art\\'edculos de un proveedor (a\\'f1adir nuevos art\\'edculos, eliminar art\\'edculos y modificar informaci\\'f3n de los art\\'edculos).\\f1\\fs20\\par
@@ -6632,8 +6632,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones de los T\écnicos";
-			- _objectCreation = "582992930320189-22881058";
-			- _umlDependencyID = "3671";
+			- _objectCreation = "2216042132520188108341122";
+			- _umlDependencyID = "3687";
 			- _lastModifiedTime = "10.22.2018::13:26:47";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 5863ead8-6ed7-466f-902b-c078ba22aed2;
@@ -7657,8 +7657,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Sistema";
-			- _objectCreation = "582993130320189-22901058";
-			- _umlDependencyID = "3125";
+			- _objectCreation = "2216044132520188108321122";
+			- _umlDependencyID = "3155";
 			- _lastModifiedTime = "10.30.2018::8:0:7";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 99794fdc-9644-4e7c-b795-4d4c5c469561;
