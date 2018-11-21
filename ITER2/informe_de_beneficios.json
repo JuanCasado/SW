@@ -1,0 +1,18 @@
+"Informe de beneficios" : {
+	"@fecha" : "1940-10-09",
+	"@oficina" : "dirección",
+	"ingresos": "integer",
+	"gastos" : {
+		"compra" : "integer",
+		"investigacion" : "integer",
+		"extra" : "integer",
+		"pagos" : {
+			"total" : "integer",
+			"media" : "integer"
+		}
+	},
+	"beneficios" : {
+		"periodo" : "integer",
+		"media" : "integer"
+	}
+}
