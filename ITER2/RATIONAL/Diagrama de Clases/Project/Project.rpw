@@ -30,12 +30,12 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 76a22989-eb5b-4599-a809-80882a427ca0;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1012 686 ;
+			- _DownRight = 1626 884 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
 	}
-	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER1\\RATIONAL\\Diagrama de Clases\\Project\\Project";
+	- _fullName = "M:\\UNIVERSIDAD\\REPOSITORIOS\\SW\\ITER2\\RATIONAL\\Diagrama de Clases\\Project\\Project";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
