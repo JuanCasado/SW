@@ -1,0 +1,22 @@
+"Factura" : {
+	"@fecha" : "1940-10-09",
+	"@oficina" : "dirección",
+	"@numero" : "integer",
+	"tiempo" : "integer",
+	"precio" : "integer",
+	"Trabajador" {
+		"@dni" : "text",
+		"@nombre" : "text",
+	},
+	"ciente" {
+		"@dni" : "text",
+		"@nombre" : "text",
+	}
+	"piezas" : [
+		"pieza" {
+			"@identificador" : "integer",
+			"@proveedor" : "integer",
+			"precio" : "integer"
+		}
+	]
+}

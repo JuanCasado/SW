@@ -1,0 +1,28 @@
+"Informe de trabajo" : {
+	"@fecha" : "1940-10-09",
+	"@oficina" : "dirección",
+	"Trabajadores" : [
+		"Trabajador" {
+			"@dni" : "text",
+			"@nombre" : "text",
+			"trabajos_realizados" : "integer",
+			"horas_trabajadas" : "integer",
+			"tiempo_medio" : "integer",
+			"dispersion_tiempo" : "integer",
+			"Trabajos" : [
+				"ciente" {
+					"@dni" : "text",
+					"tiempo" : "integer",
+					"precio" : "integer",
+					"piezas" : [
+						"pieza" {
+							"@identificador" : "integer",
+							"@proveedor" : "integer",
+							"precio" : "integer"
+						}
+					]
+				}
+			]
+		}
+	]
+}
