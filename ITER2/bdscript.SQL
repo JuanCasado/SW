@@ -1,6 +1,6 @@
 ﻿/*
 Created: 20/11/18
-Modified: 20/11/18
+Modified: 23/11/18
 Model: Logical model
 Database: PostgreSQL 10
 */
@@ -280,10 +280,10 @@ CREATE INDEX "IX_realizada en" ON "Peticion de trabajo" ("Dirección")
 CREATE INDEX "IX_se_asigna" ON "Peticion de trabajo" ("DNI")
 ;
 
-CREATE INDEX "Index_B_ESTADO" ON "Peticion de trabajo" ("Estado")
+CREATE INDEX "estado_b" ON "Peticion de trabajo" ("Estado")
 ;
 
-CREATE INDEX "Index_B_PRIORIDAD" ON "Peticion de trabajo" ("Prioridad")
+CREATE INDEX "prioridad_b" ON "Peticion de trabajo" ("Prioridad")
 ;
 
 -- Add keys for table Peticion de trabajo
@@ -295,11 +295,6 @@ ALTER TABLE "Peticion de trabajo" ADD CONSTRAINT "Fecha" PRIMARY KEY ("Fecha")
 
 CREATE TABLE "Parte de trabajo"(
  "Fecha_inicio" Timestamp(6) NOT NULL,
- "Nombre" Text NOT NULL,
- "Teléfono" Character(11) NOT NULL,
- "email" Text NOT NULL,
- "Dirección" Text NOT NULL,
- "Estado" Text,
  "Precio_hora" Smallint NOT NULL,
  "Fecha_fin" Timestamp(6),
  "Fecha" Timestamp(6) NOT NULL
@@ -652,8 +647,7 @@ ALTER TABLE "Factura" ADD CONSTRAINT "Unique_Identifier16" UNIQUE ("fecha_factur
 
 CREATE TABLE "tiene"(
  "Fecha_emisión" Timestamp(6) NOT NULL,
- "ID" Smallint NOT NULL,
- "Cantidad" Bigint NOT NULL
+ "ID" Smallint NOT NULL
 )
 ;
 
@@ -666,8 +660,7 @@ ALTER TABLE "tiene" ADD CONSTRAINT "Key1" PRIMARY KEY ("Fecha_emisión","ID")
 
 CREATE TABLE "tiene"(
  "Fecha_emisión" Timestamp(6) NOT NULL,
- "ID" Smallint NOT NULL,
- "Cantidad" Bigint NOT NULL
+ "ID" Smallint NOT NULL
 )
 ;
 
@@ -680,8 +673,7 @@ ALTER TABLE "tiene" ADD CONSTRAINT "Key1" PRIMARY KEY ("Fecha_emisión","ID")
 
 CREATE TABLE "consume"(
  "Fecha_inicio" Timestamp(6) NOT NULL,
- "ID" Smallint NOT NULL,
- "Cantidad" Bigint NOT NULL
+ "ID" Smallint NOT NULL
 )
 ;
 
@@ -694,8 +686,7 @@ ALTER TABLE "consume" ADD CONSTRAINT "Key1" PRIMARY KEY ("Fecha_inicio","ID")
 
 CREATE TABLE "consume"(
  "Fecha_inicio" Timestamp(6) NOT NULL,
- "ID" Smallint NOT NULL,
- "Cantidad" Bigint NOT NULL
+ "ID" Smallint NOT NULL
 )
 ;
 
@@ -708,8 +699,7 @@ ALTER TABLE "consume" ADD CONSTRAINT "Key1" PRIMARY KEY ("Fecha_inicio","ID")
 
 CREATE TABLE "trae_basico"(
  "Fecha" Time NOT NULL,
- "ID" Smallint NOT NULL,
- "Attribute1" Bigint DEFAULT Cantidad NOT NULL
+ "ID" Smallint NOT NULL
 )
 ;
 
@@ -722,8 +712,7 @@ ALTER TABLE "trae_basico" ADD CONSTRAINT "Key1" PRIMARY KEY ("Fecha","ID")
 
 CREATE TABLE "trae_especial"(
  "Fecha" Time NOT NULL,
- "ID" Smallint NOT NULL,
- "Cantidad" Bigint NOT NULL
+ "ID" Smallint NOT NULL
 )
 ;
 
@@ -736,25 +725,25 @@ ALTER TABLE "trae_especial" ADD CONSTRAINT "Key1" PRIMARY KEY ("Fecha","ID")
 ALTER TABLE "Peticion de trabajo" ADD CONSTRAINT "realiza" FOREIGN KEY ("DNI/CIF") REFERENCES "Cliente" ("DNI/CIF") ON DELETE NO ACTION ON UPDATE NO ACTION
 ;
 
-ALTER TABLE "Presupuesto" ADD CONSTRAINT "se_planifica" FOREIGN KEY ("Fecha") REFERENCES "Peticion de trabajo" ("Fecha") ON DELETE RESTRICT ON UPDATE CASCADE
+ALTER TABLE "Presupuesto" ADD CONSTRAINT "se_planifica" FOREIGN KEY ("Fecha") REFERENCES "Peticion de trabajo" ("Fecha") ON DELETE NO ACTION ON UPDATE NO ACTION
 ;
 
-ALTER TABLE "Pedido" ADD CONSTRAINT "pertenece" FOREIGN KEY ("CIF") REFERENCES "Proveedor" ("CIF") ON DELETE RESTRICT ON UPDATE CASCADE
+ALTER TABLE "Pedido" ADD CONSTRAINT "pertenece" FOREIGN KEY ("CIF") REFERENCES "Proveedor" ("CIF") ON DELETE NO ACTION ON UPDATE NO ACTION
 ;
 
-ALTER TABLE "Factura" ADD CONSTRAINT "facturado" FOREIGN KEY ("Fecha") REFERENCES "Peticion de trabajo" ("Fecha") ON DELETE RESTRICT ON UPDATE CASCADE
+ALTER TABLE "Factura" ADD CONSTRAINT "facturado" FOREIGN KEY ("Fecha") REFERENCES "Peticion de trabajo" ("Fecha") ON DELETE NO ACTION ON UPDATE NO ACTION
 ;
 
-ALTER TABLE "Peticion de trabajo" ADD CONSTRAINT "realizada en" FOREIGN KEY ("Dirección") REFERENCES "Oficina" ("Dirección") ON DELETE RESTRICT ON UPDATE CASCADE
+ALTER TABLE "Peticion de trabajo" ADD CONSTRAINT "realizada en" FOREIGN KEY ("Dirección") REFERENCES "Oficina" ("Dirección") ON DELETE NO ACTION ON UPDATE NO ACTION
 ;
 
-ALTER TABLE "Pedido" ADD CONSTRAINT "pedido en" FOREIGN KEY ("Dirección") REFERENCES "Oficina" ("Dirección") ON DELETE RESTRICT ON UPDATE CASCADE
+ALTER TABLE "Pedido" ADD CONSTRAINT "pedido en" FOREIGN KEY ("Dirección") REFERENCES "Oficina" ("Dirección") ON DELETE NO ACTION ON UPDATE NO ACTION
 ;
 
-ALTER TABLE "Peticion de trabajo" ADD CONSTRAINT "se_asigna" FOREIGN KEY ("DNI") REFERENCES "Técnico informático" ("DNI") ON DELETE NO ACTION ON UPDATE CASCADE
+ALTER TABLE "Peticion de trabajo" ADD CONSTRAINT "se_asigna" FOREIGN KEY ("DNI") REFERENCES "Técnico informático" ("DNI") ON DELETE NO ACTION ON UPDATE NO ACTION
 ;
 
-ALTER TABLE "Parte de trabajo" ADD CONSTRAINT "se_realiza" FOREIGN KEY ("Fecha") REFERENCES "Peticion de trabajo" ("Fecha") ON DELETE RESTRICT ON UPDATE CASCADE
+ALTER TABLE "Parte de trabajo" ADD CONSTRAINT "se_realiza" FOREIGN KEY ("Fecha") REFERENCES "Peticion de trabajo" ("Fecha") ON DELETE NO ACTION ON UPDATE NO ACTION
 ;
 
 
