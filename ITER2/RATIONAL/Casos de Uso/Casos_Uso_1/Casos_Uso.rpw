@@ -29,8 +29,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 43fbfd57-822c-4ca2-b5f9-465091b878a8;
 			}
-			- _UpLeft = 0 214 ;
-			- _DownRight = 925 947 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 973 771 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 5;
 		}
@@ -169,8 +169,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama Clases";
 				- _id = GUID 2dfa8425-41a8-448f-bbd8-da856bd0edd0;
 			}
-			- _UpLeft = 57 0 ;
-			- _DownRight = 2863 1763 ;
+			- _UpLeft = 1286 0 ;
+			- _DownRight = 2488 755 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
@@ -198,7 +198,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 3786080e-ce76-4fa2-8d1a-e1b5c39e3784;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 544 431 ;
+			- _DownRight = 552 437 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 2;
 		}
