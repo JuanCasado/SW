@@ -29,8 +29,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Clases_General";
 				- _id = GUID 073a4e3a-9465-41b6-8cec-7b3f41c1ba06;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 952 596 ;
+			- _UpLeft = 0 5 ;
+			- _DownRight = 1043 658 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}

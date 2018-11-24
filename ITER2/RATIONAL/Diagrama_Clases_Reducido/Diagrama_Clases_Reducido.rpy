@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 424bfdf7-ad30-44d6-b50e-61a4bf04ef59;
 	- _myState = 8192;
 	- _name = "Diagrama_Clases_Reducido";
-	- _objectCreation = "11160942430201812162481111";
-	- _umlDependencyID = "4071";
+	- _objectCreation = "1156432431201812164401111";
+	- _umlDependencyID = "4016";
 	- _UserColors = { IRPYRawContainer 
 		- size = 16;
 		- value = 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 16777215; 
@@ -184,9 +184,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Clases_General";
-			- _objectCreation = "11160962430201812162461111";
-			- _umlDependencyID = "3958";
-			- _lastModifiedTime = "11.24.2018::11:30:8";
+			- _objectCreation = "1156452431201812164381111";
+			- _umlDependencyID = "3912";
+			- _lastModifiedTime = "11.24.2018::11:31:8";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 7675a32c-de6e-40ca-bcf5-64daaedcca1a;
 				- m_type = 0;
