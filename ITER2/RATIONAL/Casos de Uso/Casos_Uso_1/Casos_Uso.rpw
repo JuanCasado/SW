@@ -4,7 +4,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		- size = 0;
 	}
 	- myViewsWithID = { IRPYRawContainer 
-		- size = 7;
+		- size = 8;
 		- value = 
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
@@ -32,7 +32,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- _UpLeft = 0 0 ;
 			- _DownRight = 973 771 ;
 			- _instanceName = "";
-			- m_nDiagramIndex = 5;
+			- m_nDiagramIndex = 6;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
@@ -60,7 +60,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- _UpLeft = 0 240 ;
 			- _DownRight = 1029 798 ;
 			- _instanceName = "";
-			- m_nDiagramIndex = 3;
+			- m_nDiagramIndex = 4;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
@@ -88,7 +88,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- _UpLeft = 0 0 ;
 			- _DownRight = 748 394 ;
 			- _instanceName = "";
-			- m_nDiagramIndex = 6;
+			- m_nDiagramIndex = 7;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
@@ -116,7 +116,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- _UpLeft = 0 0 ;
 			- _DownRight = 1437 779 ;
 			- _instanceName = "";
-			- m_nDiagramIndex = 4;
+			- m_nDiagramIndex = 5;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
@@ -144,7 +144,35 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- _UpLeft = 0 40 ;
 			- _DownRight = 644 348 ;
 			- _instanceName = "";
-			- m_nDiagramIndex = 1;
+			- m_nDiagramIndex = 2;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 208;
+				- m_nTop = 208;
+				- m_nRight = 1133;
+				- m_nBottom = 676;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IActivityDiagram";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "Control Stock";
+				- _name = "ActivityDiagram";
+				- _id = GUID 9d14e510-af57-4806-9a5f-7ba6b9cd3b47;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 888 408 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
@@ -169,10 +197,10 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama Clases";
 				- _id = GUID 2dfa8425-41a8-448f-bbd8-da856bd0edd0;
 			}
-			- _UpLeft = 1286 0 ;
-			- _DownRight = 2488 755 ;
+			- _UpLeft = 255 0 ;
+			- _DownRight = 2108 1091 ;
 			- _instanceName = "";
-			- m_nDiagramIndex = 0;
+			- m_nDiagramIndex = 1;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
@@ -200,10 +228,10 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- _UpLeft = 0 0 ;
 			- _DownRight = 552 437 ;
 			- _instanceName = "";
-			- m_nDiagramIndex = 2;
+			- m_nDiagramIndex = 3;
 		}
 	}
-	- _fullName = "C:\\Users\\Usuario\\OneDrive\\UNIVERSIDAD\\TERCER CURSO\\INGENIERIA DEL SOFTWARE AVANZADA\\LABORATORIO\\SW\\ITER2\\RATIONAL\\Casos de Uso\\Casos_Uso_1\\Casos_Uso";
+	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER2\\RATIONAL\\Casos de Uso\\Casos_Uso_1\\Casos_Uso";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}

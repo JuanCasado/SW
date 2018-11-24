@@ -17,7 +17,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- m_ptMaxPositionY = -31;
 				- m_nLeft = 26;
 				- m_nTop = 26;
-				- m_nRight = 433;
+				- m_nRight = 650;
 				- m_nBottom = 348;
 			}
 			- _wasOpenedOnCloseProject = 1;
@@ -26,16 +26,16 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _filename = "";
 				- _subsystem = "";
 				- _class = "";
-				- _name = "Diagrama Clases";
-				- _id = GUID 76a22989-eb5b-4599-a809-80882a427ca0;
+				- _name = "Diagrama_Clases_General";
+				- _id = GUID 073a4e3a-9465-41b6-8cec-7b3f41c1ba06;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1608 994 ;
+			- _DownRight = 1218 762 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
 	}
-	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER2\\RATIONAL\\Diagrama de Clases\\Project\\Project";
+	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER2\\RATIONAL\\Diagrama_Clases_Reducido\\Diagrama_Clases_Reducido";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}

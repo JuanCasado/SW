@@ -1,0 +1,11 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+
+- filesTable = { IRPYRawContainer 
+	- size = 4;
+	- value = "Diagrama_Clases_Reducido.rpy" ""
+	"Diagrama_Clases_Reducido_rpy\\Default.sbs" "Default"
+	"Diagrama_Clases_Reducido_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"Projects.rpl" ""
+	
+}
+
