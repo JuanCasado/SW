@@ -29,13 +29,13 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama Clases";
 				- _id = GUID 76a22989-eb5b-4599-a809-80882a427ca0;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 2275 1513 ;
+			- _UpLeft = 6 237 ;
+			- _DownRight = 718 720 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
 	}
-	- _fullName = "C:\\Users\\Usuario\\OneDrive\\UNIVERSIDAD\\TERCER CURSO\\INGENIERIA DEL SOFTWARE AVANZADA\\LABORATORIO\\SW\\ITER2\\RATIONAL\\Diagrama de Clases\\Project\\Project";
+	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER2\\RATIONAL\\Diagrama de Clases\\Project\\Project";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
