@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 424bfdf7-ad30-44d6-b50e-61a4bf04ef59;
 	- _myState = 8192;
 	- _name = "Diagrama_Clases_Reducido";
-	- _objectCreation = "340273257201819-1076113";
-	- _umlDependencyID = "3927";
+	- _objectCreation = "14310112510201819-26281114";
+	- _umlDependencyID = "4063";
 	- _lastID = 5;
 	- _UserColors = { IRPYRawContainer 
 		- size = 16;
@@ -221,9 +221,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Clases_General";
-			- _objectCreation = "341063257201819-1866113";
-			- _umlDependencyID = "3819";
-			- _lastModifiedTime = "11.25.2018::18:6:37";
+			- _objectCreation = "14310132510201819-26301114";
+			- _umlDependencyID = "3945";
+			- _lastModifiedTime = "11.25.2018::18:9:49";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 7675a32c-de6e-40ca-bcf5-64daaedcca1a;
 				- m_type = 0;
@@ -588,7 +588,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 <frame name=AttributeListCompartment>
 <frame name=PrimitiveOperationListCompartment>";
 					- Attrs = { IRPYRawContainer 
-						- size = 13;
+						- size = 14;
 						- value = 
 						{ IHandle 
 							- _m2Class = "IAttribute";
@@ -693,6 +693,14 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _class = "SISTEMA";
 							- _name = "timerCrearFacturas";
 							- _id = GUID 408f3d90-3a09-4c8a-9908-af4ed2dfe425;
+						}
+						{ IHandle 
+							- _m2Class = "IAttribute";
+							- _filename = "Default.sbs";
+							- _subsystem = "Default";
+							- _class = "SISTEMA";
+							- _name = "ultimaFechaPedidos";
+							- _id = GUID b8ee0144-3036-4c20-87be-0471abbca57b;
 						}
 					}
 					- Operations = { IRPYRawContainer 
@@ -6805,9 +6813,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Escritorio";
-			- _objectCreation = "341065257201819-1868113";
-			- _umlDependencyID = "3482";
-			- _lastModifiedTime = "11.25.2018::18:6:37";
+			- _objectCreation = "14310152510201819-26321114";
+			- _umlDependencyID = "3608";
+			- _lastModifiedTime = "11.25.2018::18:10:9";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID f6401ccb-39d3-4d11-a022-9e135524096e;
 				- m_type = 0;
@@ -9979,11 +9987,11 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_polygon = 4 2 329  2 1451  1061 1451  1061 329  ;
 					- m_nNameFormat = 0;
 					- m_nIsNameFormat = 0;
-					- frameset = "<frameset rows=45%,55%>
+					- frameset = "<frameset rows=47%,53%>
 <frame name=AttributeListCompartment>
 <frame name=PrimitiveOperationListCompartment>";
 					- Attrs = { IRPYRawContainer 
-						- size = 13;
+						- size = 14;
 						- value = 
 						{ IHandle 
 							- _m2Class = "IAttribute";
@@ -10088,6 +10096,14 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _class = "SISTEMA";
 							- _name = "timerCrearFacturas";
 							- _id = GUID 408f3d90-3a09-4c8a-9908-af4ed2dfe425;
+						}
+						{ IHandle 
+							- _m2Class = "IAttribute";
+							- _filename = "Default.sbs";
+							- _subsystem = "Default";
+							- _class = "SISTEMA";
+							- _name = "ultimaFechaPedidos";
+							- _id = GUID b8ee0144-3036-4c20-87be-0471abbca57b;
 						}
 					}
 					- Operations = { IRPYRawContainer 
@@ -14985,9 +15001,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Sistema";
-			- _objectCreation = "341067257201819-1870113";
-			- _umlDependencyID = "3144";
-			- _lastModifiedTime = "11.25.2018::18:6:51";
+			- _objectCreation = "14310172510201819-26341114";
+			- _umlDependencyID = "3279";
+			- _lastModifiedTime = "11.25.2018::18:9:49";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID f02b485e-aa30-4179-9917-acca3555425b;
 				- m_type = 0;
@@ -17637,7 +17653,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 <frame name=AttributeListCompartment>
 <frame name=PrimitiveOperationListCompartment>";
 					- Attrs = { IRPYRawContainer 
-						- size = 13;
+						- size = 14;
 						- value = 
 						{ IHandle 
 							- _m2Class = "IAttribute";
@@ -17742,6 +17758,14 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _class = "SISTEMA";
 							- _name = "timerCrearFacturas";
 							- _id = GUID 408f3d90-3a09-4c8a-9908-af4ed2dfe425;
+						}
+						{ IHandle 
+							- _m2Class = "IAttribute";
+							- _filename = "Default.sbs";
+							- _subsystem = "Default";
+							- _class = "SISTEMA";
+							- _name = "ultimaFechaPedidos";
+							- _id = GUID b8ee0144-3036-4c20-87be-0471abbca57b;
 						}
 					}
 					- Operations = { IRPYRawContainer 
@@ -21228,9 +21252,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Movil";
-			- _objectCreation = "341069257201819-1872113";
-			- _umlDependencyID = "2941";
-			- _lastModifiedTime = "11.25.2018::18:6:37";
+			- _objectCreation = "14310192510201819-26361114";
+			- _umlDependencyID = "3076";
+			- _lastModifiedTime = "11.25.2018::18:9:59";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID e4b65c7d-6d93-4aa3-a5ef-915016634524;
 				- m_type = 0;
@@ -23008,11 +23032,11 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_polygon = 4 2 329  2 1451  1061 1451  1061 329  ;
 					- m_nNameFormat = 0;
 					- m_nIsNameFormat = 0;
-					- frameset = "<frameset rows=45%,55%>
+					- frameset = "<frameset rows=46%,54%>
 <frame name=AttributeListCompartment>
 <frame name=PrimitiveOperationListCompartment>";
 					- Attrs = { IRPYRawContainer 
-						- size = 13;
+						- size = 14;
 						- value = 
 						{ IHandle 
 							- _m2Class = "IAttribute";
@@ -23117,6 +23141,14 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _class = "SISTEMA";
 							- _name = "timerCrearFacturas";
 							- _id = GUID 408f3d90-3a09-4c8a-9908-af4ed2dfe425;
+						}
+						{ IHandle 
+							- _m2Class = "IAttribute";
+							- _filename = "Default.sbs";
+							- _subsystem = "Default";
+							- _class = "SISTEMA";
+							- _name = "ultimaFechaPedidos";
+							- _id = GUID b8ee0144-3036-4c20-87be-0471abbca57b;
 						}
 					}
 					- Operations = { IRPYRawContainer 
@@ -24593,9 +24625,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Cliente";
-			- _objectCreation = "341071257201819-1874113";
-			- _umlDependencyID = "3125";
-			- _lastModifiedTime = "11.25.2018::18:6:37";
+			- _objectCreation = "14310212510201819-26381114";
+			- _umlDependencyID = "3260";
+			- _lastModifiedTime = "11.25.2018::18:9:49";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID d8e43087-b4f2-4bbb-aeb5-b6d1ffd53f6d;
 				- m_type = 0;
@@ -25847,7 +25879,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 <frame name=AttributeListCompartment>
 <frame name=PrimitiveOperationListCompartment>";
 					- Attrs = { IRPYRawContainer 
-						- size = 13;
+						- size = 14;
 						- value = 
 						{ IHandle 
 							- _m2Class = "IAttribute";
@@ -25952,6 +25984,14 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _class = "SISTEMA";
 							- _name = "timerCrearFacturas";
 							- _id = GUID 408f3d90-3a09-4c8a-9908-af4ed2dfe425;
+						}
+						{ IHandle 
+							- _m2Class = "IAttribute";
+							- _filename = "Default.sbs";
+							- _subsystem = "Default";
+							- _class = "SISTEMA";
+							- _name = "ultimaFechaPedidos";
+							- _id = GUID b8ee0144-3036-4c20-87be-0471abbca57b;
 						}
 					}
 					- Operations = { IRPYRawContainer 

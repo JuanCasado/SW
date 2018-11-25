@@ -1189,3 +1189,32 @@
  Error (line 566) - Attempt to read a token past end of file
 
 
+11, 25, 2018 (19:08:46): UR named: prueba, of type ISubsystem, and ID: 00000000-0000-0000-0000-000000000000 was created. Owned by the Casos_Uso Project.
+11, 25, 2018 (19:08:46): UR named: HashMapInformes, of type IType, and ID: fc455f5c-a33a-406e-a04e-5d90c73da678 was created. Owned by the prueba Package.
+11, 25, 2018 (19:08:46): UR named: HashMapPeticion, of type IType, and ID: b2958441-d226-4942-953e-f1dbb3a66e84 was created. Owned by the prueba Package.
+11, 25, 2018 (19:08:46): UR named: JsonFile, of type IType, and ID: 2787f72e-5144-4a41-80fb-5b5cee873e98 was created. Owned by the prueba Package.
+11, 25, 2018 (19:08:46): UR named: Diagrama_Clases_General, of type IDiagram, and ID: 073a4e3a-9465-41b6-8cec-7b3f41c1ba06 was created. Owned by the Casos_Uso Project.
+11, 25, 2018 (19:08:46): UR named: Controlador_Stock_Minimo, of type IClass, and ID: 1cd118d5-2e33-4ac8-a260-1a324469e573 was created. Owned by the Default Package.
+11, 25, 2018 (19:08:46): UR named: itsBasicas, of type IAssociationEnd, and ID: 46b3e6ed-006f-4485-875d-f87b3fb9ec1d was created. Owned by the Controlador_Stock_Minimo Class.
+11, 25, 2018 (19:08:46): UR named: HashMapPiezas, of type IType, and ID: 3f5de60d-2d43-419b-bcf0-5ee62e8f2986 was created. Owned by the prueba Package.
+11, 25, 2018 (19:08:46): UR named: itsPiezas, of type IAssociationEnd, and ID: bc2034a6-9736-4991-ba51-0aa242ef5c9c was created. Owned by the Proveedor Class.
+11, 25, 2018 (19:08:46): UR named: EstadoPeticion, of type IType, and ID: e016541f-ba6c-42ea-a760-7c19f3d12b55 was created. Owned by the prueba Package.
+11, 25, 2018 (19:08:46): UR named: Generador_Pedidos, of type IClass, and ID: 8dc2cda6-3df2-4ec4-8472-927ec2c8c518 was created. Owned by the Default Package.
+11, 25, 2018 (19:08:46): UR named: itsPedidos, of type IAssociationEnd, and ID: f4cfc9de-0c1b-4db8-b6e3-d2aa87fcb347 was created. Owned by the Proveedor Class.
+11, 25, 2018 (19:08:46): UR named: itsPedidos, of type IAssociationEnd, and ID: 0fe9dd3c-99d2-435b-a8a3-0187e3a9e420 was created. Owned by the Generador_Pedidos Class.
+11, 25, 2018 (19:08:46): UR named: EstadoPedido, of type IType, and ID: 74fff1a0-1ca7-4778-90e5-aa376d9eb509 was created. Owned by the prueba Package.
+11, 25, 2018 (19:08:46): UR named: INTERFAZ_USUARIO, of type IClass, and ID: 0555d362-fc65-43af-9281-1e1bb49529ee was created. Owned by the Default Package.
+11, 25, 2018 (19:08:46): UR named: Generador_Informes, of type IClass, and ID: 10d520de-2966-4f1c-b2ca-f508da3e25d7 was created. Owned by the Default Package.
+11, 25, 2018 (19:08:46): UR named: Usuario, of type IClass, and ID: 4e1c74fe-6702-4964-82e8-0ab0b60accb4 was created. Owned by the Default Package.
+11, 25, 2018 (19:08:46): UR named: INTERFAZ_USUARIO_TECNICO, of type IClass, and ID: 97f87953-962f-4b2b-97a9-804de5e44a72 was created. Owned by the Default Package.
+11, 25, 2018 (19:08:46): UR named: INTERFAZ_USUARIO_CLIENTE, of type IClass, and ID: a5d7d623-b57c-4704-a4ca-f2f1b3430bba was created. Owned by the Default Package.
+11, 25, 2018 (19:08:46): UR named: itsSISTEMA, of type IAssociationEnd, and ID: 75bb819f-4d2a-44c5-9a09-95603364d149 was created. Owned by the INTERFAZ_USUARIO Class.
+11, 25, 2018 (19:08:46): UR named: itsSISTEMA, of type IAssociationEnd, and ID: 78b8a258-f175-4c04-9916-a2e6712d80f6 was created. Owned by the Generador_Informes Class.
+11, 25, 2018 (19:08:46): UR named: itsSISTEMA, of type IAssociationEnd, and ID: 88cd58ce-3f53-4647-b40a-7b00925dec97 was created. Owned by the Proveedor Class.
+11, 25, 2018 (19:08:46): UR named: itsSISTEMA, of type IAssociationEnd, and ID: 1cf3f3c8-fa63-45b5-bcf6-bdaca6fb795f was created. Owned by the Usuario Class.
+11, 25, 2018 (19:08:46): UR named: itsSISTEMA, of type IAssociationEnd, and ID: 9b37471d-846c-4312-aa89-78c1e67bc921 was created. Owned by the INTERFAZ_USUARIO_TECNICO Class.
+11, 25, 2018 (19:08:46): UR named: itsSISTEMA, of type IAssociationEnd, and ID: 701b8f93-cfd1-435f-a66a-d23e7d555f5d was created. Owned by the INTERFAZ_USUARIO_CLIENTE Class.
+11, 25, 2018 (19:08:46): UR named: HashMapCliente, of type IType, and ID: 60cbd85f-f175-4ced-931f-c8564083f7e2 was created. Owned by the prueba Package.
+11, 25, 2018 (19:08:46): UR named: HashMapPedidos, of type IType, and ID: 24b8179f-72e8-4005-a43e-5b39afd08e44 was created. Owned by the prueba Package.
+11, 25, 2018 (19:08:46): UR named: HashMapProveedor, of type IType, and ID: 46650c06-ca1f-48fb-9982-0613543a6ad0 was created. Owned by the prueba Package.
+11, 25, 2018 (19:08:46): UR named: TipoAccion, of type IType, and ID: f5a6772e-8b81-4fa8-acd7-9ac088f68548 was created. Owned by the prueba Package.

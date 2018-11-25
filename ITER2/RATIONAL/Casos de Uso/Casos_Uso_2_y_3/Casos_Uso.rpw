@@ -267,22 +267,22 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
 				- m_ptMaxPositionY = -31;
-				- m_nLeft = 78;
-				- m_nTop = 78;
-				- m_nRight = 702;
-				- m_nBottom = 400;
+				- m_nLeft = 52;
+				- m_nTop = 52;
+				- m_nRight = 877;
+				- m_nBottom = 520;
 			}
 			- _wasOpenedOnCloseProject = 1;
 			- _theDiagram = { IHandle 
-				- _m2Class = "IMSC";
+				- _m2Class = "IDiagram";
 				- _filename = "";
 				- _subsystem = "";
 				- _class = "";
-				- _name = "MSC1";
-				- _id = GUID 33e04e90-19d0-4dc4-930f-780fb2a7b468;
+				- _name = "Diagrama_Sistema";
+				- _id = GUID fa644947-8325-4ab4-bbca-c15885d30eb6;
 			}
-			- _UpLeft = 132 48 ;
-			- _DownRight = 930 508 ;
+			- _UpLeft = 524 191 ;
+			- _DownRight = 1873 1064 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
