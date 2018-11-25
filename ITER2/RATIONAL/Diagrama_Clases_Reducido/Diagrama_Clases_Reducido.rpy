@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 424bfdf7-ad30-44d6-b50e-61a4bf04ef59;
 	- _myState = 8192;
 	- _name = "Diagrama_Clases_Reducido";
-	- _objectCreation = "14310112510201819-26281114";
-	- _umlDependencyID = "4063";
+	- _objectCreation = "27424822516201819-14221127";
+	- _umlDependencyID = "4082";
 	- _lastID = 5;
 	- _UserColors = { IRPYRawContainer 
 		- size = 16;
@@ -221,9 +221,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Clases_General";
-			- _objectCreation = "14310132510201819-26301114";
-			- _umlDependencyID = "3945";
-			- _lastModifiedTime = "11.25.2018::18:9:49";
+			- _objectCreation = "27432762516201819-22161127";
+			- _umlDependencyID = "3973";
+			- _lastModifiedTime = "11.25.2018::18:16:24";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 7675a32c-de6e-40ca-bcf5-64daaedcca1a;
 				- m_type = 0;
@@ -414,7 +414,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _filename = "Default.sbs";
 							- _subsystem = "Default";
 							- _class = "Fachada";
-							- _name = "getNuevosPedidos()";
+							- _name = "getNuevosPedidos(long)";
 							- _id = GUID 10de1ef8-646d-459d-8916-fdbc597af138;
 						}
 						{ IHandle 
@@ -6813,9 +6813,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Escritorio";
-			- _objectCreation = "14310152510201819-26321114";
-			- _umlDependencyID = "3608";
-			- _lastModifiedTime = "11.25.2018::18:10:9";
+			- _objectCreation = "27432782516201819-22181127";
+			- _umlDependencyID = "3636";
+			- _lastModifiedTime = "11.25.2018::18:16:24";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID f6401ccb-39d3-4d11-a022-9e135524096e;
 				- m_type = 0;
@@ -9816,7 +9816,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _filename = "Default.sbs";
 							- _subsystem = "Default";
 							- _class = "Fachada";
-							- _name = "getNuevosPedidos()";
+							- _name = "getNuevosPedidos(long)";
 							- _id = GUID 10de1ef8-646d-459d-8916-fdbc597af138;
 						}
 						{ IHandle 
@@ -15001,9 +15001,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Sistema";
-			- _objectCreation = "14310172510201819-26341114";
-			- _umlDependencyID = "3279";
-			- _lastModifiedTime = "11.25.2018::18:9:49";
+			- _objectCreation = "27432802516201819-22201127";
+			- _umlDependencyID = "3289";
+			- _lastModifiedTime = "11.25.2018::18:16:24";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID f02b485e-aa30-4179-9917-acca3555425b;
 				- m_type = 0;
@@ -17478,7 +17478,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _filename = "Default.sbs";
 							- _subsystem = "Default";
 							- _class = "Fachada";
-							- _name = "getNuevosPedidos()";
+							- _name = "getNuevosPedidos(long)";
 							- _id = GUID 10de1ef8-646d-459d-8916-fdbc597af138;
 						}
 						{ IHandle 
@@ -17649,7 +17649,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_polygon = 4 2 329  2 1451  1061 1451  1061 329  ;
 					- m_nNameFormat = 0;
 					- m_nIsNameFormat = 0;
-					- frameset = "<frameset rows=44%,56%>
+					- frameset = "<frameset rows=45%,55%>
 <frame name=AttributeListCompartment>
 <frame name=PrimitiveOperationListCompartment>";
 					- Attrs = { IRPYRawContainer 
@@ -21252,9 +21252,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Movil";
-			- _objectCreation = "14310192510201819-26361114";
-			- _umlDependencyID = "3076";
-			- _lastModifiedTime = "11.25.2018::18:9:59";
+			- _objectCreation = "27432822516201819-22221127";
+			- _umlDependencyID = "3086";
+			- _lastModifiedTime = "11.25.2018::18:16:24";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID e4b65c7d-6d93-4aa3-a5ef-915016634524;
 				- m_type = 0;
@@ -22861,7 +22861,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _filename = "Default.sbs";
 							- _subsystem = "Default";
 							- _class = "Fachada";
-							- _name = "getNuevosPedidos()";
+							- _name = "getNuevosPedidos(long)";
 							- _id = GUID 10de1ef8-646d-459d-8916-fdbc597af138;
 						}
 						{ IHandle 
@@ -24625,9 +24625,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Cliente";
-			- _objectCreation = "14310212510201819-26381114";
-			- _umlDependencyID = "3260";
-			- _lastModifiedTime = "11.25.2018::18:9:49";
+			- _objectCreation = "27432842516201819-22241127";
+			- _umlDependencyID = "3279";
+			- _lastModifiedTime = "11.25.2018::18:16:24";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID d8e43087-b4f2-4bbb-aeb5-b6d1ffd53f6d;
 				- m_type = 0;
@@ -25704,7 +25704,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 							- _filename = "Default.sbs";
 							- _subsystem = "Default";
 							- _class = "Fachada";
-							- _name = "getNuevosPedidos()";
+							- _name = "getNuevosPedidos(long)";
 							- _id = GUID 10de1ef8-646d-459d-8916-fdbc597af138;
 						}
 						{ IHandle 
