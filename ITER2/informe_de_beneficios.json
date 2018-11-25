@@ -1,6 +1,7 @@
 "Informe de beneficios" : {
 	"@fecha" : "1940-10-09",
-	"@oficina" : "dirección",
+	"@direccion" : "string",
+	"@numero" : "integer",
 	"ingresos": "integer",
 	"gastos" : {
 		"compra" : "integer",
