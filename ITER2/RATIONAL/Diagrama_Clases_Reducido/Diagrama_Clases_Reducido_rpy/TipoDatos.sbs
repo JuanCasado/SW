@@ -1,0 +1,395 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _id = GUID 4715e969-7bd5-403b-9c83-07b3bd775929;
+	- _myState = 8192;
+	- _name = "TipoDatos";
+	- _objectCreation = "40436812524201820-34521140";
+	- _umlDependencyID = "2591";
+	- _lastID = 15;
+	- weakCGTime = 11.25.2018::19:4:16;
+	- strongCGTime = 11.25.2018::19:4:3;
+	- _defaultComposite = GUID 0dcdd59d-dc43-44be-8226-dbaf3d3a652e;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID 0dcdd59d-dc43-44be-8226-dbaf3d3a652e;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "40436832524201820-34541140";
+			- _umlDependencyID = "2487";
+			- weakCGTime = 11.25.2018::15:32:31;
+			- strongCGTime = 11.25.2018::11:8:28;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- Types = { IRPYRawContainer 
+		- size = 13;
+		- value = 
+		{ IType 
+			- _id = GUID eb5eaa73-624a-47d5-90c3-436f55610e8b;
+			- _myState = 8192;
+			- _name = "ArrayListInteger";
+			- _objectCreation = "40436852524201820-34561140";
+			- _umlDependencyID = "3321";
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IType";
+				- _filename = "PredefinedTypes.sbs";
+				- _subsystem = "PredefinedTypes";
+				- _class = "";
+				- _name = "RhpInteger";
+				- _id = GUID 9503fd72-4374-4a1d-9a70-b60508d8f583;
+			}
+			- _typedefMultiplicity = "*";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID d35d1673-ad39-4aac-8ac5-edcb41848490;
+			- _myState = 8192;
+			- _name = "ArrayListString";
+			- _objectCreation = "40436872524201820-34581140";
+			- _umlDependencyID = "3238";
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IType";
+				- _filename = "PredefinedTypes.sbs";
+				- _subsystem = "PredefinedTypes";
+				- _class = "";
+				- _name = "RhpString";
+				- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+			}
+			- _typedefMultiplicity = "*";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID 3f5de60d-2d43-419b-bcf0-5ee62e8f2986;
+			- _myState = 8192;
+			- _name = "HashMapPiezas";
+			- _objectCreation = "40436892524201820-34601140";
+			- _umlDependencyID = "2973";
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IClass";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "";
+				- _name = "Piezas";
+				- _id = GUID 5bf92788-017d-4c8b-bded-635212983290;
+			}
+			- _typedefMultiplicity = "*";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID 60cbd85f-f175-4ced-931f-c8564083f7e2;
+			- _myState = 8192;
+			- _name = "HashMapCliente";
+			- _objectCreation = "40436912524201820-34621140";
+			- _umlDependencyID = "3056";
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IClass";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "";
+				- _name = "Cliente";
+				- _id = GUID 251db206-66c5-4562-b25d-d21b01203730;
+			}
+			- _typedefMultiplicity = "*";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID 46650c06-ca1f-48fb-9982-0613543a6ad0;
+			- _myState = 8192;
+			- _name = "HashMapProveedor";
+			- _objectCreation = "40436932524201820-34641140";
+			- _umlDependencyID = "3302";
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IClass";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "";
+				- _name = "Proveedor";
+				- _id = GUID 23d340c1-3ccd-49dc-9fb4-1ec3beece644;
+			}
+			- _typedefMultiplicity = "*";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID b2958441-d226-4942-953e-f1dbb3a66e84;
+			- _myState = 8192;
+			- _name = "HashMapPeticion";
+			- _objectCreation = "40436952524201820-34661140";
+			- _umlDependencyID = "3183";
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IClass";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "";
+				- _name = "Peticion";
+				- _id = GUID 128f006e-afd8-48c8-ab7a-6934474609c0;
+			}
+			- _typedefMultiplicity = "*";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID 24b8179f-72e8-4005-a43e-5b39afd08e44;
+			- _myState = 8192;
+			- _name = "HashMapPedidos";
+			- _objectCreation = "40436972524201820-34681140";
+			- _umlDependencyID = "3072";
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IClass";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "";
+				- _name = "Pedidos";
+				- _id = GUID b04d07a3-f5bf-4b08-8c49-4eb9e0b2d49b;
+			}
+			- _typedefMultiplicity = "*";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID 7547a758-c614-4927-8aa2-039a3ed082b4;
+			- _myState = 8192;
+			- _name = "TipoUsuario";
+			- _objectCreation = "40436992524201820-34701140";
+			- _umlDependencyID = "2837";
+			- _lastID = 4;
+			- Literals = { IRPYRawContainer 
+				- size = 4;
+				- value = 
+				{ IEnumerationLiteral 
+					- _id = GUID 5efe7b57-38e0-42a9-8ce2-700485741ebe;
+					- _name = "ayudanteAlmacen";
+					- _objectCreation = "40437012524201820-34721140";
+					- _umlDependencyID = "3215";
+					- _value = "0";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID e3d2195e-ddcf-4d69-b728-42e2eb6aa6cc;
+					- _name = "gestorAlmacen";
+					- _objectCreation = "40437032524201820-34741140";
+					- _umlDependencyID = "3020";
+					- _value = "1";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID ac2f6a8c-cfe3-4091-b63f-506ddc6dc1eb;
+					- _name = "ayudanteCoordinador";
+					- _objectCreation = "40437052524201820-34761140";
+					- _umlDependencyID = "3674";
+					- _value = "2";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 8e28e85f-9932-4af5-819c-f87cbe771967;
+					- _name = "coordinadorTecnico";
+					- _objectCreation = "40437072524201820-34781140";
+					- _umlDependencyID = "3560";
+					- _value = "3";
+				}
+			}
+			- _kind = Enumeration;
+		}
+		{ IType 
+			- _id = GUID e016541f-ba6c-42ea-a760-7c19f3d12b55;
+			- _myState = 8192;
+			- _name = "EstadoPeticion";
+			- _objectCreation = "40437092524201820-34801140";
+			- _umlDependencyID = "3109";
+			- _lastID = 7;
+			- Literals = { IRPYRawContainer 
+				- size = 7;
+				- value = 
+				{ IEnumerationLiteral 
+					- _id = GUID 7c49e0c3-764c-41ee-a253-9356767b5d1d;
+					- _name = "pendientePresupuesto";
+					- _objectCreation = "40437112524201820-34821140";
+					- _umlDependencyID = "3824";
+					- _value = "0";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 19e405ad-f8fc-4077-abe6-2fc67b9bacc7;
+					- _name = "presupuestado";
+					- _objectCreation = "40437132524201820-34841140";
+					- _umlDependencyID = "3101";
+					- _value = "1";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 6130f832-2bb1-4aeb-8321-358852e69e62;
+					- _name = "pendienteAsignacion";
+					- _objectCreation = "40437152524201820-34861140";
+					- _umlDependencyID = "3653";
+					- _value = "2";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 84d544f8-cc88-4d65-8c50-6d56a7c57041;
+					- _name = "asignado";
+					- _objectCreation = "40437172524201820-34881140";
+					- _umlDependencyID = "2519";
+					- _value = "3";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 731b5abf-2ffc-46ec-a4c7-bf059c56436a;
+					- _name = "proceso";
+					- _objectCreation = "40437192524201820-34901140";
+					- _umlDependencyID = "2439";
+					- _value = "4";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 2c062f8f-69a1-43ca-bed7-2f94b124641c;
+					- _name = "finalizado";
+					- _objectCreation = "40437212524201820-34921140";
+					- _umlDependencyID = "2728";
+					- _value = "5";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID f7c05f5e-b75e-494b-b4d6-cfdbe4445be3;
+					- _name = "cancelado";
+					- _objectCreation = "40437232524201820-34941140";
+					- _umlDependencyID = "2597";
+					- _value = "6";
+				}
+			}
+			- _kind = Enumeration;
+		}
+		{ IType 
+			- _id = GUID 74fff1a0-1ca7-4778-90e5-aa376d9eb509;
+			- _myState = 8192;
+			- _name = "EstadoPedido";
+			- _objectCreation = "40437252524201820-34961140";
+			- _umlDependencyID = "2884";
+			- _lastID = 4;
+			- Literals = { IRPYRawContainer 
+				- size = 4;
+				- value = 
+				{ IEnumerationLiteral 
+					- _id = GUID 1b221ee1-6577-416e-a3fe-36cfded9d7c5;
+					- _name = "noEnviado";
+					- _objectCreation = "40437272524201820-34981140";
+					- _umlDependencyID = "2614";
+					- _value = "0";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 5233c507-36f0-4301-8cbf-21cd4f6f1680;
+					- _name = "enviado";
+					- _objectCreation = "40437292524201820-35001140";
+					- _umlDependencyID = "2411";
+					- _value = "1";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 1bb1ca4e-86d4-42ee-b9af-e37eee64783c;
+					- _name = "recibido";
+					- _objectCreation = "40437312524201820-35021140";
+					- _umlDependencyID = "2497";
+					- _value = "2";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 240b20fa-47cc-4527-a709-b308a362740b;
+					- _name = "pagado";
+					- _objectCreation = "40437332524201820-35041140";
+					- _umlDependencyID = "2288";
+					- _value = "3";
+				}
+			}
+			- _kind = Enumeration;
+		}
+		{ IType 
+			- _id = GUID f5a6772e-8b81-4fa8-acd7-9ac088f68548;
+			- _myState = 8192;
+			- _name = "TipoAccion";
+			- _objectCreation = "40437352524201820-35061140";
+			- _umlDependencyID = "2673";
+			- _lastID = 4;
+			- Literals = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IEnumerationLiteral 
+					- _id = GUID e19deafc-42f4-4d96-96aa-ea4cf32cea38;
+					- _name = "insertar";
+					- _objectCreation = "40437372524201820-35081140";
+					- _umlDependencyID = "2548";
+					- _value = "0";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 72e1a740-91ba-4db7-b7c5-33eea0851935;
+					- _name = "modificar";
+					- _objectCreation = "40437392524201820-35101140";
+					- _umlDependencyID = "2613";
+					- _value = "1";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 87c8361a-e033-46a9-8d94-a4334a1be34d;
+					- _name = "eliminar";
+					- _objectCreation = "40437412524201820-35121140";
+					- _umlDependencyID = "2515";
+					- _value = "2";
+				}
+			}
+			- _kind = Enumeration;
+		}
+		{ IType 
+			- _id = GUID fc455f5c-a33a-406e-a04e-5d90c73da678;
+			- _myState = 8192;
+			- _name = "HashMapInformes";
+			- _objectCreation = "40437432524201820-35141140";
+			- _umlDependencyID = "3179";
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IClass";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "";
+				- _name = "Informe";
+				- _id = GUID 4d9d9e13-1e22-4ec8-99e8-1dcd4e9967d5;
+			}
+			- _typedefMultiplicity = "*";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID 2787f72e-5144-4a41-80fb-5b5cee873e98;
+			- _myState = 8192;
+			- _name = "JsonFile";
+			- _objectCreation = "40437452524201820-35161140";
+			- _umlDependencyID = "2468";
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IType";
+				- _filename = "PredefinedTypes.sbs";
+				- _subsystem = "PredefinedTypes";
+				- _class = "";
+				- _name = "RhpString";
+				- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+			}
+			- _typedefMultiplicity = "1";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+
