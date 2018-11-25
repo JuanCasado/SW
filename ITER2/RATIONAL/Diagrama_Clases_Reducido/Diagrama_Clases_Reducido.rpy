@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 424bfdf7-ad30-44d6-b50e-61a4bf04ef59;
 	- _myState = 8192;
 	- _name = "Diagrama_Clases_Reducido";
-	- _objectCreation = "11354492538201818-59241111";
-	- _umlDependencyID = "4087";
+	- _objectCreation = "53295432541201818-52111153";
+	- _umlDependencyID = "4080";
 	- _lastID = 5;
 	- _UserColors = { IRPYRawContainer 
 		- size = 16;
@@ -221,9 +221,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Clases_General";
-			- _objectCreation = "11354512538201818-59261111";
-			- _umlDependencyID = "3969";
-			- _lastModifiedTime = "11.25.2018::17:35:8";
+			- _objectCreation = "53303292541201818-59971153";
+			- _umlDependencyID = "3982";
+			- _lastModifiedTime = "11.25.2018::17:41:46";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 7675a32c-de6e-40ca-bcf5-64daaedcca1a;
 				- m_type = 0;
@@ -4236,16 +4236,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						}
 					}
 					- Operations = { IRPYRawContainer 
-						- size = 3;
+						- size = 2;
 						- value = 
-						{ IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "Default.sbs";
-							- _subsystem = "Default";
-							- _class = "Parte_Trabajo";
-							- _name = "parteTrabajo(HashMapPiezas)";
-							- _id = GUID afe19337-8c24-4836-b886-65dc783508da;
-						}
 						{ IHandle 
 							- _m2Class = "IConstructor";
 							- _filename = "Default.sbs";
@@ -6813,9 +6805,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Escritorio";
-			- _objectCreation = "11354532538201818-59281111";
-			- _umlDependencyID = "3632";
-			- _lastModifiedTime = "11.25.2018::17:37:4";
+			- _objectCreation = "53303312541201818-59991153";
+			- _umlDependencyID = "3636";
+			- _lastModifiedTime = "11.25.2018::17:41:51";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID f6401ccb-39d3-4d11-a022-9e135524096e;
 				- m_type = 0;
@@ -7672,7 +7664,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
 					- m_SourcePort = 923 366 ;
-					- m_TargetPort = 673 1410 ;
+					- m_TargetPort = 688 1410 ;
 					- m_pInverseModelObject = { IAssociationEndHandle 
 						- _m2Class = "IAssociationEnd";
 						- _filename = "Default.sbs";
@@ -8378,7 +8370,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
-					- m_SourcePort = 505 370 ;
+					- m_SourcePort = 527 370 ;
 					- m_TargetPort = 43 1418 ;
 					- m_pInverseModelObject = { IAssociationEndHandle 
 						- _m2Class = "IAssociationEnd";
@@ -10750,7 +10742,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2152;
-					- m_transform = 0.226629 0 0 0.122104 1001.55 309.829 ;
+					- m_transform = 0.236072 0 0 0.122104 991.531 309.829 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -11719,16 +11711,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						}
 					}
 					- Operations = { IRPYRawContainer 
-						- size = 3;
+						- size = 2;
 						- value = 
-						{ IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "Default.sbs";
-							- _subsystem = "Default";
-							- _class = "Parte_Trabajo";
-							- _name = "parteTrabajo(HashMapPiezas)";
-							- _id = GUID afe19337-8c24-4836-b886-65dc783508da;
-						}
 						{ IHandle 
 							- _m2Class = "IConstructor";
 							- _filename = "Default.sbs";
@@ -15001,9 +14985,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Sistema";
-			- _objectCreation = "11354552538201818-59301111";
-			- _umlDependencyID = "3294";
-			- _lastModifiedTime = "11.25.2018::17:35:58";
+			- _objectCreation = "53303332541201818-60011153";
+			- _umlDependencyID = "3280";
+			- _lastModifiedTime = "11.25.2018::17:41:46";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID f02b485e-aa30-4179-9917-acca3555425b;
 				- m_type = 0;
@@ -18908,16 +18892,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						}
 					}
 					- Operations = { IRPYRawContainer 
-						- size = 3;
+						- size = 2;
 						- value = 
-						{ IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "Default.sbs";
-							- _subsystem = "Default";
-							- _class = "Parte_Trabajo";
-							- _name = "parteTrabajo(HashMapPiezas)";
-							- _id = GUID afe19337-8c24-4836-b886-65dc783508da;
-						}
 						{ IHandle 
 							- _m2Class = "IConstructor";
 							- _filename = "Default.sbs";
@@ -21073,9 +21049,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Movil";
-			- _objectCreation = "11354572538201818-59321111";
-			- _umlDependencyID = "3091";
-			- _lastModifiedTime = "11.25.2018::17:36:26";
+			- _objectCreation = "53303352541201818-60031153";
+			- _umlDependencyID = "3077";
+			- _lastModifiedTime = "11.25.2018::17:41:46";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID e4b65c7d-6d93-4aa3-a5ef-915016634524;
 				- m_type = 0;
@@ -23889,16 +23865,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						}
 					}
 					- Operations = { IRPYRawContainer 
-						- size = 3;
+						- size = 2;
 						- value = 
-						{ IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "Default.sbs";
-							- _subsystem = "Default";
-							- _class = "Parte_Trabajo";
-							- _name = "parteTrabajo(HashMapPiezas)";
-							- _id = GUID afe19337-8c24-4836-b886-65dc783508da;
-						}
 						{ IHandle 
 							- _m2Class = "IConstructor";
 							- _filename = "Default.sbs";
@@ -24446,8 +24414,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Cliente";
-			- _objectCreation = "11354592538201818-59341111";
-			- _umlDependencyID = "3284";
+			- _objectCreation = "53303372541201818-60051153";
+			- _umlDependencyID = "3270";
 			- _lastModifiedTime = "11.25.2018::17:37:39";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID d8e43087-b4f2-4bbb-aeb5-b6d1ffd53f6d;
