@@ -1,6 +1,6 @@
 "Factura" : {
 	"@fecha" : "1940-10-09",
-	"@oficina" : "dirección",
+	"@direccion" : "string",
 	"@numero" : "integer",
 	"tiempo" : "integer",
 	"precio" : "integer",
