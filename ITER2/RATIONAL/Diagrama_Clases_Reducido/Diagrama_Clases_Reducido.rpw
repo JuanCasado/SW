@@ -30,7 +30,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 073a4e3a-9465-41b6-8cec-7b3f41c1ba06;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 815 364 ;
+			- _DownRight = 826 369 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 3;
 		}
@@ -57,8 +57,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Escritorio";
 				- _id = GUID 07292580-d3c7-4449-9334-d43d4aaae2b5;
 			}
-			- _UpLeft = 31 0 ;
-			- _DownRight = 2095 1399 ;
+			- _UpLeft = 673 31 ;
+			- _DownRight = 2311 1193 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 2;
 		}
