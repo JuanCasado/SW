@@ -58,7 +58,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 43fbfd57-822c-4ca2-b5f9-465091b878a8;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1000 792 ;
+			- _DownRight = 1057 837 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 7;
 		}
@@ -93,8 +93,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -233,8 +233,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -254,12 +254,12 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 0531e6ec-a15a-490f-a030-9d699f0e3169;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 2814 1457 ;
+			- _DownRight = 5000 3139 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
 	}
-	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER2\\RATIONAL\\Casos de Uso\\Casos_Uso_2_y_3\\Casos_Uso";
+	- _fullName = "D:\\gituni\\SW\\ITER2\\RATIONAL\\Casos de Uso\\Casos_Uso_2_y_3\\Casos_Uso";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}

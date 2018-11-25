@@ -57,8 +57,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Responsable de Almacen";
 				- _id = GUID e54503cc-c709-431e-b5e9-c813b52d6d1a;
 			}
-			- _UpLeft = 0 240 ;
-			- _DownRight = 1029 798 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1029 558 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 4;
 		}
@@ -149,8 +149,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -170,15 +170,15 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 9d14e510-af57-4806-9a5f-7ba6b9cd3b47;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 888 408 ;
+			- _DownRight = 1475 875 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -197,8 +197,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama Clases";
 				- _id = GUID 2dfa8425-41a8-448f-bbd8-da856bd0edd0;
 			}
-			- _UpLeft = 255 0 ;
-			- _DownRight = 2108 1091 ;
+			- _UpLeft = 251 0 ;
+			- _DownRight = 383 433 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 1;
 		}
@@ -231,7 +231,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 3;
 		}
 	}
-	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER2\\RATIONAL\\Casos de Uso\\Casos_Uso_1\\Casos_Uso";
+	- _fullName = "D:\\gituni\\SW\\ITER2\\RATIONAL\\Casos de Uso\\Casos_Uso_1\\Casos_Uso";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
