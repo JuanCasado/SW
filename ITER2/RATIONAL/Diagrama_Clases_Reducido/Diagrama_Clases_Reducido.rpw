@@ -57,8 +57,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Escritorio";
 				- _id = GUID 07292580-d3c7-4449-9334-d43d4aaae2b5;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 1466 994 ;
+			- _UpLeft = 31 0 ;
+			- _DownRight = 2095 1399 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 2;
 		}
