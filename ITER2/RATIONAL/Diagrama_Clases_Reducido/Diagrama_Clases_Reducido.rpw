@@ -177,8 +177,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -198,7 +198,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID c675b0bb-f438-4f6f-9da0-4e1084cdc3eb;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 854 469 ;
+			- _DownRight = 1188 753 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 4;
 		}
@@ -337,16 +337,16 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Cliente";
 				- _id = GUID 7d36cb33-37ea-409c-be06-59e012dc7309;
 			}
-			- _UpLeft = 0 435 ;
-			- _DownRight = 1138 1090 ;
+			- _UpLeft = 201 435 ;
+			- _DownRight = 1183 1000 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 18;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -365,8 +365,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Escritorio";
 				- _id = GUID 07292580-d3c7-4449-9334-d43d4aaae2b5;
 			}
-			- _UpLeft = 0 682 ;
-			- _DownRight = 1914 1894 ;
+			- _UpLeft = 0 579 ;
+			- _DownRight = 1433 1279 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 21;
 		}
@@ -393,8 +393,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Movil";
 				- _id = GUID e243216a-0167-41f6-aeff-31d63f04c829;
 			}
-			- _UpLeft = 0 254 ;
-			- _DownRight = 1143 812 ;
+			- _UpLeft = 0 336 ;
+			- _DownRight = 1143 894 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 19;
 		}
@@ -421,8 +421,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Sistema";
 				- _id = GUID c93eb477-b00d-4cf8-aa36-f9038195275e;
 			}
-			- _UpLeft = 947 663 ;
-			- _DownRight = 2209 1279 ;
+			- _UpLeft = 0 663 ;
+			- _DownRight = 1262 1279 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 20;
 		}
