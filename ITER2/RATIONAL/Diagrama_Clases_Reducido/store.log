@@ -1,42 +1,21 @@
-11, 26, 2018 (22:38:41): Starting Pre-Save actions
+11, 26, 2018 (22:56:52): Starting Pre-Save actions
 
-11, 26, 2018 (22:38:41): Starting Dialogs Check/Save
-11, 26, 2018 (22:38:41): Finished Dialogs Check/Save
-11, 26, 2018 (22:38:41): Starting Controlled Files Resolution
-11, 26, 2018 (22:38:41): Finished Controlled Files Resolution
-11, 26, 2018 (22:38:41): Finished Pre-Save actions
+11, 26, 2018 (22:56:52): Starting Dialogs Check/Save
+11, 26, 2018 (22:56:52): Finished Dialogs Check/Save
+11, 26, 2018 (22:56:52): Starting Controlled Files Resolution
+11, 26, 2018 (22:56:52): Finished Controlled Files Resolution
+11, 26, 2018 (22:56:52): Finished Pre-Save actions
 
-11, 26, 2018 (22:38:41): Creating D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy
-11, 26, 2018 (22:38:41): 
-Started writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Monday, November 26, 2018 (22:38:41)
+11, 26, 2018 (22:56:52): Creating C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy
+11, 26, 2018 (22:56:52): 
+Started writing C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Monday, November 26, 2018 (22:56:52)
 
-11, 26, 2018 (22:38:41): version 8.5.2
-11, 26, 2018 (22:38:41): 
-Started writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\filesTable.dat on Monday, November 26, 2018 (22:38:41)
+11, 26, 2018 (22:56:52): version 8.5.2
+11, 26, 2018 (22:56:52): 
+Started writing C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\filesTable.dat on Monday, November 26, 2018 (22:56:52)
 
-11, 26, 2018 (22:38:41): Finished writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\filesTable.dat on Monday, November 26, 2018 (22:38:41)
+11, 26, 2018 (22:56:52): Finished writing C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\filesTable.dat on Monday, November 26, 2018 (22:56:52)
 
-11, 26, 2018 (22:38:41): Creating D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\Default.sbs
-11, 26, 2018 (22:38:41): 
-Started writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\Default.sbs on Monday, November 26, 2018 (22:38:41)
+11, 26, 2018 (22:56:53): Finished writing C:\Users\Usuario\OneDrive\UNIVERSIDAD\TERCER CURSO\INGENIERIA DEL SOFTWARE AVANZADA\LABORATORIO\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Monday, November 26, 2018 (22:56:53)
 
-11, 26, 2018 (22:38:41): version 8.5.2
-11, 26, 2018 (22:38:41): Finished writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\Default.sbs on Monday, November 26, 2018 (22:38:41)
-
-11, 26, 2018 (22:38:41): Creating D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\TipoDatos.sbs
-11, 26, 2018 (22:38:41): 
-Started writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\TipoDatos.sbs on Monday, November 26, 2018 (22:38:41)
-
-11, 26, 2018 (22:38:41): version 8.5.2
-11, 26, 2018 (22:38:41): Finished writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\TipoDatos.sbs on Monday, November 26, 2018 (22:38:41)
-
-11, 26, 2018 (22:38:41): Creating D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\DefaultComponent.cmp
-11, 26, 2018 (22:38:41): 
-Started writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\DefaultComponent.cmp on Monday, November 26, 2018 (22:38:41)
-
-11, 26, 2018 (22:38:41): version 8.5.2
-11, 26, 2018 (22:38:41): Finished writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\DefaultComponent.cmp on Monday, November 26, 2018 (22:38:41)
-
-11, 26, 2018 (22:38:41): Finished writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Monday, November 26, 2018 (22:38:41)
-
-11, 26, 2018 (22:38:41): End Log
+11, 26, 2018 (22:56:53): End Log
