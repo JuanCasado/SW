@@ -317,8 +317,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -337,16 +337,16 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Cliente";
 				- _id = GUID 7d36cb33-37ea-409c-be06-59e012dc7309;
 			}
-			- _UpLeft = 0 205 ;
-			- _DownRight = 982 770 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1641 1039 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 18;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -365,8 +365,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Escritorio";
 				- _id = GUID 07292580-d3c7-4449-9334-d43d4aaae2b5;
 			}
-			- _UpLeft = 40 674 ;
-			- _DownRight = 1346 1559 ;
+			- _UpLeft = 0 682 ;
+			- _DownRight = 1566 1446 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 21;
 		}
@@ -393,8 +393,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Movil";
 				- _id = GUID e243216a-0167-41f6-aeff-31d63f04c829;
 			}
-			- _UpLeft = 0 392 ;
-			- _DownRight = 1566 1156 ;
+			- _UpLeft = 0 254 ;
+			- _DownRight = 1143 812 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 19;
 		}
@@ -421,8 +421,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Sistema";
 				- _id = GUID c93eb477-b00d-4cf8-aa36-f9038195275e;
 			}
-			- _UpLeft = 743 479 ;
-			- _DownRight = 2756 1462 ;
+			- _UpLeft = 1589 663 ;
+			- _DownRight = 2851 1279 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 20;
 		}
