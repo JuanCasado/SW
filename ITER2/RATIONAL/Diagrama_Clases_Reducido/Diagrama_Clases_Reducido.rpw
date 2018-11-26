@@ -253,8 +253,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Escritorio";
 				- _id = GUID 07292580-d3c7-4449-9334-d43d4aaae2b5;
 			}
-			- _UpLeft = 260 639 ;
-			- _DownRight = 1826 1403 ;
+			- _UpLeft = 47 577 ;
+			- _DownRight = 1190 1135 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 18;
 		}
@@ -289,8 +289,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -309,8 +309,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Sistema";
 				- _id = GUID c93eb477-b00d-4cf8-aa36-f9038195275e;
 			}
-			- _UpLeft = 781 0 ;
-			- _DownRight = 2996 1392 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 3845 1877 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 17;
 		}
@@ -421,8 +421,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "SecuenciaBorrarPieza";
 				- _id = GUID 831c6e2d-2660-4c18-a923-e24042b17f17;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 3217 1520 ;
+			- _UpLeft = 0 50 ;
+			- _DownRight = 1302 665 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
@@ -541,8 +541,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -561,13 +561,13 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "SecuenciaSolicitarPeticionTrabajo";
 				- _id = GUID 6c47c9eb-b636-4810-97f0-26416f47a62a;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 927 456 ;
+			- _UpLeft = 30 10 ;
+			- _DownRight = 1167 757 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 6;
 		}
 	}
-	- _fullName = "C:\\Users\\Usuario\\OneDrive\\UNIVERSIDAD\\TERCER CURSO\\INGENIERIA DEL SOFTWARE AVANZADA\\LABORATORIO\\SW\\ITER2\\RATIONAL\\Diagrama_Clases_Reducido\\Diagrama_Clases_Reducido";
+	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER2\\RATIONAL\\Diagrama_Clases_Reducido\\Diagrama_Clases_Reducido";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
