@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 11, 26, 2018 (19:14:47): Starting Pre-Save actions
 
 11, 26, 2018 (19:14:47): Starting Dialogs Check/Save
@@ -19,3 +20,26 @@ Started writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Cl
 11, 26, 2018 (19:14:47): Finished writing D:\gituni\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Monday, November 26, 2018 (19:14:47)
 
 11, 26, 2018 (19:14:47): End Log
+=======
+11, 26, 2018 (18:50:39): Starting Pre-Save actions
+
+11, 26, 2018 (18:50:39): Starting Dialogs Check/Save
+11, 26, 2018 (18:50:39): Finished Dialogs Check/Save
+11, 26, 2018 (18:50:39): Starting Controlled Files Resolution
+11, 26, 2018 (18:50:39): Finished Controlled Files Resolution
+11, 26, 2018 (18:50:39): Finished Pre-Save actions
+
+11, 26, 2018 (18:50:39): Creating D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy
+11, 26, 2018 (18:50:39): 
+Started writing D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Monday, November 26, 2018 (18:50:39)
+
+11, 26, 2018 (18:50:39): version 8.5.2
+11, 26, 2018 (18:50:39): 
+Started writing D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\filesTable.dat on Monday, November 26, 2018 (18:50:39)
+
+11, 26, 2018 (18:50:39): Finished writing D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\filesTable.dat on Monday, November 26, 2018 (18:50:39)
+
+11, 26, 2018 (18:50:39): Finished writing D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER2\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Monday, November 26, 2018 (18:50:39)
+
+11, 26, 2018 (18:50:39): End Log
+>>>>>>> b1b97c9c5db7424bce666da36b0bb4806d026e3e
