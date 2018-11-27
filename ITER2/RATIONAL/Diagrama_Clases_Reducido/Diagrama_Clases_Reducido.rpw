@@ -170,7 +170,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID e66b0d73-d861-446c-8ca8-0aa10e4ce278;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1840 880 ;
+			- _DownRight = 757 362 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 4;
 		}
@@ -198,15 +198,15 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID c675b0bb-f438-4f6f-9da0-4e1084cdc3eb;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 964 530 ;
+			- _DownRight = 977 537 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 5;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -226,7 +226,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 83106e46-3a51-4c0b-b8a5-1490da0c983a;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1271 731 ;
+			- _DownRight = 976 467 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 2;
 		}
@@ -253,8 +253,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "ColaboracionCrearParteTrabajo";
 				- _id = GUID fb810ed0-156d-47db-9155-0cd73d922e00;
 			}
-			- _UpLeft = 120 0 ;
-			- _DownRight = 739 296 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 685 327 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 1;
 		}
@@ -289,8 +289,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -310,7 +310,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 60e53841-f547-4065-bb09-95cae5a9f513;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 757 362 ;
+			- _DownRight = 1137 622 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 3;
 		}
