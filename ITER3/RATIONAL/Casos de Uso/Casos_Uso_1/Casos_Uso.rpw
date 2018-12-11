@@ -29,16 +29,16 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 43fbfd57-822c-4ca2-b5f9-465091b878a8;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 973 771 ;
+			- _UpLeft = 37 468 ;
+			- _DownRight = 517 848 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 6;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -57,8 +57,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Responsable de Almacen";
 				- _id = GUID e54503cc-c709-431e-b5e9-c813b52d6d1a;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 1029 558 ;
+			- _UpLeft = 6 144 ;
+			- _DownRight = 1312 1029 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 4;
 		}
@@ -86,7 +86,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID f1c01f4e-8847-406b-b409-279e20f5fb65;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 748 394 ;
+			- _DownRight = 1463 770 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 7;
 		}
@@ -114,7 +114,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 6c97560a-a914-4666-adcf-68c4e7f4ce11;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1437 779 ;
+			- _DownRight = 989 536 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 5;
 		}
@@ -149,8 +149,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -170,7 +170,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 9d14e510-af57-4806-9a5f-7ba6b9cd3b47;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1475 875 ;
+			- _DownRight = 1233 566 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
@@ -231,7 +231,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 3;
 		}
 	}
-	- _fullName = "D:\\gituni\\SW\\ITER2\\RATIONAL\\Casos de Uso\\Casos_Uso_1\\Casos_Uso";
+	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER3\\RATIONAL\\Casos de Uso\\Casos_Uso_1\\Casos_Uso";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}

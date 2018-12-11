@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 2d0f5bc8-f2d4-4545-b840-ce4d968b82d2;
 	- _myState = 8192;
 	- _name = "Casos_Uso";
-	- _objectCreation = "3640482414201810212351136";
-	- _umlDependencyID = "2538";
+	- _objectCreation = "2926091111120189229391229";
+	- _umlDependencyID = "2558";
 	- _lastID = 5;
 	- _UserColors = { IRPYRawContainer 
 		- size = 16;
@@ -61,8 +61,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 			- _id = GUID 3786080e-ce76-4fa2-8d1a-e1b5c39e3784;
 			- _myState = 8192;
 			- _name = "Model1";
-			- _objectCreation = "3640502414201810212331136";
-			- _umlDependencyID = "2164";
+			- _objectCreation = "2926093111120189229371229";
+			- _umlDependencyID = "2193";
 			- _lastModifiedTime = "9.26.2018::9:57:29";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 7ed12afa-79ba-4791-a7c3-9111f564ec6c;
@@ -288,8 +288,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama Clases";
-			- _objectCreation = "3640522414201810212311136";
-			- _umlDependencyID = "3011";
+			- _objectCreation = "2926095111120189229351229";
+			- _umlDependencyID = "3040";
 			- _lastModifiedTime = "11.24.2018::9:14:23";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID cf7755d6-2038-42db-8eb8-b910b490095c;
@@ -5912,9 +5912,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Coordinador";
-			- _objectCreation = "3640542414201810212291136";
-			- _umlDependencyID = "3572";
-			- _lastModifiedTime = "11.13.2018::7:24:16";
+			- _objectCreation = "2926097111120189229331229";
+			- _umlDependencyID = "3592";
+			- _lastModifiedTime = "12.11.2018::7:59:53";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 74c7805f-90ca-437f-bfaa-0ade00c4189b;
 				- m_type = 0;
@@ -5938,7 +5938,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 				- m_drawBehavior = 0;
 				- m_bIsPreferencesInitialized = 0;
-				- elementList = 53;
+				- elementList = 63;
 				{ CGIClass 
 					- _id = GUID 00ba173a-9617-4dbb-91bd-9085d7232fbf;
 					- m_type = 78;
@@ -7347,7 +7347,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.123118 0 0 0.0532213 846.25 1116.05 ;
+					- m_transform = 0.123118 0 0 0.0532213 841.25 1387.05 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -7392,7 +7392,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.117803 0 0 0.0728291 851.235 1195.07 ;
+					- m_transform = 0.115146 0 0 0.0644257 850.23 1465.06 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -7562,7 +7562,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 0;
-					- m_SourcePort = 977 442 ;
+					- m_SourcePort = 887 885 ;
 					- m_TargetPort = 160 581 ;
 					- m_ShowName = 0;
 					- m_ShowStereotype = 1;
@@ -7640,7 +7640,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 0;
-					- m_SourcePort = 917 756 ;
+					- m_SourcePort = 637 941 ;
 					- m_TargetPort = 250 694 ;
 					- m_ShowName = 0;
 					- m_ShowStereotype = 1;
@@ -8530,7 +8530,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.11426 0 0 0.0662932 761.23 798.066 ;
+					- m_transform = 0.11426 0 0 0.0662932 812.23 806.066 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -8575,7 +8575,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.107174 0 0 0.0616247 758.21 721.062 ;
+					- m_transform = 0.107174 0 0 0.0616247 809.21 729.062 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -8776,7 +8776,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.105403 0 0 0.0588235 769.21 629.059 ;
+					- m_transform = 0.105403 0 0 0.0588235 810.21 650.059 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -8868,7 +8868,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 0;
-					- m_SourcePort = 549 180 ;
+					- m_SourcePort = 847 210 ;
 					- m_TargetPort = 55 645 ;
 					- m_ShowName = 0;
 					- m_ShowStereotype = 1;
@@ -9326,6 +9326,654 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_ShowName = 0;
 					- m_ShowStereotype = 1;
 				}
+				{ CGIBasicClass 
+					- _id = GUID 770734c9-38cb-4f3d-a047-4475e9a47a31;
+					- m_type = 125;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IUseCase";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "";
+						- _name = "Dar de Alta Trabajador";
+						- _id = GUID eb7e88ba-d57d-4c8a-a4ff-7597c6341745;
+					}
+					- m_pParent = GUID 00ba173a-9617-4dbb-91bd-9085d7232fbf;
+					- m_name = { CGIText 
+						- m_str = "Dar de Alta Trabajador";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 2056;
+					- m_transform = 0.11426 0 0 0.0662932 845.229 1118.07 ;
+					- m_bIsPreferencesInitialized = 1;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+				}
+				{ CGIBasicClass 
+					- _id = GUID c297c29c-39d2-42c0-ab16-5bb4ae18cb8a;
+					- m_type = 125;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IUseCase";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "";
+						- _name = "Dar de Baja Trabajador";
+						- _id = GUID eb818e19-8d36-4633-8e47-9ada9f628c47;
+					}
+					- m_pParent = GUID 00ba173a-9617-4dbb-91bd-9085d7232fbf;
+					- m_name = { CGIText 
+						- m_str = "Dar de Baja Trabajador";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 2056;
+					- m_transform = 0.11426 0 0 0.0662932 851.229 1203.07 ;
+					- m_bIsPreferencesInitialized = 1;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+				}
+				{ CGIBasicClass 
+					- _id = GUID 6578863b-79c7-4d91-848f-52f69ba481e4;
+					- m_type = 125;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IUseCase";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "";
+						- _name = "Modificar Trabajador";
+						- _id = GUID 4ceeb7cf-2990-4425-8806-a40e65d8d7fa;
+					}
+					- m_pParent = GUID 00ba173a-9617-4dbb-91bd-9085d7232fbf;
+					- m_name = { CGIText 
+						- m_str = "Modificar Trabajador";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 2056;
+					- m_transform = 0.11426 0 0 0.0662932 841.229 1295.07 ;
+					- m_bIsPreferencesInitialized = 1;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+				}
+				{ CGIInheritance 
+					- _id = GUID 2bcc0140-a969-49fc-9627-3a4f87a179f4;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Gesti\ón Trabajadores";
+						- _name = "Modificar Trabajador";
+						- _id = GUID 5ca15bb7-f4c6-40b3-8674-7424367801f4;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Modificar Trabajador";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 29e67c1d-0f1b-4f62-9f86-c06c0366d637;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID 6578863b-79c7-4d91-848f-52f69ba481e4;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "extend";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 1037 664 ;
+					- m_TargetPort = 86 557 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
+				{ CGIInheritance 
+					- _id = GUID 53eecf03-0da2-42a4-b0c6-3cc1651286b9;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Gesti\ón Trabajadores";
+						- _name = "Dar de Baja Trabajador";
+						- _id = GUID ba420bc3-a01e-4716-ad1a-f01677fb59a2;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Dar de Baja Trabajador";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 29e67c1d-0f1b-4f62-9f86-c06c0366d637;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID c297c29c-39d2-42c0-ab16-5bb4ae18cb8a;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "extend";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 1127 461 ;
+					- m_TargetPort = 156 557 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
+				{ CGIInheritance 
+					- _id = GUID 7627959f-5861-4a40-b1ab-72c3257ae7c7;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Gesti\ón Trabajadores";
+						- _name = "Dar de Alta Trabajador";
+						- _id = GUID 7e9233c8-839d-47cc-8994-6b9d1090d366;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Dar de Alta Trabajador";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 29e67c1d-0f1b-4f62-9f86-c06c0366d637;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID 770734c9-38cb-4f3d-a047-4475e9a47a31;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "extend";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 967 295 ;
+					- m_TargetPort = 418 557 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
+				{ CGIBasicClass 
+					- _id = GUID e94b93f8-3399-4bd4-a338-a9044de80448;
+					- m_type = 125;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IUseCase";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "";
+						- _name = "Actualizar fechas";
+						- _id = GUID a9feab1b-96e3-4b92-ad42-9b11520c082e;
+					}
+					- m_pParent = GUID 00ba173a-9617-4dbb-91bd-9085d7232fbf;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 2056;
+					- m_transform = 0.103632 0 0 0.0532213 1126.21 337.053 ;
+					- m_bIsPreferencesInitialized = 1;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+				}
+				{ CGIInheritance 
+					- _id = GUID 6b3f91b3-9c3c-4fad-83e5-d8546df1cd1b;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Solicitar Petici\ón de Trabajo";
+						- _name = "Actualizar fechas";
+						- _id = GUID 807e8852-39cf-46f7-883e-8cb210092585;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID bd0c5b0c-abd6-43f8-90b8-c9691e750097;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID e94b93f8-3399-4bd4-a338-a9044de80448;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "include";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 792 954 ;
+					- m_TargetPort = 392 512 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
+				{ CGIInheritance 
+					- _id = GUID cfa6a468-45ca-41f8-a006-b412133d4a5b;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Aceptar Presupuesto";
+						- _name = "Actualizar fechas";
+						- _id = GUID 4c69aa80-ded8-4444-8a93-b42422191a21;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 381510aa-5768-4b92-aa55-49a2678442d3;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID e94b93f8-3399-4bd4-a338-a9044de80448;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "include";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 1067 545 ;
+					- m_TargetPort = 339 682 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
+				{ CGIInheritance 
+					- _id = GUID 27f20bcf-83ff-49ce-860e-6bef6b95e5db;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Crear Factura";
+						- _name = "Actualizar fechas_0";
+						- _id = GUID 9930cbe5-d4e0-4945-b11c-7ec5fcda6bd8;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas_0";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 0ebb6544-3fd1-4c11-84c2-e2ad7ae023f0;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID e94b93f8-3399-4bd4-a338-a9044de80448;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "include";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 942 594 ;
+					- m_TargetPort = 252 405 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
 				
 				- m_access = 'Z';
 				- m_modified = 'N';
@@ -9602,15 +10250,15 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Responsable de Almacen";
-			- _objectCreation = "3640562414201810212271136";
-			- _umlDependencyID = "4472";
+			- _objectCreation = "2926099111120189229311229";
+			- _umlDependencyID = "4492";
 			- _description = { IDescription 
 				- _textRTF = "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset0 Arial;}}
 \\viewkind4\\uc1\\pard\\ltrpar\\f0\\fs21 El responsable de almac\\'e9n puede modificar la informaci\\'f3n referida a los art\\'edculos de un proveedor (a\\'f1adir nuevos art\\'edculos, eliminar art\\'edculos y modificar informaci\\'f3n de los art\\'edculos).\\f1\\fs20\\par
 }
 ";
 			}
-			- _lastModifiedTime = "10.22.2018::14:25:9";
+			- _lastModifiedTime = "12.11.2018::8:0:37";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID a6437642-e388-4a90-9935-267cb308233a;
 				- m_type = 0;
@@ -9634,7 +10282,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 				- m_drawBehavior = 0;
 				- m_bIsPreferencesInitialized = 0;
-				- elementList = 34;
+				- elementList = 38;
 				{ CGIClass 
 					- _id = GUID 90213989-e61a-40b8-83ad-8d9e051fc262;
 					- m_type = 78;
@@ -9846,7 +10494,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.106289 0 0 0.060691 728.213 173.061 ;
+					- m_transform = 0.10806 0 0 0.0737629 728.217 173.074 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -9891,7 +10539,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.127546 0 0 0.0597572 724.255 247.06 ;
+					- m_transform = 0.125775 0 0 0.0690943 718.251 273.069 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -11890,6 +12538,252 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_specificType = symmetric_type;
 				}
+				{ CGIBasicClass 
+					- _id = GUID 62d96097-5e95-43ec-9eb4-76c91ff7a7dc;
+					- m_type = 125;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IUseCase";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "";
+						- _name = "Revisar Estado Pedido";
+						- _id = GUID 070baef0-8186-45bf-9f8c-b4ffb4bd5012;
+					}
+					- m_pParent = GUID 90213989-e61a-40b8-83ad-8d9e051fc262;
+					- m_name = { CGIText 
+						- m_str = "Revisar Estado Pedido";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 2056;
+					- m_transform = 0.119575 0 0 0.0634921 499.239 331.063 ;
+					- m_bIsPreferencesInitialized = 1;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+				}
+				{ CGIInheritance 
+					- _id = GUID f421c00c-2295-4a5a-aa48-213ec88a0428;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Identificaci\ón";
+						- _name = "Revisar Estado Pedido";
+						- _id = GUID 76972e59-728e-4a4a-b9be-357d9f1dff39;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Revisar Estado Pedido";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID c455f01c-0406-4f8d-bbe2-31756b1a8587;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID 62d96097-5e95-43ec-9eb4-76c91ff7a7dc;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "include";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 741 780 ;
+					- m_TargetPort = 304 648 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
+				{ CGIBasicClass 
+					- _id = GUID c48b6965-80e6-43ba-a195-3c2c3d57c756;
+					- m_type = 125;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IUseCase";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "";
+						- _name = "Actualizar fechas";
+						- _id = GUID a9feab1b-96e3-4b92-ad42-9b11520c082e;
+					}
+					- m_pParent = GUID 90213989-e61a-40b8-83ad-8d9e051fc262;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 2056;
+					- m_transform = 0.11426 0 0 0.0662932 964.229 272.066 ;
+					- m_bIsPreferencesInitialized = 1;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+				}
+				{ CGIInheritance 
+					- _id = GUID cbf2ecef-03d1-4ecf-805e-dd8b5ff1e797;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Realizar Pedido Piezas Especiales";
+						- _name = "Actualizar fechas";
+						- _id = GUID 15668bfe-9cd2-428b-8e28-70d97886e174;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID a73ffa1b-994a-43fa-83d1-1c172f2e10e6;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID c48b6965-80e6-43ba-a195-3c2c3d57c756;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "include";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 920 578 ;
+					- m_TargetPort = 558 512 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
 				
 				- m_access = 'Z';
 				- m_modified = 'N';
@@ -12082,9 +12976,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones de los T\écnicos";
-			- _objectCreation = "3640582414201810212251136";
-			- _umlDependencyID = "3690";
-			- _lastModifiedTime = "10.22.2018::13:26:47";
+			- _objectCreation = "2926101111120189229291229";
+			- _umlDependencyID = "3701";
+			- _lastModifiedTime = "12.11.2018::7:58:45";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 5863ead8-6ed7-466f-902b-c078ba22aed2;
 				- m_type = 0;
@@ -12108,7 +13002,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 				- m_drawBehavior = 0;
 				- m_bIsPreferencesInitialized = 0;
-				- elementList = 12;
+				- elementList = 14;
 				{ CGIClass 
 					- _id = GUID 8138a167-e336-4073-b915-ce94bafad054;
 					- m_type = 78;
@@ -12275,7 +13169,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.11426 0 0 0.0662932 601.229 88.0663 ;
+					- m_transform = 0.11426 0 0 0.0662932 649.229 47.0663 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -12320,7 +13214,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.11426 0 0 0.0662932 602.229 187.066 ;
+					- m_transform = 0.11426 0 0 0.0662932 665.229 157.066 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -12915,6 +13809,129 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_specificType = symmetric_type;
 				}
+				{ CGIBasicClass 
+					- _id = GUID 56341eb3-f7ee-42ac-a406-7a550c42eef1;
+					- m_type = 125;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IUseCase";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "";
+						- _name = "Actualizar fechas";
+						- _id = GUID a9feab1b-96e3-4b92-ad42-9b11520c082e;
+					}
+					- m_pParent = GUID 8138a167-e336-4073-b915-ce94bafad054;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 2056;
+					- m_transform = 0.11426 0 0 0.0662932 888.229 34.0663 ;
+					- m_bIsPreferencesInitialized = 1;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+				}
+				{ CGIInheritance 
+					- _id = GUID 9b710c4d-5d90-4743-896b-7ec9fa7463e5;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Dar de Alta Parte Trabajo";
+						- _name = "Actualizar fechas_0";
+						- _id = GUID ac866c53-e321-4bcc-bcf4-d7ef302b4b8d;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas_0";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 32cfe0d7-0e12-47d7-92c1-2b5003432e5d;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID 56341eb3-f7ee-42ac-a406-7a550c42eef1;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "include";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 1039 452 ;
+					- m_TargetPort = 418 602 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
 				
 				- m_access = 'Z';
 				- m_modified = 'N';
@@ -13107,9 +14124,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Acciones Sistema";
-			- _objectCreation = "3640602414201810212231136";
-			- _umlDependencyID = "3149";
-			- _lastModifiedTime = "10.30.2018::8:0:7";
+			- _objectCreation = "2926103111120189229271229";
+			- _umlDependencyID = "3169";
+			- _lastModifiedTime = "12.11.2018::8:4:26";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 99794fdc-9644-4e7c-b795-4d4c5c469561;
 				- m_type = 0;
@@ -13133,7 +14150,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 				- m_drawBehavior = 0;
 				- m_bIsPreferencesInitialized = 0;
-				- elementList = 22;
+				- elementList = 24;
 				{ CGIClass 
 					- _id = GUID c2fcf67a-8e74-422d-bc16-5bd32d464c63;
 					- m_type = 78;
@@ -13275,51 +14292,6 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_nIsNameFormat = 0;
 				}
 				{ CGIBasicClass 
-					- _id = GUID 58d43be9-4c20-4646-9527-0d578cd3675d;
-					- m_type = 125;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IUseCase";
-						- _filename = "Default.sbs";
-						- _subsystem = "Default";
-						- _class = "";
-						- _name = "Actualizar fechas";
-						- _id = GUID a9feab1b-96e3-4b92-ad42-9b11520c082e;
-					}
-					- m_pParent = GUID c2fcf67a-8e74-422d-bc16-5bd32d464c63;
-					- m_name = { CGIText 
-						- m_str = "Actualizar fechas";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 1 0 0  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_nOrientationCtrlPt = 5;
-					}
-					- m_drawBehavior = 2056;
-					- m_transform = 0.0938884 0 0 0.0588235 538.188 76.0588 ;
-					- m_bIsPreferencesInitialized = 1;
-					- m_AdditionalLabel = { CGIText 
-						- m_str = "";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 1 0 0  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_nOrientationCtrlPt = 1;
-					}
-					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
-					- m_nNameFormat = 0;
-					- m_nIsNameFormat = 0;
-				}
-				{ CGIBasicClass 
 					- _id = GUID 84710f74-4944-4e1f-8a4c-d7ac28e9f830;
 					- m_type = 125;
 					- m_pModelObject = { IHandle 
@@ -13345,7 +14317,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.100974 0 0 0.0429505 541.202 158.043 ;
+					- m_transform = 0.100974 0 0 0.0429505 553.202 113.043 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -13390,7 +14362,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.0912312 0 0 0.0560224 537.182 224.056 ;
+					- m_transform = 0.0912312 0 0 0.0560224 562.182 192.056 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -13408,84 +14380,6 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
 					- m_nNameFormat = 0;
 					- m_nIsNameFormat = 0;
-				}
-				{ CGIInheritance 
-					- _id = GUID 6af59034-3d48-42e5-8ea6-31377d254312;
-					- _properties = { IPropertyContainer 
-						- Subjects = { IRPYRawContainer 
-							- size = 1;
-							- value = 
-							{ IPropertySubject 
-								- _Name = "General";
-								- Metaclasses = { IRPYRawContainer 
-									- size = 1;
-									- value = 
-									{ IPropertyMetaclass 
-										- _Name = "Graphics";
-										- Properties = { IRPYRawContainer 
-											- size = 1;
-											- value = 
-											{ IProperty 
-												- _Name = "ShowLabels";
-												- _Value = "False";
-												- _Type = Bool;
-											}
-										}
-									}
-								}
-							}
-						}
-					}
-					- m_type = 128;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IDependency";
-						- _filename = "Default.sbs";
-						- _subsystem = "Default";
-						- _class = "Control Informaci\ón Sistema";
-						- _name = "Actualizar fechas";
-						- _id = GUID 6598968e-4e21-492b-8280-1aee3da6309d;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "Actualizar fechas";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 1 0 0  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_nOrientationCtrlPt = 8;
-					}
-					- m_drawBehavior = 8;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pSource = GUID 9c4ba9ec-41ef-492f-86fd-1389f57f8d38;
-					- m_sourceType = 'F';
-					- m_pTarget = GUID 58d43be9-4c20-4646-9527-0d578cd3675d;
-					- m_targetType = 'T';
-					- m_direction = ' ';
-					- m_rpn = { CGIText 
-						- m_str = "extend";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 1 0 0  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_nOrientationCtrlPt = 8;
-					}
-					- m_anglePoint1 = 0 0 ;
-					- m_anglePoint2 = 0 0 ;
-					- m_line_style = 0;
-					- m_SourcePort = 998 542 ;
-					- m_TargetPort = 360 662 ;
-					- m_ShowName = 0;
-					- m_ShowStereotype = 1;
 				}
 				{ CGIInheritance 
 					- _id = GUID 6fb34d54-809b-40fc-ad37-1aed487a27ea;
@@ -13638,7 +14532,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 0;
-					- m_SourcePort = 1032 527 ;
+					- m_SourcePort = 1032 292 ;
 					- m_TargetPort = 295 791 ;
 					- m_ShowName = 0;
 					- m_ShowStereotype = 1;
@@ -14458,7 +15352,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 2056;
-					- m_transform = 0.115146 0 0 0.0737628 310.23 512.074 ;
+					- m_transform = 0.111603 0 0 0.063492 310.223 512.064 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_AdditionalLabel = { CGIText 
 						- m_str = "";
@@ -14552,6 +15446,252 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- m_line_style = 0;
 					- m_SourcePort = 546 894 ;
 					- m_TargetPort = 371 392 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
+				{ CGIBasicClass 
+					- _id = GUID 0cf8b512-a89a-41f8-9702-28940bc49648;
+					- m_type = 125;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IUseCase";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "";
+						- _name = "Actualizar fechas";
+						- _id = GUID a9feab1b-96e3-4b92-ad42-9b11520c082e;
+					}
+					- m_pParent = GUID c2fcf67a-8e74-422d-bc16-5bd32d464c63;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 2056;
+					- m_transform = 0.0983171 0 0 0.0457516 479.197 592.046 ;
+					- m_bIsPreferencesInitialized = 1;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+				}
+				{ CGIInheritance 
+					- _id = GUID 30c51dde-52f5-41c5-9392-01bf436318a6;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Solicitar Pedidos a Proveedores";
+						- _name = "Actualizar fechas";
+						- _id = GUID d717c2c1-d36f-44ed-a069-d591c36b3f1a;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Actualizar fechas";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 9a163d4b-0c45-4ef4-b6c1-1ee9f0727637;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID 0cf8b512-a89a-41f8-9702-28940bc49648;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "include";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 930 865 ;
+					- m_TargetPort = 716 798 ;
+					- m_ShowName = 0;
+					- m_ShowStereotype = 1;
+				}
+				{ CGIBasicClass 
+					- _id = GUID c6ef5285-1d19-472f-8fa9-f86025f1919d;
+					- m_type = 125;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IUseCase";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "";
+						- _name = "Actualizar Pedidos";
+						- _id = GUID ab002ef3-d7f8-4305-8d8f-c9eb757c3281;
+					}
+					- m_pParent = GUID c2fcf67a-8e74-422d-bc16-5bd32d464c63;
+					- m_name = { CGIText 
+						- m_str = "Actualizar Pedidos";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 2056;
+					- m_transform = 0.0859167 0 0 0.0494865 557.172 43.0495 ;
+					- m_bIsPreferencesInitialized = 1;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 -2 -1  -2 1070  1127 1070  1127 -1  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+				}
+				{ CGIInheritance 
+					- _id = GUID b147f4b9-a1fe-492d-bfda-9ec7f0b4f641;
+					- _properties = { IPropertyContainer 
+						- Subjects = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertySubject 
+								- _Name = "General";
+								- Metaclasses = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IPropertyMetaclass 
+										- _Name = "Graphics";
+										- Properties = { IRPYRawContainer 
+											- size = 1;
+											- value = 
+											{ IProperty 
+												- _Name = "ShowLabels";
+												- _Value = "False";
+												- _Type = Bool;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					- m_type = 128;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IDependency";
+						- _filename = "Default.sbs";
+						- _subsystem = "Default";
+						- _class = "Control Informaci\ón Sistema";
+						- _name = "Actualizar Pedidos";
+						- _id = GUID 7b854900-332d-4e12-88a0-2e1ca9279990;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "Actualizar Pedidos";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 9c4ba9ec-41ef-492f-86fd-1389f57f8d38;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID c6ef5285-1d19-472f-8fa9-f86025f1919d;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "extend";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 0;
+					- m_SourcePort = 800 204 ;
+					- m_TargetPort = 522 322 ;
 					- m_ShowName = 0;
 					- m_ShowStereotype = 1;
 				}
