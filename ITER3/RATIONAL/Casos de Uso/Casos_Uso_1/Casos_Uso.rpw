@@ -9,8 +9,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -29,16 +29,16 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 43fbfd57-822c-4ca2-b5f9-465091b878a8;
 			}
-			- _UpLeft = 37 468 ;
-			- _DownRight = 517 848 ;
+			- _UpLeft = 37 43 ;
+			- _DownRight = 1292 893 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 6;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -57,8 +57,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Responsable de Almacen";
 				- _id = GUID e54503cc-c709-431e-b5e9-c813b52d6d1a;
 			}
-			- _UpLeft = 6 144 ;
-			- _DownRight = 1312 1029 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1043 565 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 4;
 		}
@@ -86,7 +86,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID f1c01f4e-8847-406b-b409-279e20f5fb65;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 1463 770 ;
+			- _DownRight = 815 429 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 7;
 		}
