@@ -30,7 +30,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 5d9c67bc-2fa8-4215-86d0-34f19cbc801a;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 907 491 ;
+			- _DownRight = 762 413 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 18;
 		}
@@ -57,8 +57,13 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 6e44eba0-1404-4c13-9ec9-ac109bc9e859;
 			}
+<<<<<<< HEAD
+			- _UpLeft = 0 532 ;
+			- _DownRight = 1029 1090 ;
+=======
 			- _UpLeft = 0 82 ;
 			- _DownRight = 1360 819 ;
+>>>>>>> a486232dcb263def6c3ed9ed53fdcc09e0c8b4a5
 			- _instanceName = "";
 			- m_nDiagramIndex = 20;
 		}
@@ -86,7 +91,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 8e01e6f2-ffc6-4588-b5fc-0b686d6f016a;
 			}
 			- _UpLeft = -71 0 ;
-			- _DownRight = 958 558 ;
+			- _DownRight = 691 413 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 17;
 		}
@@ -113,8 +118,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Sistema";
 				- _id = GUID 74477e2e-cd7e-4062-9aed-c3e6f40c210f;
 			}
-			- _UpLeft = 0 2 ;
-			- _DownRight = 802 436 ;
+			- _UpLeft = 0 32 ;
+			- _DownRight = 802 466 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 16;
 		}
@@ -142,7 +147,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID cc941238-6cd4-4ee4-be0c-1e5730d5aabb;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 856 464 ;
+			- _DownRight = 762 413 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 19;
 		}
@@ -366,7 +371,15 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 60e53841-f547-4065-bb09-95cae5a9f513;
 			}
 			- _UpLeft = 0 0 ;
+<<<<<<< HEAD
 			- _DownRight = 961 460 ;
+=======
+<<<<<<< HEAD
+			- _DownRight = 870 416 ;
+=======
+			- _DownRight = 947 453 ;
+>>>>>>> a486232dcb263def6c3ed9ed53fdcc09e0c8b4a5
+>>>>>>> bd92030f235e3cee1dd8cab0668e43b5d49dc958
 			- _instanceName = "";
 			- m_nDiagramIndex = 5;
 		}
@@ -541,8 +554,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -562,7 +575,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID f98cf907-0b04-4241-a5cf-fd614239acc4;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 788 388 ;
+			- _DownRight = 409 802 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 14;
 		}
@@ -735,7 +748,11 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 12;
 		}
 	}
+<<<<<<< HEAD
+	- _fullName = "D:\\gituni\\SW\\ITER3\\RATIONAL\\Diagrama_Clases_Reducido\\Diagrama_Clases_Reducido";
+=======
 	- _fullName = "C:\\Users\\Usuario\\OneDrive\\UNIVERSIDAD\\TERCER CURSO\\INGENIERIA DEL SOFTWARE AVANZADA\\LABORATORIO\\SW\\ITER3\\RATIONAL\\Diagrama_Clases_Reducido\\Diagrama_Clases_Reducido";
+>>>>>>> a486232dcb263def6c3ed9ed53fdcc09e0c8b4a5
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
