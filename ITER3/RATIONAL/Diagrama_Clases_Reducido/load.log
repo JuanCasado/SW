@@ -1,17 +1,30 @@
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
 12, 23, 2018 (11:25:24): 
  Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Sunday, December 23, 2018 (11:25:24).-
 
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
+12, 23, 2018 (10:27:27): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
  Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Sunday, December 23, 2018 (11:25:24).-
 
@@ -20,15 +33,30 @@ Finished inUnit resolution phase
  Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Sunday, December 23, 2018 (11:25:24).-
 
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs
+12, 23, 2018 (10:27:27): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
  Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Sunday, December 23, 2018 (11:25:24).-
 
@@ -41,15 +69,34 @@ Finished inUnit resolution phase
  Started loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\Default.sbs on Sunday, December 23, 2018 (11:25:24).-
 
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): Opening rpy file D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy
+12, 23, 2018 (10:27:27): 
+ Started loading D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): Opening rpy file D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\Default.sbs
+12, 23, 2018 (10:27:27): 
+ Started loading D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\Default.sbs on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\Default.sbs on Sunday, December 23, 2018 (11:25:24).-
 
@@ -58,15 +105,30 @@ Finished inUnit resolution phase
  Started loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\TipoDatos.sbs on Sunday, December 23, 2018 (11:25:24).-
 
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+ Finished loading D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\Default.sbs on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): Opening rpy file D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\TipoDatos.sbs
+12, 23, 2018 (10:27:27): 
+ Started loading D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\TipoDatos.sbs on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\TipoDatos.sbs on Sunday, December 23, 2018 (11:25:24).-
 
@@ -75,51 +137,101 @@ Finished inUnit resolution phase
  Started loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\DefaultComponent.cmp on Sunday, December 23, 2018 (11:25:24).-
 
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+ Finished loading D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\TipoDatos.sbs on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): Opening rpy file D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\DefaultComponent.cmp
+12, 23, 2018 (10:27:27): 
+ Started loading D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\DefaultComponent.cmp on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\DefaultComponent.cmp on Sunday, December 23, 2018 (11:25:24).-
 
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+ Finished loading D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido_rpy\DefaultComponent.cmp on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Starting inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
+=======
+12, 23, 2018 (10:27:27): 
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
 
 Finished inUnit resolution phase
 
 
+<<<<<<< HEAD
 12, 23, 2018 (11:25:24): 
  Finished loading D:\UNIVERSIDAD\REPOSITORIOSGIT\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Sunday, December 23, 2018 (11:25:24).-
 
 12, 23, 2018 (11:25:24): Starting checks of EventsBaseID conflicts
 12, 23, 2018 (11:25:24): Finished checks of EventsBaseID conflicts
 12, 23, 2018 (11:25:24): End Log
+=======
+12, 23, 2018 (10:27:27): 
+ Finished loading D:\gituni\SW\ITER3\RATIONAL\Diagrama_Clases_Reducido\Diagrama_Clases_Reducido.rpy on Sunday, December 23, 2018 (10:27:27).-
+
+12, 23, 2018 (10:27:27): Starting checks of EventsBaseID conflicts
+12, 23, 2018 (10:27:27): Finished checks of EventsBaseID conflicts
+12, 23, 2018 (10:27:27): End Log
+>>>>>>> 5064d46b9f6add6f64596f66cc9b973cbb0ce0fb
