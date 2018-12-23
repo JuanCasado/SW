@@ -30,7 +30,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 5d9c67bc-2fa8-4215-86d0-34f19cbc801a;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 896 486 ;
+			- _DownRight = 907 491 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 16;
 		}
@@ -57,8 +57,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Coordinador";
 				- _id = GUID 6e44eba0-1404-4c13-9ec9-ac109bc9e859;
 			}
-			- _UpLeft = 30 107 ;
-			- _DownRight = 1431 1056 ;
+			- _UpLeft = 30 85 ;
+			- _DownRight = 1431 1079 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 18;
 		}
@@ -85,8 +85,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Responsable";
 				- _id = GUID 8e01e6f2-ffc6-4588-b5fc-0b686d6f016a;
 			}
-			- _UpLeft = -68 0 ;
-			- _DownRight = 948 551 ;
+			- _UpLeft = -71 0 ;
+			- _DownRight = 958 558 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 15;
 		}
@@ -141,8 +141,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Acciones Tecnico";
 				- _id = GUID cc941238-6cd4-4ee4-be0c-1e5730d5aabb;
 			}
-			- _UpLeft = 48 0 ;
-			- _DownRight = 895 459 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 856 464 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 17;
 		}
