@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 0662b404-6264-4ddf-a646-5d4b7518f320;
 	- _myState = 8192;
 	- _name = "GestorArchivos";
-	- _objectCreation = "5214259264201816105921252";
-	- _umlDependencyID = "3099";
+	- _objectCreation = "2013885265520181896581220";
+	- _umlDependencyID = "3112";
 	- m_buildType = Executable;
 	- m_libraries = "";
 	- m_additionalSources = "";
@@ -15,9 +15,9 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 		- _id = GUID 9b8bf8ec-6de2-4b6b-add0-7f5cc0f58053;
 		- _myState = 73728;
 		- _name = "Files";
-		- _objectCreation = "5214261264201816105901252";
-		- _umlDependencyID = "2130";
-		- _lastID = 2;
+		- _objectCreation = "2013887265520181896561220";
+		- _umlDependencyID = "2152";
+		- _lastID = 3;
 		- m_path = "";
 		- Elements = { IRPYRawContainer 
 			- size = 1;
@@ -32,14 +32,14 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 			}
 		}
 		- Files = { IRPYRawContainer 
-			- size = 2;
+			- size = 3;
 			- value = 
 			{ IFolder 
 				- _id = GUID cabdc6e8-76f6-489c-94b9-50e3ce5f4924;
 				- _myState = 8192;
 				- _name = "InformesDescargados";
-				- _objectCreation = "5214263264201816105881252";
-				- _umlDependencyID = "3595";
+				- _objectCreation = "2013889265520181896541220";
+				- _umlDependencyID = "3608";
 				- m_path = "";
 				- Elements = { IRPYRawContainer 
 					- size = 0;
@@ -52,8 +52,23 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				- _id = GUID 14320dcd-f0a8-4971-8c0b-65e83226a64c;
 				- _myState = 8192;
 				- _name = "Informes";
-				- _objectCreation = "5214265264201816105861252";
-				- _umlDependencyID = "2475";
+				- _objectCreation = "2013891265520181896521220";
+				- _umlDependencyID = "2479";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			{ IFolder 
+				- _id = GUID 52e6ffa3-4adc-4533-8f89-e6f4663d9048;
+				- _myState = 8192;
+				- _name = "Copias_de_segudidad";
+				- _displayName = "Copias de segudidad";
+				- _objectCreation = "2013893265520181896501220";
+				- _umlDependencyID = "3580";
 				- m_path = "";
 				- Elements = { IRPYRawContainer 
 					- size = 0;
@@ -87,15 +102,15 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 			- _id = GUID 6bb6082c-dd5e-4a14-af29-1a2681a20486;
 			- _myState = 8192;
 			- _name = "DefaultConfig";
-			- _objectCreation = "5214267264201816105841252";
-			- _umlDependencyID = "2947";
+			- _objectCreation = "2013895265520181896481220";
+			- _umlDependencyID = "2960";
 			- HyperLinks = { IRPYRawContainer 
 				- size = 2;
 				- value = 
 				{ IMHyperLink 
 					- _id = GUID 1ee20650-9675-481a-a95f-2d159e77e682;
-					- _objectCreation = "5214269264201816105821252";
-					- _umlDependencyID = "1640";
+					- _objectCreation = "2013897265520181896461220";
+					- _umlDependencyID = "1653";
 					- _dependsOn = { INObjectHandle 
 						- _m2Class = "";
 					}
@@ -106,8 +121,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 				{ IMHyperLink 
 					- _id = GUID 9ff8b17d-08a8-441d-b6b7-e30ad44cde44;
-					- _objectCreation = "5214271264201816105801252";
-					- _umlDependencyID = "1631";
+					- _objectCreation = "2013899265520181896441220";
+					- _umlDependencyID = "1653";
 					- _dependsOn = { INObjectHandle 
 						- _m2Class = "";
 					}
@@ -139,8 +154,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				- _id = GUID a35a282b-7465-4032-a3c2-f2d019bd0896;
 				- _myState = 8192;
 				- _name = "DefaultConfig";
-				- _objectCreation = "5214273264201816105781252";
-				- _umlDependencyID = "2947";
+				- _objectCreation = "2013901265520181896421220";
+				- _umlDependencyID = "2942";
 				- m_path = "";
 				- Elements = { IRPYRawContainer 
 					- size = 0;
@@ -163,7 +178,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- SelectedVariants = { IRPYRawContainer 
 		- size = 0;
 	}
-	- weakCGTime = 12.26.2018::15:4:1;
-	- strongCGTime = 12.26.2018::15:3:58;
+	- weakCGTime = 12.26.2018::17:50:49;
+	- strongCGTime = 12.26.2018::17:50:38;
 }
 
