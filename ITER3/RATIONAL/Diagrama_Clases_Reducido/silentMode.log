@@ -1858,3 +1858,9 @@
 12, 26, 2018 (15:56:20): UR named: Declinar presupuesto, of type IUseCase, and ID: 5569223d-69af-415b-8374-36a3f0fc9e9a was created. Owned by the Default Package.
 12, 26, 2018 (15:56:20): UR named: Solicita, of type IStereotype, and ID: ed1a4602-54f0-48c5-afa9-9b8d1434ae47 was created. Owned by the Default Package.
 12, 26, 2018 (15:56:20): UR named: stereotype_22, of type IStereotype, and ID: 71c1356f-8f68-4968-a05e-81bf494a8658 was created. Owned by the Default Package.
+12, 26, 2018 (16:01:27): UR named: Acciones de los Técnicos, of type IUCDiagram, and ID: 6c97560a-a914-4666-adcf-68c4e7f4ce11 was created. Owned by the Diagrama_Clases_Reducido Project.
+12, 26, 2018 (16:01:27): UR named: Gestión Proveedores, of type IUseCase, and ID: aad2cc31-e7b1-41b1-bbdf-b7921d727e68 was created. Owned by the Default Package.
+12, 26, 2018 (16:01:27): UR named: Consultar Trabajador, of type IUseCase, and ID: 80bae406-93a0-488f-be0e-9c532abd8e7a was created. Owned by the Default Package.
+12, 26, 2018 (16:01:27): UR named: Declinar presupuesto, of type IUseCase, and ID: 5569223d-69af-415b-8374-36a3f0fc9e9a was created. Owned by the Default Package.
+12, 26, 2018 (16:01:27): UR named: Solicita, of type IStereotype, and ID: ed1a4602-54f0-48c5-afa9-9b8d1434ae47 was created. Owned by the Default Package.
+12, 26, 2018 (16:01:27): UR named: stereotype_22, of type IStereotype, and ID: 71c1356f-8f68-4968-a05e-81bf494a8658 was created. Owned by the Default Package.
