@@ -1,0 +1,406 @@
+Listado de rutas de carpetas para el volumen DATA
+El n£mero de serie del volumen es 203F-7037
+D:.
+³   README.md
+³   Tree.txt
+³   tree_with_files.txt
+³   
+ÃÄÄÄDOCS
+³       A_ENTREGAR.pdf
+³       Calificaci¢nIteraci¢n(10)(1).docx
+³       Calificaci¢nIteraci¢n(9).docx
+³       Calificaci¢nIteraci¢n2_8-4.pdf
+³       chuleta entrevista.docx
+³       Comentarios_8_4.pdf
+³       ejemplo_de_especificacion_de_requerimientos_-_para_sesion_9.pdf
+³       EJEMPLO_PRUEBAS.pdf
+³       ENUNCIADO.pdf
+³       Enunciado_del_Proyecto_18_19_V2.pdf
+³       ieee830.pdf
+³       informe entrevista.pdf
+³       PECL1_INGSW-17.docx
+³       PECL1_INGSW-17.pdf
+³       Preguntas_ej_colaborativo.pdf
+³       REQUISITOS.pdf
+³       REQUISITOS_FUN.pdf
+³       Respuestas_ej_colaborativo.xlsx
+³       
+ÃÄÄÄITER1
+³   ³   README.md
+³   ³   
+³   ÃÄÄÄARTEFACTOS
+³   ³       1_Visi¢n.docx
+³   ³       1_Visi¢n.pdf
+³   ³       2_Requisitos.docx
+³   ³       2_Requisitos.pdf
+³   ³       3_CasosDeUso.docx
+³   ³       3_CasosDeUso.pdf
+³   ³       4_ModeladoDeDominio.docx
+³   ³       4_ModeladoDeDominio.pdf
+³   ³       5_ModeladoDeLosCasosDeUso.docx
+³   ³       5_ModeladoDeLosCasosDeUso.pdf
+³   ³       6_PlanDePruebas.docx
+³   ³       6_PlanDePruebas.pdf
+³   ³       6_PlanDePruebas_MODIFICADOITER2.docx
+³   ³       7_An lisisDeConsistencia.docx
+³   ³       7_An lisisDeConsistencia.pdf
+³   ³       AMPLIACION_MODELADO.txt
+³   ³       TABLAS ARTEFACTO 7.xlsx
+³   ³       
+³   ÃÄÄÄINTERFACES
+³   ³       SW_INTERFACE.xd
+³   ³       
+³   ÃÄÄÄPERMANENTES
+³   ³       SW_MODEL.txl
+³   ³       
+³   ÃÄÄÄRATIONAL
+³   ³   ÀÄÄÄCasos de Uso
+³   ³       ÃÄÄÄCasos_Uso_1
+³   ³       ³   ³   Casos_Uso.ehl
+³   ³       ³   ³   Casos_Uso.rpw
+³   ³       ³   ³   Casos_Uso.rpy
+³   ³       ³   ³   load.log
+³   ³       ³   ³   silentMode.log
+³   ³       ³   ³   store.log
+³   ³       ³   ³   
+³   ³       ³   ÀÄÄÄCasos_Uso_rpy
+³   ³       ³           Default.sbs
+³   ³       ³           DefaultComponent.cmp
+³   ³       ³           filesTable.dat
+³   ³       ³           
+³   ³       ÃÄÄÄCasos_Uso_2_y_3
+³   ³       ³   ³   Casos_Uso.ehl
+³   ³       ³   ³   Casos_Uso.rpw
+³   ³       ³   ³   Casos_Uso.rpy
+³   ³       ³   ³   load.log
+³   ³       ³   ³   silentMode.log
+³   ³       ³   ³   store.log
+³   ³       ³   ³   
+³   ³       ³   ÀÄÄÄCasos_Uso_rpy
+³   ³       ³           Default.sbs
+³   ³       ³           DefaultComponent.cmp
+³   ³       ³           filesTable.dat
+³   ³       ³           
+³   ³       ÃÄÄÄDiagrama_Estados
+³   ³       ³   ³   Diagrama_Estados.rpw
+³   ³       ³   ³   Diagrama_Estados.rpy
+³   ³       ³   ³   load.log
+³   ³       ³   ³   store.log
+³   ³       ³   ³   
+³   ³       ³   ÀÄÄÄDiagrama_Estados_rpy
+³   ³       ³           Default.sbs
+³   ³       ³           DefaultComponent.cmp
+³   ³       ³           filesTable.dat
+³   ³       ³           
+³   ³       ÀÄÄÄImagenes
+³   ³               Cliente2.bmp
+³   ³               Coordinador1.bmp
+³   ³               Coordinador2.bmp
+³   ³               Diagrama_Contexto.jpeg
+³   ³               Diagrama_Contexto.png
+³   ³               Diagrama_Contexto2.jpg
+³   ³               Diagrama_Estados.jpeg
+³   ³               Responsable1.bmp
+³   ³               Responsable2.bmp
+³   ³               Sistema1.bmp
+³   ³               Sistema2.bmp
+³   ³               store.log
+³   ³               Tecnico1.bmp
+³   ³               Tecnico2.bmp
+³   ³               
+³   ÀÄÄÄREUNION_INICIAL
+³           entrevista proyecto.pdf
+³           IMG_6596.jpeg
+³           IMG_6597.jpeg
+³           Notas y entrevista.pdf
+³           
+ÃÄÄÄITER2
+³   ³   README.md
+³   ³   
+³   ÃÄÄÄARTEFACTOS
+³   ³   ³   1_Visi¢n.pdf
+³   ³   ³   2_Requisitos.pdf
+³   ³   ³   3_CasosDeUso.pdf
+³   ³   ³   4_ModeladoDeDominio.docx
+³   ³   ³   4_ModeladoDeDominio.pdf
+³   ³   ³   5_ModeladoDeLosCasosDeUso.docx
+³   ³   ³   5_ModeladoDeLosCasosDeUso.pdf
+³   ³   ³   6_PlanDePruebas.pdf
+³   ³   ³   6_PLAN_DE_PRUEBAS.docx
+³   ³   ³   7_An lisisDeConsistencia.docx
+³   ³   ³   7_An lisisDeConsistencia.pdf
+³   ³   ³   8_ModeloDeDise¤o.pdf
+³   ³   ³   8_Modelo_de_dise¤o.docx
+³   ³   ³   9_ModeloDeDatos.pdf
+³   ³   ³   9_MODELO_DE_DATOS.docx
+³   ³   ³   Calificaci¢nIteraci¢n(10)(1).docx
+³   ³   ³   Calificaci¢nIteraci¢n2_8-4.pdf
+³   ³   ³   DIAGRAMAS_CLASES.pdf
+³   ³   ³   ITERACION2-ISA(8-4).zip
+³   ³   ³   PresentacionITER2-ISA(8-4).html
+³   ³   ³   TABLAS ARTEFACTO 7.xlsx
+³   ³   ³   
+³   ³   ÀÄÄÄPresentacionITER2-ISA(8-4)_files
+³   ³           analytics.js.descarga
+³   ³           bbf8aefa650b.css
+³   ³           cafc5a4e1ea6.js.descarga
+³   ³           gtm.js.descarga
+³   ³           prezipage-next-webgl-viewer-container-app.0.2.367.js.descarga
+³   ³           
+³   ÃÄÄÄdiagramas de secuencia
+³   ³       Actualizar Stock.jpeg
+³   ³       Asignar peticion de trabajo.jpeg
+³   ³       Crear parte trabajo.jpeg
+³   ³       Hacer pedido especial.jpeg
+³   ³       Solicitar peticion cliente.jpeg
+³   ³       
+³   ÃÄÄÄINTERFACES
+³   ³       SW_INTERFACE.xd
+³   ³       
+³   ÃÄÄÄPERMANENTES
+³   ³       bdscript.SQL
+³   ³       factura.json
+³   ³       informe_de_beneficios.json
+³   ³       informe_de_trabajo.json
+³   ³       MODELO_TABLAS.txp
+³   ³       resumen_de_trabjo.json
+³   ³       SW_MODEL.txl
+³   ³       
+³   ÀÄÄÄRATIONAL
+³       ÃÄÄÄCasos de Uso
+³       ³   ÃÄÄÄCasos_Uso_1
+³       ³   ³   ³   Casos_Uso.ehl
+³       ³   ³   ³   Casos_Uso.rpw
+³       ³   ³   ³   Casos_Uso.rpy
+³       ³   ³   ³   load.log
+³       ³   ³   ³   silentMode.log
+³       ³   ³   ³   store.log
+³       ³   ³   ³   
+³       ³   ³   ÀÄÄÄCasos_Uso_rpy
+³       ³   ³           Default.sbs
+³       ³   ³           DefaultComponent.cmp
+³       ³   ³           filesTable.dat
+³       ³   ³           
+³       ³   ÃÄÄÄCasos_Uso_2_y_3
+³       ³   ³   ³   Casos_Uso.ehl
+³       ³   ³   ³   Casos_Uso.rpw
+³       ³   ³   ³   Casos_Uso.rpy
+³       ³   ³   ³   load.log
+³       ³   ³   ³   silentMode.log
+³       ³   ³   ³   store.log
+³       ³   ³   ³   
+³       ³   ³   ÀÄÄÄCasos_Uso_rpy
+³       ³   ³           Default.sbs
+³       ³   ³           DefaultComponent.cmp
+³       ³   ³           filesTable.dat
+³       ³   ³           
+³       ³   ÃÄÄÄDiagrama_Estados
+³       ³   ³   ³   Diagrama_Estados.rpw
+³       ³   ³   ³   Diagrama_Estados.rpy
+³       ³   ³   ³   load.log
+³       ³   ³   ³   store.log
+³       ³   ³   ³   
+³       ³   ³   ÀÄÄÄDiagrama_Estados_rpy
+³       ³   ³           Default.sbs
+³       ³   ³           DefaultComponent.cmp
+³       ³   ³           filesTable.dat
+³       ³   ³           
+³       ³   ÀÄÄÄImagenes
+³       ³           Cliente2.bmp
+³       ³           Coordinador1.bmp
+³       ³           Coordinador2.bmp
+³       ³           Responsable1.bmp
+³       ³           Responsable2.bmp
+³       ³           Sistema1.bmp
+³       ³           Sistema2.bmp
+³       ³           store.log
+³       ³           Tecnico1.bmp
+³       ³           Tecnico2.bmp
+³       ³           
+³       ÀÄÄÄDiagrama_Clases_Reducido
+³           ³   Diagrama_Clases_Reducido.ehl
+³           ³   Diagrama_Clases_Reducido.rpw
+³           ³   Diagrama_Clases_Reducido.rpy
+³           ³   load.log
+³           ³   silentMode.log
+³           ³   store.log
+³           ³   
+³           ÀÄÄÄDiagrama_Clases_Reducido_rpy
+³                   Default.sbs
+³                   DefaultComponent.cmp
+³                   filesTable.dat
+³                   prueba.sbs
+³                   TipoDatos.sbs
+³                   
+ÀÄÄÄITER3
+    ³   README.md
+    ³   
+    ÃÄÄÄARTEFACTOS
+    ³       10_Modelado_de_la_arquitectura.docx
+    ³       11_Plan_de_implantacion.docx
+    ³       12_Aplicaci¢n_de_patrones.docx
+    ³       13_Informe_de_gesti¢n_del_proyecto.docx
+    ³       1_Visi¢n.docx
+    ³       1_Visi¢n.pdf
+    ³       2_Requisitos.docx
+    ³       2_Requisitos.pdf
+    ³       3_CasosDeUso.docx
+    ³       3_CasosDeUso.pdf
+    ³       4_ModeladoDeDominio.docx
+    ³       4_ModeladoDeDominio.pdf
+    ³       5_ModeladoDeLosCasosDeUso.docx
+    ³       5_ModeladoDeLosCasosDeUso.pdf
+    ³       6_PlanDePruebas.pdf
+    ³       6_PLAN_DE_PRUEBAS.docx
+    ³       7_An lisisDeConsistencia.docx
+    ³       7_An lisisDeConsistencia.pdf
+    ³       8_ModeloDeDise¤o.pdf
+    ³       8_Modelo_de_dise¤o.docx
+    ³       9_ModeloDeDatos.pdf
+    ³       9_MODELO_DE_DATOS.docx
+    ³       DIAGRAMAS_CLASES.pdf
+    ³       ITERACION2-ISA(8-4).zip
+    ³       Manual de explotaci¢n del sistema.docx
+    ³       Manual de usuario.docx
+    ³       TABLAS ARTEFACTO 7.xlsx
+    ³       
+    ÃÄÄÄINTERFACES
+    ³       AccionesMantenimiento.xd
+    ³       SIgn_In.xd
+    ³       SW_INTERFACE.xd
+    ³       
+    ÃÄÄÄPERMANENTES
+    ³   ³   bdscript.SQL
+    ³   ³   factura.json
+    ³   ³   informe_de_beneficios.json
+    ³   ³   informe_de_trabajo.json
+    ³   ³   MODELO_TABLAS.txp
+    ³   ³   resumen_de_trabjo.json
+    ³   ³   SW_MODEL.txl
+    ³   ³   
+    ³   ÀÄÄÄimagenes
+    ³           MODELO_TABLAS.png
+    ³           SW_MODEL.png
+    ³           
+    ÀÄÄÄRATIONAL
+        ÃÄÄÄCasos de Uso
+        ³   ³   store.log
+        ³   ³   
+        ³   ÃÄÄÄCasos_Uso_1
+        ³   ³   ³   Casos_Uso.ehl
+        ³   ³   ³   Casos_Uso.rpw
+        ³   ³   ³   Casos_Uso.rpy
+        ³   ³   ³   load.log
+        ³   ³   ³   silentMode.log
+        ³   ³   ³   store.log
+        ³   ³   ³   
+        ³   ³   ÀÄÄÄCasos_Uso_rpy
+        ³   ³           Default.sbs
+        ³   ³           DefaultComponent.cmp
+        ³   ³           filesTable.dat
+        ³   ³           
+        ³   ÃÄÄÄCasos_Uso_2_y_3
+        ³   ³   ³   Casos_Uso.ehl
+        ³   ³   ³   Casos_Uso.rpw
+        ³   ³   ³   Casos_Uso.rpy
+        ³   ³   ³   load.log
+        ³   ³   ³   silentMode.log
+        ³   ³   ³   store.log
+        ³   ³   ³   
+        ³   ³   ÀÄÄÄCasos_Uso_rpy
+        ³   ³           Default.sbs
+        ³   ³           DefaultComponent.cmp
+        ³   ³           filesTable.dat
+        ³   ³           
+        ³   ÃÄÄÄDiagrama_Estados
+        ³   ³   ³   Diagrama_Estados.rpw
+        ³   ³   ³   Diagrama_Estados.rpy
+        ³   ³   ³   load.log
+        ³   ³   ³   store.log
+        ³   ³   ³   
+        ³   ³   ÀÄÄÄDiagrama_Estados_rpy
+        ³   ³           Default.sbs
+        ³   ³           DefaultComponent.cmp
+        ³   ³           filesTable.dat
+        ³   ³           
+        ³   ÀÄÄÄImagenes
+        ³           Cliente2.bmp
+        ³           Coordinador1.bmp
+        ³           Coordinador2.bmp
+        ³           Responsable1.bmp
+        ³           Responsable2.bmp
+        ³           Sistema1.bmp
+        ³           Sistema2.bmp
+        ³           store.log
+        ³           Tecnico1.bmp
+        ³           Tecnico2.bmp
+        ³           
+        ÀÄÄÄDiagrama_Clases_Reducido
+            ³   Diagrama_Clases_Reducido.ehl
+            ³   Diagrama_Clases_Reducido.rpw
+            ³   Diagrama_Clases_Reducido.rpy
+            ³   load.log
+            ³   silentMode.log
+            ³   store.log
+            ³   
+            ÃÄÄÄCapturas
+            ³   ³   store.log
+            ³   ³   
+            ³   ÃÄÄÄClases
+            ³   ³       cliente.bmp
+            ³   ³       escritorio.bmp
+            ³   ³       movil.bmp
+            ³   ³       sistema.bmp
+            ³   ³       store.log
+            ³   ³       
+            ³   ÃÄÄÄColaboracion
+            ³   ³       AddPieza.bmp
+            ³   ³       AsignarPeticionTrabajo.bmp
+            ³   ³       BorrarPiezas.bmp
+            ³   ³       CrearParteTrabajo.bmp
+            ³   ³       CrearPedidoPiezasEspeciales.bmp
+            ³   ³       CrearPresupuesto.bmp
+            ³   ³       DarAltaCliente.bmp
+            ³   ³       SolicitarPeticionTrabajo.bmp
+            ³   ³       store.log
+            ³   ³       
+            ³   ÀÄÄÄDiagramasComponentes
+            ³           Cliente.bmp
+            ³           Desarrollo.bmp
+            ³           Escritorio.bmp
+            ³           Movil.bmp
+            ³           Sistema.bmp
+            ³           
+            ÀÄÄÄDiagrama_Clases_Reducido_rpy
+                    Aplicacion.sbs
+                    BaseDatos.cmp
+                    BaseDeDatos.sbs
+                    ClasesDominio.sbs
+                    ClasesDominioCliente.cmp
+                    ClasesDominioEscritorio.cmp
+                    ClasesDominioMovil.cmp
+                    ClasesDominioSistema.cmp
+                    component_12.cmp
+                    component_13.cmp
+                    component_9.cmp
+                    Correo.sbs
+                    Default.sbs
+                    DefaultComponent.cmp
+                    ejecutables.cmp
+                    Fachada.cmp
+                    filesTable.dat
+                    GeneradorEmail.cmp
+                    GestorArchivos.cmp
+                    GestorArchivos.sbs
+                    Interfaces.sbs
+                    InterfazUsuarioCliente.cmp
+                    InterfazUsuarioCliente.sbs
+                    InterfazUsuarioEscritorio.cmp
+                    InterfazUsuarioEscritorio.sbs
+                    InterfazUsuarioTecnico.cmp
+                    InterfazUsuarioTecnico.sbs
+                    prueba.sbs
+                    Sistema.cmp
+                    TipoDatos.sbs
+                    Usuarios.sbs
+                    
