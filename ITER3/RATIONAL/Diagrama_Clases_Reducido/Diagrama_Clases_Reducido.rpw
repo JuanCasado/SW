@@ -114,7 +114,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 74477e2e-cd7e-4062-9aed-c3e6f40c210f;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 843 486 ;
+			- _DownRight = 853 491 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 18;
 		}
@@ -393,16 +393,16 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "DiagramaComponentesCliente";
 				- _id = GUID 533d3fe6-3ac8-466d-a31b-0c5f04957417;
 			}
-			- _UpLeft = 0 71 ;
-			- _DownRight = 858 482 ;
+			- _UpLeft = 0 69 ;
+			- _DownRight = 870 485 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 4;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -422,7 +422,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID eae3562d-ef0c-460e-bf34-0bca85c57ee9;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 990 622 ;
+			- _DownRight = 757 362 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
@@ -485,8 +485,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -506,7 +506,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID f254c6df-9e33-4e92-8140-a19f0049dd65;
 			}
 			- _UpLeft = 73 80 ;
-			- _DownRight = 717 388 ;
+			- _DownRight = 915 609 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 1;
 		}
@@ -589,8 +589,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Movil";
 				- _id = GUID e243216a-0167-41f6-aeff-31d63f04c829;
 			}
-			- _UpLeft = 76 490 ;
-			- _DownRight = 1335 1181 ;
+			- _UpLeft = 76 347 ;
+			- _DownRight = 1335 1038 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 5;
 		}
