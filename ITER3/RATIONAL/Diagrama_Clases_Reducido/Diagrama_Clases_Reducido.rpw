@@ -533,8 +533,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Cliente";
 				- _id = GUID 7d36cb33-37ea-409c-be06-59e012dc7309;
 			}
-			- _UpLeft = 0 266 ;
-			- _DownRight = 1303 982 ;
+			- _UpLeft = 0 260 ;
+			- _DownRight = 1326 988 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 15;
 		}
@@ -589,8 +589,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Movil";
 				- _id = GUID e243216a-0167-41f6-aeff-31d63f04c829;
 			}
-			- _UpLeft = 326 0 ;
-			- _DownRight = 2014 927 ;
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1688 927 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 5;
 		}
@@ -617,8 +617,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "Diagrama_Sistema";
 				- _id = GUID c93eb477-b00d-4cf8-aa36-f9038195275e;
 			}
-			- _UpLeft = 511 0 ;
-			- _DownRight = 2870 1598 ;
+			- _UpLeft = 301 0 ;
+			- _DownRight = 2196 1284 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 16;
 		}
