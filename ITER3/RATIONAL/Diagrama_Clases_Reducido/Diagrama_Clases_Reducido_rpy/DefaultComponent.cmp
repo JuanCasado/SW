@@ -1,10 +1,10 @@
 I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 { IComponent 
-	- _id = GUID f602f0fb-4902-4692-8770-50dddd5a721c;
+	- _id = GUID fad49225-fea4-4eb5-9320-106930384b48;
 	- _myState = 139264;
 	- _name = "DefaultComponent";
-	- _objectCreation = "4120541263820182235571141";
-	- _umlDependencyID = "3289";
+	- _objectCreation = "45207432637201811139721245";
+	- _umlDependencyID = "3349";
 	- m_buildType = Executable;
 	- m_libraries = "";
 	- m_additionalSources = "";
@@ -12,11 +12,11 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- m_includePath = "";
 	- m_initializationCode = "";
 	- m_folder = { IFolder 
-		- _id = GUID 4c2bce89-ef22-49e7-86e0-c4782bc8139a;
+		- _id = GUID 5c5f7363-55ce-425b-921d-3f5d46724adf;
 		- _myState = 73728;
 		- _name = "Files";
-		- _objectCreation = "4120543263820182235551141";
-		- _umlDependencyID = "2132";
+		- _objectCreation = "45207452637201811139701245";
+		- _umlDependencyID = "2192";
 		- m_path = "";
 		- Elements = { IRPYRawContainer 
 			- size = 0;
@@ -27,17 +27,17 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	}
 	- m_configActive = { ICodeGenConfigInfoHandle 
 		- _m2Class = "ICodeGenConfigInfo";
-		- _id = GUID 14d2d850-cc6e-4060-b015-dc25b07b652a;
+		- _id = GUID 2c0e1f95-8882-42c9-ba82-f905c3112c9b;
 	}
 	- Configs = { IRPYRawContainer 
 		- size = 1;
 		- value = 
 		{ ICodeGenConfigInfo 
-			- _id = GUID 14d2d850-cc6e-4060-b015-dc25b07b652a;
+			- _id = GUID 2c0e1f95-8882-42c9-ba82-f905c3112c9b;
 			- _myState = 8192;
 			- _name = "DefaultConfig";
-			- _objectCreation = "4120545263820182235531141";
-			- _umlDependencyID = "2940";
+			- _objectCreation = "45207472637201811139681245";
+			- _umlDependencyID = "3009";
 			- _scopeType = Explicit;
 			- _libraries = "";
 			- _additionalSources = "";
@@ -57,11 +57,11 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				- size = 0;
 			}
 			- _root = { IFolder 
-				- _id = GUID 4b4db54f-f920-4a7b-9919-6c7bee09f101;
+				- _id = GUID 7d077e17-2709-40a6-9604-aee5748bdae0;
 				- _myState = 8192;
 				- _name = "DefaultConfig";
-				- _objectCreation = "4120547263820182235511141";
-				- _umlDependencyID = "2940";
+				- _objectCreation = "45207492637201811139661245";
+				- _umlDependencyID = "3009";
 				- m_path = "";
 				- Elements = { IRPYRawContainer 
 					- size = 0;
@@ -70,8 +70,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					- size = 0;
 				}
 			}
-			- weakCGTime = 1.2.1990::0:0:0;
-			- strongCGTime = 1.2.1990::0:0:0;
+			- weakCGTime = 1.1.1970::1:0:0;
+			- strongCGTime = 1.1.1970::1:0:0;
 			- AnimScopeElements = { IRPYRawContainer 
 				- size = 0;
 			}
@@ -79,7 +79,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 		}
 	}
 	- HandlesInMe = { IRPYRawContainer 
-		- size = 2;
+		- size = 12;
 		- value = 
 		{ IHandle 
 			- _m2Class = "ISubsystem";
@@ -91,8 +91,88 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 		}
 		{ IHandle 
 			- _m2Class = "ISubsystem";
-			- _filename = "TipoDatos.sbs";
+			- _filename = "Aplicacion.sbs";
 			- _subsystem = "";
+			- _class = "";
+			- _name = "Aplicacion";
+			- _id = GUID 6b40c8d5-fb1a-4ddb-903d-2fbc97e1cd27;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "BaseDeDatos.sbs";
+			- _subsystem = "Aplicacion";
+			- _class = "";
+			- _name = "BaseDeDatos";
+			- _id = GUID 0da22ac9-d1c0-47b0-90d3-462f80f908d3;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "ClasesDominio.sbs";
+			- _subsystem = "Aplicacion";
+			- _class = "";
+			- _name = "ClasesDominio";
+			- _id = GUID ae935fc4-42a4-490e-82ea-8cc575532990;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "Usuarios.sbs";
+			- _subsystem = "Aplicacion::ClasesDominio";
+			- _class = "";
+			- _name = "Usuarios";
+			- _id = GUID 14641f0a-17c3-454f-ab6a-901a2920c758;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "Correo.sbs";
+			- _subsystem = "Aplicacion";
+			- _class = "";
+			- _name = "Correo";
+			- _id = GUID 4ba816ef-04db-4e26-8fa3-65478dea8a25;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "GestorArchivos.sbs";
+			- _subsystem = "Aplicacion";
+			- _class = "";
+			- _name = "GestorArchivos";
+			- _id = GUID 91b97816-4194-442a-832f-e544046390a1;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "Interfaces.sbs";
+			- _subsystem = "Aplicacion";
+			- _class = "";
+			- _name = "Interfaces";
+			- _id = GUID 749727ef-f85e-4f7e-9979-338ef4bca025;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "InterfazUsuarioEscritorio.sbs";
+			- _subsystem = "Aplicacion::Interfaces";
+			- _class = "";
+			- _name = "InterfazUsuarioEscritorio";
+			- _id = GUID 9720a023-3d12-4dcb-999f-7427221e7749;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "InterfazUsuarioCliente.sbs";
+			- _subsystem = "Aplicacion::Interfaces";
+			- _class = "";
+			- _name = "InterfazUsuarioCliente";
+			- _id = GUID 430107c4-e92a-4573-ae63-0aea00fff140;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "InterfazUsuarioTecnico.sbs";
+			- _subsystem = "Aplicacion::Interfaces";
+			- _class = "";
+			- _name = "InterfazUsuarioTecnico";
+			- _id = GUID 81401dc0-7265-47e4-82e4-d45bc64cb965;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "TipoDatos.sbs";
+			- _subsystem = "Aplicacion";
 			- _class = "";
 			- _name = "TipoDatos";
 			- _id = GUID 4715e969-7bd5-403b-9c83-07b3bd775929;
@@ -104,7 +184,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- SelectedVariants = { IRPYRawContainer 
 		- size = 0;
 	}
-	- weakCGTime = 11.24.2018::10:14:49;
-	- strongCGTime = 1.2.1990::0:0:0;
+	- weakCGTime = 1.1.1970::1:0:0;
+	- strongCGTime = 1.1.1970::1:0:0;
 }
 

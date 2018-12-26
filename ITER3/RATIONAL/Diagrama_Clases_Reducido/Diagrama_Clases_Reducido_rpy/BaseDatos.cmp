@@ -1,0 +1,171 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ IComponent 
+	- _id = GUID 223ef474-fdbc-4a88-b762-cb2eff9dfe33;
+	- _myState = 8192;
+	- _name = "BaseDatos";
+	- _objectCreation = "23459812626201812-296311223";
+	- _umlDependencyID = "2625";
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID c0acd674-76d6-4bd6-be7b-893e66af38c7;
+		- _myState = 73728;
+		- _name = "Files";
+		- _objectCreation = "23459832626201812-296331223";
+		- _umlDependencyID = "2242";
+		- _lastID = 3;
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 1;
+			- value = 
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "BaseDeDatos.sbs";
+				- _subsystem = "Aplicacion";
+				- _class = "";
+				- _name = "BaseDeDatos";
+				- _id = GUID 0da22ac9-d1c0-47b0-90d3-462f80f908d3;
+			}
+		}
+		- Files = { IRPYRawContainer 
+			- size = 3;
+			- value = 
+			{ IFolder 
+				- _id = GUID 026e04ba-7e7a-4b82-a108-f62a61bcae01;
+				- _myState = 8192;
+				- _name = "ClusterReplicado";
+				- _objectCreation = "23459852626201812-296351223";
+				- _umlDependencyID = "3400";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			{ IFolder 
+				- _id = GUID 9e72e68b-13c3-4e23-bbd0-d121b6c29660;
+				- _myState = 8192;
+				- _name = "DiarioSistema";
+				- _objectCreation = "23459872626201812-296371223";
+				- _umlDependencyID = "3077";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			{ IFolder 
+				- _id = GUID 8f321a19-917d-4a36-9654-160a5064d6ee;
+				- _myState = 8192;
+				- _name = "Cluster";
+				- _objectCreation = "23459892626201812-296391223";
+				- _umlDependencyID = "2493";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID b07f681d-6040-4f40-b690-46e9a3b62a2b;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID b07f681d-6040-4f40-b690-46e9a3b62a2b;
+			- _myState = 8192;
+			- _name = "DefaultConfig";
+			- _objectCreation = "23459912626201812-296411223";
+			- _umlDependencyID = "3048";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 0cf161c5-1361-4172-95b8-dd6c1f0aeabf;
+					- _objectCreation = "23459932626201812-296431223";
+					- _umlDependencyID = "1745";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "C:\\Users\\Usuario\\OneDrive\\UNIVERSIDAD\\TERCER CURSO\\INGENIERIA DEL SOFTWARE AVANZADA\\LABORATORIO\\SW\\ITER3\\RATIONAL\\Diagrama_Clases_Reducido\\BaseDatos\\DefaultConfig\\BaseDatos.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID dc008afe-1a70-493c-b5d0-978462f16754;
+					- _objectCreation = "23459952626201812-296451223";
+					- _umlDependencyID = "1749";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "C:\\Users\\Usuario\\OneDrive\\UNIVERSIDAD\\TERCER CURSO\\INGENIERIA DEL SOFTWARE AVANZADA\\LABORATORIO\\SW\\ITER3\\RATIONAL\\Diagrama_Clases_Reducido\\BaseDatos\\DefaultConfig\\MainBaseDatos";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID 85617a7d-c420-4ab4-859a-1739e1768f8e;
+				- _myState = 8192;
+				- _name = "DefaultConfig";
+				- _objectCreation = "23459972626201812-296471223";
+				- _umlDependencyID = "3060";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 1.1.1970::1:0:0;
+			- strongCGTime = 1.1.1970::1:0:0;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 12.26.2018::11:26:18;
+	- strongCGTime = 12.26.2018::11:26:12;
+}
+
