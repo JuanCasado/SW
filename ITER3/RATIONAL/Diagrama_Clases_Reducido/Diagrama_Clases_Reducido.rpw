@@ -513,8 +513,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -534,7 +534,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 98e35165-9891-471a-9796-e76006a4499f;
 			}
 			- _UpLeft = 0 50 ;
-			- _DownRight = 715 392 ;
+			- _DownRight = 1074 778 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 2;
 		}
@@ -561,16 +561,16 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "DiagramaDespliegueSolucion2";
 				- _id = GUID afc7037e-95de-4521-9070-bd7b196f8d79;
 			}
-			- _UpLeft = 0 40 ;
-			- _DownRight = 920 480 ;
+			- _UpLeft = 192 127 ;
+			- _DownRight = 1050 538 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 1;
 		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -8;
@@ -589,8 +589,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _name = "DiagramaDespliegueSolucion3";
 				- _id = GUID 4d6499b9-b084-4d3a-ad13-1a6c9af31715;
 			}
-			- _UpLeft = 0 10 ;
-			- _DownRight = 1202 765 ;
+			- _UpLeft = 20 335 ;
+			- _DownRight = 967 788 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
@@ -735,7 +735,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 20;
 		}
 	}
-	- _fullName = "C:\\Users\\Usuario\\OneDrive\\UNIVERSIDAD\\TERCER CURSO\\INGENIERIA DEL SOFTWARE AVANZADA\\LABORATORIO\\SW\\ITER3\\RATIONAL\\Diagrama_Clases_Reducido\\Diagrama_Clases_Reducido";
+	- _fullName = "D:\\UNIVERSIDAD\\REPOSITORIOSGIT\\SW\\ITER3\\RATIONAL\\Diagrama_Clases_Reducido\\Diagrama_Clases_Reducido";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
