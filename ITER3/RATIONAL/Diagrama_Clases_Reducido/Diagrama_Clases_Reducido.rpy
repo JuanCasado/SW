@@ -3,8 +3,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 	- _id = GUID 424bfdf7-ad30-44d6-b50e-61a4bf04ef59;
 	- _myState = 8192;
 	- _name = "Diagrama_Clases_Reducido";
-	- _objectCreation = "20121972655201818113461220";
-	- _umlDependencyID = "4081";
+	- _objectCreation = "4812242274220181178561248";
+	- _umlDependencyID = "4045";
 	- _lastID = 31;
 	- _UserColors = { IRPYRawContainer 
 		- size = 16;
@@ -384,8 +384,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Escritorio";
-			- _objectCreation = "2013755265520181897881220";
-			- _umlDependencyID = "3597";
+			- _objectCreation = "4812244274220181178541248";
+			- _umlDependencyID = "3591";
 			- _lastModifiedTime = "12.26.2018::14:49:34";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID f6401ccb-39d3-4d11-a022-9e135524096e;
@@ -3133,7 +3133,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Fachada";
+						- m_str = "Aplicacion::BaseDeDatos::Fachada";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -3407,7 +3407,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = "Aplicacion::SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -3793,7 +3793,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_ESCRITORIO";
+						- m_str = "Aplicacion::Interfaces::InterfazUsuarioEscritorio::INTERFAZ_USUARIO_ESCRITORIO";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -4211,7 +4211,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Proveedor";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Proveedor";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -4365,7 +4365,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Pedidos";
+						- m_str = "Aplicacion::ClasesDominio::Pedidos";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -4479,7 +4479,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Peticion";
+						- m_str = "Aplicacion::ClasesDominio::Peticion";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -4641,7 +4641,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Tecnico";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Tecnico";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -4755,7 +4755,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Cliente";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Cliente";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -4901,7 +4901,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Factura";
+						- m_str = "Aplicacion::ClasesDominio::Factura";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -5015,7 +5015,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Piezas";
+						- m_str = "Aplicacion::ClasesDominio::Piezas";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -5153,7 +5153,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Presupuesto";
+						- m_str = "Aplicacion::ClasesDominio::Presupuesto";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -5283,7 +5283,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Parte_Trabajo";
+						- m_str = "Aplicacion::ClasesDominio::Parte_Trabajo";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -5429,7 +5429,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Basicas";
+						- m_str = "Aplicacion::ClasesDominio::Basicas";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -5551,7 +5551,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Especiales";
+						- m_str = "Aplicacion::ClasesDominio::Especiales";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -6019,7 +6019,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Usuario";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Usuario";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -6141,7 +6141,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Ayudante_Almacen";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Ayudante_Almacen";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -6238,7 +6238,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Ayudante_Coordinador";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Ayudante_Coordinador";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -6335,7 +6335,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Gestor_Almacen";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Gestor_Almacen";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -6843,7 +6843,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Coordinador_Tecnico";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Coordinador_Tecnico";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -7243,7 +7243,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Informe";
+						- m_str = "Aplicacion::GestorArchivos::Informe";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -7373,7 +7373,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Beneficios";
+						- m_str = "Aplicacion::GestorArchivos::Beneficios";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -7462,7 +7462,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Trabajo";
+						- m_str = "Aplicacion::GestorArchivos::Trabajo";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -7550,7 +7550,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Resumen_Trabajo";
+						- m_str = "Aplicacion::GestorArchivos::Resumen_Trabajo";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -7638,7 +7638,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Gestor_Archivos";
+						- m_str = "Aplicacion::GestorArchivos::Gestor_Archivos";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -8467,7 +8467,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 6a372ecf-a0f5-48be-84db-e2cc1a7b352f;
 					- m_name = { CGIText 
-						- m_str = "Oferta";
+						- m_str = "Aplicacion::ClasesDominio::Oferta";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -9915,8 +9915,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Sistema";
-			- _objectCreation = "2013757265520181897861220";
-			- _umlDependencyID = "3264";
+			- _objectCreation = "4812246274220181178521248";
+			- _umlDependencyID = "3258";
 			- _lastModifiedTime = "12.26.2018::14:56:51";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID f02b485e-aa30-4179-9917-acca3555425b;
@@ -12135,7 +12135,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Fachada";
+						- m_str = "Aplicacion::BaseDeDatos::Fachada";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -12409,7 +12409,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = "Aplicacion::SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -12795,7 +12795,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Pedidos";
+						- m_str = "Aplicacion::ClasesDominio::Pedidos";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -12908,7 +12908,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Peticion";
+						- m_str = "Aplicacion::ClasesDominio::Peticion";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -13070,7 +13070,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Tecnico";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Tecnico";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -13183,7 +13183,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Cliente";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Cliente";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -13329,7 +13329,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Factura";
+						- m_str = "Aplicacion::ClasesDominio::Factura";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -13442,7 +13442,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Piezas";
+						- m_str = "Aplicacion::ClasesDominio::Piezas";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -13580,7 +13580,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Presupuesto";
+						- m_str = "Aplicacion::ClasesDominio::Presupuesto";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -13710,7 +13710,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Parte_Trabajo";
+						- m_str = "Aplicacion::ClasesDominio::Parte_Trabajo";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -13856,7 +13856,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Basicas";
+						- m_str = "Aplicacion::ClasesDominio::Basicas";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -13978,7 +13978,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Especiales";
+						- m_str = "Aplicacion::ClasesDominio::Especiales";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -14091,7 +14091,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Informe";
+						- m_str = "Aplicacion::GestorArchivos::Informe";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -14221,7 +14221,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Beneficios";
+						- m_str = "Aplicacion::GestorArchivos::Beneficios";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -14310,7 +14310,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Trabajo";
+						- m_str = "Aplicacion::GestorArchivos::Trabajo";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -14398,7 +14398,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Resumen_Trabajo";
+						- m_str = "Aplicacion::GestorArchivos::Resumen_Trabajo";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -14896,7 +14896,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Gestor_Archivos";
+						- m_str = "Aplicacion::GestorArchivos::Gestor_Archivos";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -15195,7 +15195,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Generador_email";
+						- m_str = "Aplicacion::Correo::Generador_email";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -15495,7 +15495,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Timer";
+						- m_str = "Aplicacion::ClasesDominio::Timer";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -15955,7 +15955,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Oferta";
+						- m_str = "Aplicacion::ClasesDominio::Oferta";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -16253,7 +16253,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID a01c7eb3-7d31-4dce-a990-bc4ee9d449cf;
 					- m_name = { CGIText 
-						- m_str = "Proveedor";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Proveedor";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -17753,8 +17753,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Movil";
-			- _objectCreation = "2013759265520181897841220";
-			- _umlDependencyID = "3057";
+			- _objectCreation = "4812248274220181178501248";
+			- _umlDependencyID = "3051";
 			- _lastModifiedTime = "12.26.2018::14:48:17";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID e4b65c7d-6d93-4aa3-a5ef-915016634524;
@@ -19106,7 +19106,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "Fachada";
+						- m_str = "Aplicacion::BaseDeDatos::Fachada";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -19380,7 +19380,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = "Aplicacion::SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -19766,7 +19766,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "Peticion";
+						- m_str = "Aplicacion::ClasesDominio::Peticion";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -19928,7 +19928,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "Cliente";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Cliente";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -20074,7 +20074,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "Factura";
+						- m_str = "Aplicacion::ClasesDominio::Factura";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -20188,7 +20188,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "Piezas";
+						- m_str = "Aplicacion::ClasesDominio::Piezas";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -20326,7 +20326,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "Presupuesto";
+						- m_str = "Aplicacion::ClasesDominio::Presupuesto";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -20456,7 +20456,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "Parte_Trabajo";
+						- m_str = "Aplicacion::ClasesDominio::Parte_Trabajo";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -20602,7 +20602,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_TECNICO";
+						- m_str = "Aplicacion::Interfaces::InterfazUsuarioTecnico::INTERFAZ_USUARIO_TECNICO";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -20933,7 +20933,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID eb65a510-a756-40ba-81b9-050d99653104;
 					- m_name = { CGIText 
-						- m_str = "Tecnico";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Tecnico";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -22059,8 +22059,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "Diagrama_Cliente";
-			- _objectCreation = "2013761265520181897821220";
-			- _umlDependencyID = "3237";
+			- _objectCreation = "4812250274220181178481248";
+			- _umlDependencyID = "3240";
 			- _lastModifiedTime = "12.26.2018::14:48:17";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID d8e43087-b4f2-4bbb-aeb5-b6d1ffd53f6d;
@@ -22881,7 +22881,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 21be38e2-f219-4904-8cdc-114988ad88e6;
 					- m_name = { CGIText 
-						- m_str = "Fachada";
+						- m_str = "Aplicacion::BaseDeDatos::Fachada";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -23155,7 +23155,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 21be38e2-f219-4904-8cdc-114988ad88e6;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = "Aplicacion::SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -23541,7 +23541,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 21be38e2-f219-4904-8cdc-114988ad88e6;
 					- m_name = { CGIText 
-						- m_str = "Peticion";
+						- m_str = "Aplicacion::ClasesDominio::Peticion";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -23703,7 +23703,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 21be38e2-f219-4904-8cdc-114988ad88e6;
 					- m_name = { CGIText 
-						- m_str = "Tecnico";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Tecnico";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -23817,7 +23817,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 21be38e2-f219-4904-8cdc-114988ad88e6;
 					- m_name = { CGIText 
-						- m_str = "Cliente";
+						- m_str = "Aplicacion::ClasesDominio::Usuarios::Cliente";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -23963,7 +23963,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 21be38e2-f219-4904-8cdc-114988ad88e6;
 					- m_name = { CGIText 
-						- m_str = "Factura";
+						- m_str = "Aplicacion::ClasesDominio::Factura";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -24076,7 +24076,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 21be38e2-f219-4904-8cdc-114988ad88e6;
 					- m_name = { CGIText 
-						- m_str = "Piezas";
+						- m_str = "Aplicacion::ClasesDominio::Piezas";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -24214,7 +24214,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 21be38e2-f219-4904-8cdc-114988ad88e6;
 					- m_name = { CGIText 
-						- m_str = "Presupuesto";
+						- m_str = "Aplicacion::ClasesDominio::Presupuesto";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -24875,7 +24875,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 21be38e2-f219-4904-8cdc-114988ad88e6;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_CLIENTE";
+						- m_str = "Aplicacion::Interfaces::InterfazUsuarioCliente::INTERFAZ_USUARIO_CLIENTE";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -25910,8 +25910,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "SecuenciaCrearPedidoPiezasEspeciales";
-			- _objectCreation = "2013763265520181897801220";
-			- _umlDependencyID = "5288";
+			- _objectCreation = "4812252274220181178461248";
+			- _umlDependencyID = "5291";
 			- _lastModifiedTime = "12.26.2018::10:24:41";
 			- _graphicChart = { CGIMscChart 
 				- vLadderMargin = 20;
@@ -25975,7 +25975,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 4567e5a0-470d-4d3a-8468-bee15b295092;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_ESCRITORIO";
+						- m_str = ":INTERFAZ_USUARIO_ESCRITORIO";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26019,7 +26019,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 4567e5a0-470d-4d3a-8468-bee15b295092;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = ":SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26063,7 +26063,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPiezas";
+						- m_str = "Pieza=mostrarPiezas(idPieza:int)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26111,7 +26111,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPiezas";
+						- m_str = "HashMapPiezas=mostrarPiezas()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26159,7 +26159,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "crearPedidos";
+						- m_str = "Pedido=crearPedidos(num_piezas: int, idPieza:int)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26221,16 +26221,16 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 813f612b-ae35-4c8d-9442-d5b6fb00e74e;
-				- _objectCreation = "2013765265520181897781220";
-				- _umlDependencyID = "1653";
+				- _objectCreation = "4812254274220181178441248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 2;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID 99742aab-f39f-4ebf-b4df-5e2e2c972841;
 						- _myState = 2048;
-						- _objectCreation = "2013767265520181897761220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812256274220181178421248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -26247,8 +26247,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					{ IClassifierRole 
 						- _id = GUID 3e349b6f-c838-47e5-92c8-102a58ac8d10;
 						- _myState = 2048;
-						- _objectCreation = "2013769265520181897741220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812258274220181178401248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -26270,8 +26270,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- _id = GUID 42924b3d-0481-461a-9ad9-5639e6710694;
 						- _myState = 8192;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2013771265520181897721220";
-						- _umlDependencyID = "3040";
+						- _objectCreation = "4812260274220181178381248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "idPieza:int";
 						- m_szReturnVal = "Pieza";
@@ -26305,8 +26305,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					{ IMessage 
 						- _id = GUID f359ac6e-24de-4c5b-ac49-756246bfda07;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2013773265520181897701220";
-						- _umlDependencyID = "3040";
+						- _objectCreation = "4812262274220181178361248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "HashMapPiezas";
@@ -26341,8 +26341,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- _id = GUID d24b807c-a9b3-4a3f-8e02-95571b3b210a;
 						- _myState = 8192;
 						- _name = "crearPedidos";
-						- _objectCreation = "2013775265520181897681220";
-						- _umlDependencyID = "2890";
+						- _objectCreation = "4812264274220181178341248";
+						- _umlDependencyID = "2884";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "num_piezas: int, idPieza:int";
 						- m_szReturnVal = "Pedido";
@@ -26509,8 +26509,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "SecuenciaAsignarPeticionTrabajo";
-			- _objectCreation = "2013777265520181897661220";
-			- _umlDependencyID = "4808";
+			- _objectCreation = "4812266274220181178321248";
+			- _umlDependencyID = "4802";
 			- _lastModifiedTime = "12.26.2018::10:24:41";
 			- _graphicChart = { CGIMscChart 
 				- vLadderMargin = 20;
@@ -26574,7 +26574,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 7ab8d3e6-a62f-415a-87fa-b75408198d50;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_ESCRITORIO";
+						- m_str = ":INTERFAZ_USUARIO_ESCRITORIO";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26618,7 +26618,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 7ab8d3e6-a62f-415a-87fa-b75408198d50;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = ":SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26662,7 +26662,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPeticiones";
+						- m_str = "HashMapPeticiones=mostrarPeticiones()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26710,7 +26710,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPeticiones";
+						- m_str = "HashMapPeticiones=mostrarPeticiones(pendienteAsignar:enum)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26758,7 +26758,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPeticiones";
+						- m_str = "Peticion=mostrarPeticiones(idPeticion:int)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26806,7 +26806,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarPeticion";
+						- m_str = "Peticion=editarPeticion(idPeticion:int, asignado:enum, idtecnico:int)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26856,7 +26856,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarTecnicos";
+						- m_str = "ArrayListTecnicos=mostrarTecnicos()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -26918,16 +26918,16 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID a7b555c2-394c-47be-af7c-ac3db347f5e5;
-				- _objectCreation = "2013779265520181897641220";
-				- _umlDependencyID = "1653";
+				- _objectCreation = "4812268274220181178301248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 2;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID 7e255f24-26ba-4a19-a885-3f44a8ab8b9b;
 						- _myState = 2048;
-						- _objectCreation = "2013781265520181897621220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812270274220181178281248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -26944,8 +26944,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					{ IClassifierRole 
 						- _id = GUID 8e65df20-98c1-467d-ba94-0592715ebee7;
 						- _myState = 2048;
-						- _objectCreation = "2013783265520181897601220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812272274220181178261248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -26966,8 +26966,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					{ IMessage 
 						- _id = GUID ed7afcb6-5bff-4e7a-aceb-aa41ae1ec397;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2013785265520181897581220";
-						- _umlDependencyID = "3472";
+						- _objectCreation = "4812274274220181178241248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "HashMapPeticiones";
@@ -27002,8 +27002,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- _id = GUID bcfe9bbc-87fd-42c5-b372-983f5e0aef99;
 						- _myState = 8192;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2013787265520181897561220";
-						- _umlDependencyID = "3472";
+						- _objectCreation = "4812276274220181178221248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "pendienteAsignar:enum";
 						- m_szReturnVal = "HashMapPeticiones";
@@ -27038,8 +27038,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- _id = GUID da2edaa9-f9d7-43cf-b7c0-48d7bc2e796d;
 						- _myState = 8192;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2013789265520181897541220";
-						- _umlDependencyID = "3472";
+						- _objectCreation = "4812278274220181178201248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "idPeticion:int";
 						- m_szReturnVal = "Peticion";
@@ -27074,8 +27074,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 						- _id = GUID 1581bb53-69b5-4d64-aa42-b77dd679ac0c;
 						- _myState = 8192;
 						- _name = "editarPeticion";
-						- _objectCreation = "2013791265520181897521220";
-						- _umlDependencyID = "3104";
+						- _objectCreation = "4812280274220181178181248";
+						- _umlDependencyID = "3107";
 						- m_szSequence = "5.";
 						- m_szActualArgs = "idPeticion:int, asignado:enum, idtecnico:int";
 						- m_szReturnVal = "Peticion";
@@ -27109,8 +27109,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					{ IMessage 
 						- _id = GUID a783a3cb-102a-4123-bb8d-10b6757e14c4;
 						- _name = "mostrarTecnicos";
-						- _objectCreation = "2013793265520181897501220";
-						- _umlDependencyID = "3244";
+						- _objectCreation = "4812282274220181178161248";
+						- _umlDependencyID = "3247";
 						- m_szSequence = "4.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "ArrayListTecnicos";
@@ -27319,8 +27319,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 				}
 			}
 			- _name = "SecuenciaCrearParteTrabajo";
-			- _objectCreation = "2013795265520181897481220";
-			- _umlDependencyID = "4273";
+			- _objectCreation = "4812284274220181178141248";
+			- _umlDependencyID = "4267";
 			- _lastModifiedTime = "12.23.2018::15:11:5";
 			- _graphicChart = { CGIMscChart 
 				- vLadderMargin = 20;
@@ -27384,7 +27384,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 3e441aa9-4e09-47b5-a0e8-c72f95c71766;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_TECNICO";
+						- m_str = ":INTERFAZ_USUARIO_TECNICO";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -27428,7 +27428,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = GUID 3e441aa9-4e09-47b5-a0e8-c72f95c71766;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = ":SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -27472,7 +27472,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPeticiones";
+						- m_str = "HashMapPeticiones=mostrarPeticiones()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -27520,7 +27520,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarParte";
+						- m_str = "Parte=editarParte(idParte: int, crear:enum)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -27568,7 +27568,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarParte";
+						- m_str = "Parte=editarParte(idParte, modificar: enum)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -27616,7 +27616,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarParte";
+						- m_str = "Parte=editarParte(idParte: int, modificar : enum)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -27664,7 +27664,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPeticiones";
+						- m_str = "Peticion=mostrarPeticiones(idPeticion:int)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -27714,7 +27714,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPiezas";
+						- m_str = "ArrayListPiezas=mostrarPiezas()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -27849,16 +27849,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 1b4c4771-275f-4ab3-afc8-4c5574b3817b;
-				- _objectCreation = "2013797265520181897461220";
-				- _umlDependencyID = "1653";
+				- _objectCreation = "4812286274220181178121248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 2;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID 8f344a6a-cc28-411f-a15f-35e7d8398d1e;
 						- _myState = 2048;
-						- _objectCreation = "2013799265520181897441220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812288274220181178101248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -27875,8 +27875,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 067c4a9d-5526-4c50-b6bb-652a95057748;
 						- _myState = 2048;
-						- _objectCreation = "2013801265520181897421220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812290274220181178081248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -27897,8 +27897,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 9aef4f87-8fd6-4eeb-8ab5-84e4910692af;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2013803265520181897401220";
-						- _umlDependencyID = "3454";
+						- _objectCreation = "4812292274220181178061248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "HashMapPeticiones";
@@ -27933,8 +27933,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 3f9f7d2f-6b47-475c-a15a-c71fd796c5c7;
 						- _myState = 8192;
 						- _name = "editarParte";
-						- _objectCreation = "2013805265520181897381220";
-						- _umlDependencyID = "2785";
+						- _objectCreation = "4812294274220181178041248";
+						- _umlDependencyID = "2788";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "idParte: int, crear:enum";
 						- m_szReturnVal = "Parte";
@@ -27969,8 +27969,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 5d367006-73a0-45ea-b8a4-fa01565aed62;
 						- _myState = 8192;
 						- _name = "editarParte";
-						- _objectCreation = "2013807265520181897361220";
-						- _umlDependencyID = "2785";
+						- _objectCreation = "4812296274220181178021248";
+						- _umlDependencyID = "2788";
 						- m_szSequence = "6.";
 						- m_szActualArgs = "idParte, modificar: enum";
 						- m_szReturnVal = "Parte";
@@ -28005,8 +28005,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID ddb36e5f-41cd-4af1-b095-40b610e08e66;
 						- _myState = 8192;
 						- _name = "editarParte";
-						- _objectCreation = "2013809265520181897341220";
-						- _umlDependencyID = "2785";
+						- _objectCreation = "4812298274220181178001248";
+						- _umlDependencyID = "2788";
 						- m_szSequence = "5.";
 						- m_szActualArgs = "idParte: int, modificar : enum";
 						- m_szReturnVal = "Parte";
@@ -28041,8 +28041,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 19b2388d-a659-40cb-8002-90d8422816f5;
 						- _myState = 8192;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2013811265520181897321220";
-						- _umlDependencyID = "3454";
+						- _objectCreation = "4812300274220181177981248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "idPeticion:int";
 						- m_szReturnVal = "Peticion";
@@ -28076,8 +28076,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 021724a0-d402-4ecc-bb91-31d9e3fdabec;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2013813265520181897301220";
-						- _umlDependencyID = "3031";
+						- _objectCreation = "4812302274220181177961248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "4.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "ArrayListPiezas";
@@ -28286,8 +28286,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "SecuenciaSolicitarPeticionTrabajo";
-			- _objectCreation = "2013815265520181897281220";
-			- _umlDependencyID = "5028";
+			- _objectCreation = "4812304274220181177941248";
+			- _umlDependencyID = "5031";
 			- _lastModifiedTime = "11.26.2018::14:28:10";
 			- _graphicChart = { CGIMscChart 
 				- vLadderMargin = 20;
@@ -28351,7 +28351,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID 455edbae-1a4f-4d9f-827c-eeb84222bbcd;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_CLIENTE";
+						- m_str = ":INTERFAZ_USUARIO_CLIENTE";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -28395,7 +28395,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID 455edbae-1a4f-4d9f-827c-eeb84222bbcd;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = ":SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -28439,7 +28439,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPeticiones";
+						- m_str = "HashMap=mostrarPeticiones(dni: String)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -28487,7 +28487,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarPeticion";
+						- m_str = "Peticion =editarPeticion(idPeticion: int, crear: enum)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -28616,16 +28616,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 3d5b1995-472c-4e2f-9e2d-d7285157c48c;
-				- _objectCreation = "2013817265520181897261220";
-				- _umlDependencyID = "1644";
+				- _objectCreation = "4812306274220181177921248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 2;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID e1e0ec1a-13e3-4850-b4c7-6f849d6d84ab;
 						- _myState = 2048;
-						- _objectCreation = "2013819265520181897241220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812308274220181177901248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -28642,8 +28642,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 33685e27-67b5-436d-9a6a-baa50ea365c9;
 						- _myState = 2048;
-						- _objectCreation = "2013821265520181897221220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812310274220181177881248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -28665,8 +28665,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID c8681c62-1a3f-4da5-b52b-524e3a7361b8;
 						- _myState = 8192;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2013823265520181897201220";
-						- _umlDependencyID = "3454";
+						- _objectCreation = "4812312274220181177861248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "dni: String";
 						- m_szReturnVal = "HashMap";
@@ -28701,8 +28701,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 476bbfcf-86e1-43a0-a4cb-7cdf6c925f41;
 						- _myState = 8192;
 						- _name = "editarPeticion";
-						- _objectCreation = "2013825265520181897181220";
-						- _umlDependencyID = "3104";
+						- _objectCreation = "4812314274220181177841248";
+						- _umlDependencyID = "3107";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "idPeticion: int, crear: enum";
 						- m_szReturnVal = "Peticion ";
@@ -28869,8 +28869,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "SecuenciaDarAltaCliente";
-			- _objectCreation = "2013827265520181897161220";
-			- _umlDependencyID = "3929";
+			- _objectCreation = "4812316274220181177821248";
+			- _umlDependencyID = "3932";
 			- _lastModifiedTime = "12.26.2018::10:24:41";
 			- _graphicChart = { CGIMscChart 
 				- vLadderMargin = 20;
@@ -28934,7 +28934,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID 667c53a9-6049-4ff5-aa58-ade76e9a5d8d;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_ESCRITORIO";
+						- m_str = ":INTERFAZ_USUARIO_ESCRITORIO";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -28978,7 +28978,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID 667c53a9-6049-4ff5-aa58-ade76e9a5d8d;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = ":SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -29022,7 +29022,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarClientes";
+						- m_str = "HashMapCliente=mostrarClientes()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -29070,7 +29070,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarCliente";
+						- m_str = "Cliente=editarCliente(dni: String, nombre:String, direccion:String, telefono:long, email:String)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -29132,16 +29132,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 7766f092-b456-4279-8232-e28ce9d158aa;
-				- _objectCreation = "2013829265520181897141220";
-				- _umlDependencyID = "1644";
+				- _objectCreation = "4812318274220181177801248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 2;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID fd998a30-110a-4133-a070-01aad5b5b929;
 						- _myState = 2048;
-						- _objectCreation = "2013831265520181897121220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812320274220181177781248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -29158,8 +29158,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID e45e501f-b472-4a90-9056-7f5e41f9b7fb;
 						- _myState = 2048;
-						- _objectCreation = "2013833265520181897101220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812322274220181177761248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -29180,8 +29180,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 303bdafc-84c7-408b-8bb2-221710517ada;
 						- _name = "mostrarClientes";
-						- _objectCreation = "2013835265520181897081220";
-						- _umlDependencyID = "3243";
+						- _objectCreation = "4812324274220181177741248";
+						- _umlDependencyID = "3246";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "HashMapCliente";
@@ -29216,8 +29216,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 5cc22203-5223-4b6f-a2c2-afe272729697;
 						- _myState = 8192;
 						- _name = "editarCliente";
-						- _objectCreation = "2013837265520181897061220";
-						- _umlDependencyID = "2985";
+						- _objectCreation = "4812326274220181177721248";
+						- _umlDependencyID = "2988";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "dni: String, nombre:String, direccion:String, telefono:long, email:String";
 						- m_szReturnVal = "Cliente";
@@ -29425,9 +29425,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 \\viewkind4\\uc1\\pard\\f0\\fs17 SecuenciaA\\'f1adirPieza\\par
 }
 ";
-			- _objectCreation = "2013839265520181897041220";
-			- _umlDependencyID = "3326";
-			- _lastModifiedTime = "12.26.2018::17:55:20";
+			- _objectCreation = "4812328274220181177701248";
+			- _umlDependencyID = "3329";
+			- _lastModifiedTime = "12.27.2018::10:42:48";
 			- _graphicChart = { CGIMscChart 
 				- vLadderMargin = 20;
 				- m_usingActivationBar = 0;
@@ -29490,7 +29490,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID d66463b7-f73f-4319-b465-264fe1c13ec0;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_ESCRITORIO";
+						- m_str = ":INTERFAZ_USUARIO_ESCRITORIO";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -29534,7 +29534,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID d66463b7-f73f-4319-b465-264fe1c13ec0;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = ":SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -29578,7 +29578,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPiezas";
+						- m_str = "ArrayListPiezas=mostrarPiezas()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -29626,7 +29626,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarPieza";
+						- m_str = "Pieza=editarPieza(idPieza:int , insertar:enum)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -29688,16 +29688,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID c09a7384-ddf2-4898-beac-9b08711b444f;
-				- _objectCreation = "2013841265520181897021220";
-				- _umlDependencyID = "1635";
+				- _objectCreation = "4812330274220181177681248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 2;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID c1ef1f2f-2b7e-426f-b3f4-74f88026d351;
 						- _myState = 2048;
-						- _objectCreation = "2013843265520181897001220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812332274220181177661248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -29714,8 +29714,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID a304c653-71ec-492e-b99d-2a0d0fb050e3;
 						- _myState = 2048;
-						- _objectCreation = "2013845265520181896981220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812334274220181177641248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -29736,8 +29736,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 3bf87e95-c934-42f8-99cc-525fb09f9346;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2013847265520181896961220";
-						- _umlDependencyID = "3049";
+						- _objectCreation = "4812336274220181177621248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "ArrayListPiezas";
@@ -29772,8 +29772,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 31d90a67-e739-4f17-9ff7-5ab39c62bc84;
 						- _myState = 8192;
 						- _name = "editarPieza";
-						- _objectCreation = "2013849265520181896941220";
-						- _umlDependencyID = "2791";
+						- _objectCreation = "4812338274220181177601248";
+						- _umlDependencyID = "2785";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "idPieza:int , insertar:enum";
 						- m_szReturnVal = "Pieza";
@@ -29940,8 +29940,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "SecuenciaCrearPresupuesto";
-			- _objectCreation = "2013851265520181896921220";
-			- _umlDependencyID = "4248";
+			- _objectCreation = "4812340274220181177581248";
+			- _umlDependencyID = "4251";
 			- _lastModifiedTime = "12.26.2018::10:24:41";
 			- _graphicChart = { CGIMscChart 
 				- vLadderMargin = 20;
@@ -30005,7 +30005,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID 5846b534-74f4-4c26-b206-8cfd10258d78;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_ESCRITORIO";
+						- m_str = ":INTERFAZ_USUARIO_ESCRITORIO";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30049,7 +30049,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID 5846b534-74f4-4c26-b206-8cfd10258d78;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = ":SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30093,7 +30093,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPeticiones";
+						- m_str = "HashMapPeticiones=mostrarPeticiones(pendientesPresupuesto:enum)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30141,7 +30141,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPeticiones";
+						- m_str = "HashMapPeticiones=mostrarPeticiones()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30189,7 +30189,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPeticiones";
+						- m_str = "Peticion=mostrarPeticiones(idPeticion:int)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30237,7 +30237,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarPresupuesto";
+						- m_str = "Presupuesto=editarPresupuesto(idPresupuesto, crear:enum, piezas:Piezas, precio:double, peticion:Peticion)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30285,7 +30285,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarPeticion";
+						- m_str = "Peticion=editarPeticion(idPeticion:int, editar: enum, presupuestada: enum)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30333,7 +30333,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPiezas";
+						- m_str = "ArrayListPiezas=mostrarPiezas()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30395,16 +30395,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID d25760a5-eecf-4d89-a193-4050a7983256;
-				- _objectCreation = "2013853265520181896901220";
-				- _umlDependencyID = "1644";
+				- _objectCreation = "4812342274220181177561248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 2;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID 65380d4c-434f-4f79-9d3a-20c91dd9a14e;
 						- _myState = 2048;
-						- _objectCreation = "2013855265520181896881220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812344274220181177541248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -30421,8 +30421,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 63d7489d-aa76-4405-b4d7-a6a13aa96c43;
 						- _myState = 2048;
-						- _objectCreation = "2013857265520181896861220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812346274220181177521248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -30444,8 +30444,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 233326c6-9762-4dde-ab9a-5d646a2d3517;
 						- _myState = 8192;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2013859265520181896841220";
-						- _umlDependencyID = "3472";
+						- _objectCreation = "4812348274220181177501248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "pendientesPresupuesto:enum";
 						- m_szReturnVal = "HashMapPeticiones";
@@ -30479,8 +30479,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID d0c904ee-2d4e-4d17-8665-3267bf15fd82;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2013861265520181896821220";
-						- _umlDependencyID = "3463";
+						- _objectCreation = "4812350274220181177481248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "HashMapPeticiones";
@@ -30515,8 +30515,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID bba242bf-fc5e-4eaa-8d42-a16221b07b61;
 						- _myState = 8192;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2013863265520181896801220";
-						- _umlDependencyID = "3463";
+						- _objectCreation = "4812352274220181177461248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "idPeticion:int";
 						- m_szReturnVal = "Peticion";
@@ -30551,8 +30551,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 89ab2faa-90b6-416f-a8f5-7af1dc485770;
 						- _myState = 8192;
 						- _name = "editarPresupuesto";
-						- _objectCreation = "2013865265520181896781220";
-						- _umlDependencyID = "3485";
+						- _objectCreation = "4812354274220181177441248";
+						- _umlDependencyID = "3479";
 						- m_szSequence = "5.";
 						- m_szActualArgs = "idPresupuesto, crear:enum, piezas:Piezas, precio:double, peticion:Peticion";
 						- m_szReturnVal = "Presupuesto";
@@ -30587,8 +30587,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID d942c88b-141b-4687-ba65-9777a82f6c9d;
 						- _myState = 8192;
 						- _name = "editarPeticion";
-						- _objectCreation = "2013867265520181896761220";
-						- _umlDependencyID = "3113";
+						- _objectCreation = "4812356274220181177421248";
+						- _umlDependencyID = "3107";
 						- m_szSequence = "6.";
 						- m_szActualArgs = "idPeticion:int, editar: enum, presupuestada: enum";
 						- m_szReturnVal = "Peticion";
@@ -30622,8 +30622,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 51f02dea-dc71-4b59-ac7b-fd9241213a7f;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2013869265520181896741220";
-						- _umlDependencyID = "3049";
+						- _objectCreation = "4812358274220181177401248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "4.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "ArrayListPiezas";
@@ -30827,8 +30827,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "SecuenciaBorrarPiezas";
-			- _objectCreation = "2013871265520181896721220";
-			- _umlDependencyID = "3792";
+			- _objectCreation = "4812360274220181177381248";
+			- _umlDependencyID = "3795";
 			- _lastModifiedTime = "12.26.2018::10:24:41";
 			- _graphicChart = { CGIMscChart 
 				- vLadderMargin = 20;
@@ -30892,7 +30892,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID 0c5e9f19-0bd8-469c-af6f-2f2c77ce8b81;
 					- m_name = { CGIText 
-						- m_str = "INTERFAZ_USUARIO_ESCRITORIO";
+						- m_str = ":INTERFAZ_USUARIO_ESCRITORIO";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30936,7 +30936,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID 0c5e9f19-0bd8-469c-af6f-2f2c77ce8b81;
 					- m_name = { CGIText 
-						- m_str = "SISTEMA";
+						- m_str = ":SISTEMA";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -30980,7 +30980,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPiezas";
+						- m_str = "HashMapPieza=mostrarPiezas()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -31028,7 +31028,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "mostrarPiezas";
+						- m_str = "Pieza=mostrarPiezas(idPieza:int)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -31076,7 +31076,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "editarPieza";
+						- m_str = "editarPieza(idPieza: int, eliminar:enum)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -31138,16 +31138,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 3189909e-0b35-4bb0-96c7-71a266f21cbf;
-				- _objectCreation = "2013873265520181896701220";
-				- _umlDependencyID = "1644";
+				- _objectCreation = "4812362274220181177361248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 2;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID ae460c33-5ab9-4aa1-9f17-da333e86248f;
 						- _myState = 2048;
-						- _objectCreation = "2013875265520181896681220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812364274220181177341248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -31164,8 +31164,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 231cf495-ee4b-402f-b2dc-148334651a2b;
 						- _myState = 2048;
-						- _objectCreation = "2013877265520181896661220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812366274220181177321248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = CLASS;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -31186,8 +31186,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 58924633-e181-42f0-9f38-c958d5e6def6;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2013879265520181896641220";
-						- _umlDependencyID = "3049";
+						- _objectCreation = "4812368274220181177301248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "HashMapPieza";
@@ -31222,8 +31222,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID b096bf8f-2bb1-4e92-8c5c-fbd049b836e8;
 						- _myState = 8192;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2013881265520181896621220";
-						- _umlDependencyID = "3040";
+						- _objectCreation = "4812370274220181177281248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "idPieza:int";
 						- m_szReturnVal = "Pieza";
@@ -31258,8 +31258,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID ef434f04-4813-4fbe-89a6-d6897c48c254;
 						- _myState = 8192;
 						- _name = "editarPieza";
-						- _objectCreation = "2013883265520181896601220";
-						- _umlDependencyID = "2782";
+						- _objectCreation = "4812372274220181177261248";
+						- _umlDependencyID = "2785";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "idPieza: int, eliminar:enum";
 						- m_szReturnVal = "";
@@ -31555,8 +31555,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "Acciones Coordinador";
-			- _objectCreation = "2013903265520181896401220";
-			- _umlDependencyID = "3580";
+			- _objectCreation = "4812374274220181177241248";
+			- _umlDependencyID = "3592";
 			- _lastModifiedTime = "12.26.2018::10:50:15";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 5e10076d-11ab-4184-9305-130cb6cd03ab;
@@ -31690,7 +31690,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = GUID 295591c7-1252-48a7-bb04-038e7d0088fd;
 					- m_name = { CGIText 
-						- m_str = "Gestion de Clientes";
+						- m_str = "Solicitar Petici\ón de Trabajo::Gestion de Clientes";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
@@ -35538,8 +35538,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "Acciones Tecnico";
-			- _objectCreation = "2013905265520181896381220";
-			- _umlDependencyID = "3158";
+			- _objectCreation = "4812376274220181177221248";
+			- _umlDependencyID = "3161";
 			- _lastModifiedTime = "12.23.2018::10:47:34";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 20ab05eb-41fe-4b4f-88ba-1317be944812;
@@ -36686,8 +36686,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "Acciones Cliente";
-			- _objectCreation = "2013907265520181896361220";
-			- _umlDependencyID = "3157";
+			- _objectCreation = "4812378274220181177201248";
+			- _umlDependencyID = "3160";
 			- _lastModifiedTime = "12.23.2018::10:39:23";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 395dce8f-e8cf-47f5-8d8f-6ca9ab2f5319;
@@ -38190,8 +38190,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "Acciones Responsable";
-			- _objectCreation = "2013909265520181896341220";
-			- _umlDependencyID = "3599";
+			- _objectCreation = "4812380274220181177181248";
+			- _umlDependencyID = "3602";
 			- _lastModifiedTime = "12.23.2018::10:45:22";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID da08daa2-fe6c-4e68-b22b-054afda37ce5;
@@ -40910,8 +40910,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "Acciones Sistema";
-			- _objectCreation = "2013911265520181896321220";
-			- _umlDependencyID = "3166";
+			- _objectCreation = "4812382274220181177161248";
+			- _umlDependencyID = "3178";
 			- _lastModifiedTime = "12.23.2018::10:46:49";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 01a35f3a-c575-4756-89b3-7c3f50a647f8;
@@ -42857,8 +42857,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "DiagramaComponentesCliente";
-			- _objectCreation = "2013913265520181896301220";
-			- _umlDependencyID = "4296";
+			- _objectCreation = "4812384274220181177141248";
+			- _umlDependencyID = "4308";
 			- _lastModifiedTime = "12.26.2018::15:8:14";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 27f15635-5190-4505-8646-56c95d446948;
@@ -43859,8 +43859,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "DiagramaComponentesEscritorio";
-			- _objectCreation = "2013915265520181896281220";
-			- _umlDependencyID = "4656";
+			- _objectCreation = "4812386274220181177121248";
+			- _umlDependencyID = "4659";
 			- _lastModifiedTime = "12.26.2018::15:3:41";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 3f09193f-9a09-4ab8-8f9d-83a099c2bcd3;
@@ -45161,8 +45161,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "DiagramaComponentesMovil";
-			- _objectCreation = "2013917265520181896261220";
-			- _umlDependencyID = "4116";
+			- _objectCreation = "4812388274220181177101248";
+			- _umlDependencyID = "4119";
 			- _lastModifiedTime = "12.26.2018::15:3:26";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 12370297-38a3-4c28-8ef3-be055233e97b;
@@ -46189,8 +46189,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "DiagramaComponentesSistema";
-			- _objectCreation = "2013919265520181896241220";
-			- _umlDependencyID = "4323";
+			- _objectCreation = "4812390274220181177081248";
+			- _umlDependencyID = "4326";
 			- _lastModifiedTime = "12.26.2018::17:51:7";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 838f831b-c993-44b1-9390-470c9b84d8bf;
@@ -47481,8 +47481,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "DiagramaComponentesDesarrollo";
-			- _objectCreation = "2013921265520181896221220";
-			- _umlDependencyID = "4635";
+			- _objectCreation = "4812392274220181177061248";
+			- _umlDependencyID = "4647";
 			- _lastModifiedTime = "12.26.2018::11:30:35";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 6aadcef8-b92a-4582-a476-6eed07377b42;
@@ -48602,8 +48602,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "DiagramaDespliegueSolucion1";
-			- _objectCreation = "2013923265520181896201220";
-			- _umlDependencyID = "4349";
+			- _objectCreation = "4812394274220181177041248";
+			- _umlDependencyID = "4361";
 			- _lastModifiedTime = "12.26.2018::17:49:4";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 60ffd4e9-22af-4541-8af3-d3e8cb78904a;
@@ -50333,8 +50333,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "DiagramaDespliegueSolucion2";
-			- _objectCreation = "2013925265520181896181220";
-			- _umlDependencyID = "4359";
+			- _objectCreation = "4812396274220181177021248";
+			- _umlDependencyID = "4362";
 			- _lastModifiedTime = "12.26.2018::17:49:52";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 0727d6de-34fc-46b1-af9a-33c78a901515;
@@ -52687,8 +52687,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "DiagramaDespliegueSolucion3";
-			- _objectCreation = "2013927265520181896161220";
-			- _umlDependencyID = "4360";
+			- _objectCreation = "4812398274220181177001248";
+			- _umlDependencyID = "4363";
 			- _lastModifiedTime = "12.26.2018::17:52:41";
 			- _graphicChart = { CGIClassChart 
 				- _id = GUID 7224fdcf-b586-48c8-8214-e62df9580c7f;
@@ -55626,9 +55626,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "ColaboracionAddPieza";
-			- _objectCreation = "2013929265520181896141220";
-			- _umlDependencyID = "3642";
-			- _lastModifiedTime = "12.26.2018::17:47:25";
+			- _objectCreation = "4812400274220181176981248";
+			- _umlDependencyID = "3645";
+			- _lastModifiedTime = "12.27.2018::10:42:41";
 			- _graphicChart = { CCollaborationChart 
 				- _id = GUID ef69dec5-7369-408e-a069-1cc23eb34e6a;
 				- m_type = 0;
@@ -56375,19 +56375,18 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "1. log_0()";
+						- m_str = "1.2 loggear=log(user, pass)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
 							- m_bgColor = 0;
 							- m_bgFlag = 0;
 						}
-						- m_position = 4 22 -8  55 -8  55 10  22 10  ;
+						- m_position = 4 -6 -9  178 -9  178 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 646 372 ;
-						- m_nHorizontalSpacing = 24;
-						- m_nVerticalSpacing = 15;
+						- m_transform = 1 0 0 1 449 358 ;
+						- m_nHorizontalSpacing = -201;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
@@ -56404,19 +56403,19 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "2. getPiezas_0()";
+						- m_str = "2.2 ArrayListPiezas=getPiezas()";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
 							- m_bgColor = 0;
 							- m_bgFlag = 0;
 						}
-						- m_position = 4 1 -8  76 -8  76 10  1 10  ;
+						- m_position = 4 -6 -9  207 -9  207 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 738 237 ;
-						- m_nHorizontalSpacing = 9;
-						- m_nVerticalSpacing = 39;
+						- m_transform = 1 0 0 1 419 287 ;
+						- m_nHorizontalSpacing = -248;
+						- m_nVerticalSpacing = 88;
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
@@ -56447,16 +56446,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID b51fa2ac-5a25-4936-aea4-6fad3aa0c45a;
-				- _objectCreation = "2013931265520181896121220";
-				- _umlDependencyID = "1635";
+				- _objectCreation = "4812402274220181176961248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 5;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID 4e7da5f7-7216-4a80-b680-88fda342b2e9;
 						- _myState = 2048;
-						- _objectCreation = "2013933265520181896101220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812404274220181176941248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -56473,8 +56472,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 86a0d5b4-8c2b-4ceb-a57a-e86116f5d14c;
 						- _myState = 2048;
-						- _objectCreation = "2013935265520181896081220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812406274220181176921248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -56491,8 +56490,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 768e78a9-b0cb-4a39-8e80-57e7ae5dc317;
 						- _myState = 2048;
-						- _objectCreation = "2013937265520181896061220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812408274220181176901248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -56509,8 +56508,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 1a129be8-cf4d-42a9-97bc-9cb9c8e9666e;
 						- _myState = 2048;
-						- _objectCreation = "2013939265520181896041220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812410274220181176881248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -56527,8 +56526,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 06306ed1-eea7-44bf-ab26-b088dd6bb92b;
 						- _myState = 2048;
-						- _objectCreation = "2013941265520181896021220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812412274220181176861248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -56550,8 +56549,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID fd65b80b-03ff-4453-b085-3b9533cf7277;
 						- _myState = 2048;
 						- _name = "associationrole_0";
-						- _objectCreation = "2013943265520181896001220";
-						- _umlDependencyID = "3393";
+						- _objectCreation = "4812414274220181176841248";
+						- _umlDependencyID = "3405";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -56573,8 +56572,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 99eb0029-75c4-471a-bc94-2382d3d03334;
 						- _myState = 2048;
 						- _name = "associationrole_1";
-						- _objectCreation = "2013945265520181895981220";
-						- _umlDependencyID = "3412";
+						- _objectCreation = "4812416274220181176821248";
+						- _umlDependencyID = "3406";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -56596,8 +56595,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID a2e19449-ecb9-4d40-a146-8ebbe6c57813;
 						- _myState = 2048;
 						- _name = "associationrole_2";
-						- _objectCreation = "2013947265520181895961220";
-						- _umlDependencyID = "3413";
+						- _objectCreation = "4812418274220181176801248";
+						- _umlDependencyID = "3407";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -56619,8 +56618,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID da907512-128e-46fb-a16f-7dfe9165e85c;
 						- _myState = 2048;
 						- _name = "associationrole_3";
-						- _objectCreation = "2013949265520181895941220";
-						- _umlDependencyID = "3414";
+						- _objectCreation = "4812420274220181176781248";
+						- _umlDependencyID = "3408";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -56642,8 +56641,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID d28aadf8-1710-4630-98b9-d3d06922c255;
 						- _myState = 2048;
 						- _name = "associationrole_4";
-						- _objectCreation = "2013951265520181895921220";
-						- _umlDependencyID = "3406";
+						- _objectCreation = "4812422274220181176761248";
+						- _umlDependencyID = "3409";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -56668,8 +56667,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 8633573d-a308-4762-871f-68d4582edd5d;
 						- _name = "onClickLogger";
-						- _objectCreation = "2013953265520181895901220";
-						- _umlDependencyID = "2959";
+						- _objectCreation = "4812424274220181176741248";
+						- _umlDependencyID = "2962";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -56704,8 +56703,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 6d344752-5a91-4048-8c07-8fb24348ddcf;
 						- _name = "onClickNuevaPieza";
-						- _objectCreation = "2013955265520181895881220";
-						- _umlDependencyID = "3376";
+						- _objectCreation = "4812426274220181176721248";
+						- _umlDependencyID = "3370";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -56741,8 +56740,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 6d43a01a-7606-4923-a465-d5b9b69f333b;
 						- _myState = 8192;
 						- _name = "log";
-						- _objectCreation = "2013957265520181895861220";
-						- _umlDependencyID = "1975";
+						- _objectCreation = "4812428274220181176701248";
+						- _umlDependencyID = "1969";
 						- m_szSequence = "1.1.";
 						- m_szActualArgs = "user, pass";
 						- m_szReturnVal = "";
@@ -56778,8 +56777,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID c205a682-5161-4d43-84f1-1519df943746;
 						- _myState = 8192;
 						- _name = "editarPieza";
-						- _objectCreation = "2013959265520181895841220";
-						- _umlDependencyID = "2791";
+						- _objectCreation = "4812430274220181176681248";
+						- _umlDependencyID = "2785";
 						- m_szSequence = "3.1.";
 						- m_szActualArgs = "id_pieza, crear";
 						- m_szReturnVal = "";
@@ -56815,8 +56814,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID e53aa45e-160f-4ce3-a27f-2728425f99a6;
 						- _myState = 8192;
 						- _name = "Piezas";
-						- _objectCreation = "2013961265520181895821220";
-						- _umlDependencyID = "2264";
+						- _objectCreation = "4812432274220181176661248";
+						- _umlDependencyID = "2267";
 						- m_szSequence = "3.2.";
 						- m_szActualArgs = "datos";
 						- m_szReturnVal = "";
@@ -56852,8 +56851,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID a89ee75a-e58a-4591-b88f-3f5333f383ff;
 						- _myState = 8192;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2013963265520181895801220";
-						- _umlDependencyID = "3040";
+						- _objectCreation = "4812434274220181176641248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "3.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "Pieza";
@@ -56889,8 +56888,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID f475f48b-6ea6-47c0-b8ca-0b6e3c6337a3;
 						- _myState = 8192;
 						- _name = "guardarPieza";
-						- _objectCreation = "2013965265520181895781220";
-						- _umlDependencyID = "2900";
+						- _objectCreation = "4812436274220181176621248";
+						- _umlDependencyID = "2894";
 						- m_szSequence = "3.4.";
 						- m_szActualArgs = "pieza:Pieza";
 						- m_szReturnVal = "Confirmacion";
@@ -56925,8 +56924,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID ecd4d305-2af9-4938-a301-f5d133f26e89;
 						- _name = "onClickMostrarPiezas";
-						- _objectCreation = "2013967265520181895761220";
-						- _umlDependencyID = "3724";
+						- _objectCreation = "4812438274220181176601248";
+						- _umlDependencyID = "3718";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -56961,8 +56960,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID cd9cc326-8b3f-4a1d-bdb8-58624395947a;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2013969265520181895741220";
-						- _umlDependencyID = "3049";
+						- _objectCreation = "4812440274220181176581248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "2.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -56996,13 +56995,13 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					{ IMessage 
 						- _id = GUID ae07cd32-825f-4faf-880b-ca2f00a47099;
-						- _name = "log_0";
-						- _displayName = "log";
-						- _objectCreation = "2013971265520181895721220";
-						- _umlDependencyID = "2109";
-						- m_szSequence = "1.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "";
+						- _myState = 8192;
+						- _name = "log";
+						- _objectCreation = "4812442274220181176561248";
+						- _umlDependencyID = "1969";
+						- m_szSequence = "1.2";
+						- m_szActualArgs = "user, pass";
+						- m_szReturnVal = "loggear";
 						- m_pCommunicationConnection = { IHandle 
 							- _m2Class = "IAssociationRole";
 							- _id = GUID d28aadf8-1710-4630-98b9-d3d06922c255;
@@ -57016,7 +57015,12 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _id = GUID 4e7da5f7-7216-4a80-b680-88fda342b2e9;
 						}
 						- m_pFormalMessage = { IHandle 
-							- _m2Class = "";
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "log(RhpString,RhpString)";
+							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
 						}
 						- m_eType = PRIMITIVE;
 						- m_targetExec = { IHandle 
@@ -57028,13 +57032,12 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					{ IMessage 
 						- _id = GUID 43a8f747-9562-4929-8147-2463112dcc09;
-						- _name = "getPiezas_0";
-						- _displayName = "getPiezas";
-						- _objectCreation = "2013973265520181895701220";
-						- _umlDependencyID = "2727";
-						- m_szSequence = "2.";
+						- _name = "getPiezas";
+						- _objectCreation = "4812444274220181176541248";
+						- _umlDependencyID = "2587";
+						- m_szSequence = "2.2";
 						- m_szActualArgs = "";
-						- m_szReturnVal = "";
+						- m_szReturnVal = "ArrayListPiezas";
 						- m_pCommunicationConnection = { IHandle 
 							- _m2Class = "IAssociationRole";
 							- _id = GUID d28aadf8-1710-4630-98b9-d3d06922c255;
@@ -57048,7 +57051,12 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _id = GUID 4e7da5f7-7216-4a80-b680-88fda342b2e9;
 						}
 						- m_pFormalMessage = { IHandle 
-							- _m2Class = "";
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getPiezas()";
+							- _id = GUID b9d78979-0016-4485-bb06-5547faeff5d5;
 						}
 						- m_eType = PRIMITIVE;
 						- m_targetExec = { IHandle 
@@ -57194,9 +57202,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "ColaboracionBorrarPiezas";
-			- _objectCreation = "2013975265520181895681220";
-			- _umlDependencyID = "4117";
-			- _lastModifiedTime = "12.26.2018::11:41:44";
+			- _objectCreation = "4812446274220181176521248";
+			- _umlDependencyID = "4111";
+			- _lastModifiedTime = "12.27.2018::10:42:9";
 			- _graphicChart = { CCollaborationChart 
 				- _id = GUID 8a90515c-40fd-4250-9e38-86db888b9391;
 				- m_type = 0;
@@ -57220,7 +57228,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 				- m_drawBehavior = 4096;
 				- m_bIsPreferencesInitialized = 1;
-				- elementList = 21;
+				- elementList = 22;
 				{ CGIBox 
 					- _id = GUID 51a400d8-07a4-4878-b975-3a3a21b38863;
 					- m_type = 154;
@@ -57379,7 +57387,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.136282 0 0 0.0718284 103 105 ;
+					- m_transform = 0.136282 0 0 0.0718284 35 107 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -57432,7 +57440,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.154332 0 0 0.0671642 73 347 ;
+					- m_transform = 0.154332 0 0 0.0671642 5 349 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -57529,7 +57537,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
-					- m_SourcePort = 972 685 ;
+					- m_SourcePort = 972 655 ;
 					- m_TargetPort = 144 610 ;
 				}
 				{ CGIAssociationRole 
@@ -57684,35 +57692,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- _percent = 19;
 				}
 				{ CGIMessageLabel 
-					- _id = GUID 52bfd65c-3722-4cc1-a9db-efd07f92ffc6;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID ec9714ca-9203-4401-93b6-df73e1a92b27;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "1.2. Loggeado=log(user, pass)";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  125 -9  125 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 679 192 ;
-						- m_nHorizontalSpacing = 16;
-						- m_nVerticalSpacing = 2;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID bc83ef73-43f6-443c-a5cb-919861d381ec;
-					- _percent = 86;
-				}
-				{ CGIMessageLabel 
 					- _id = GUID c04b3e1f-fc5a-4bec-b0da-467a5f74b58f;
 					- m_type = 160;
 					- m_pModelObject = { IHandle 
@@ -57769,35 +57748,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 8b220ec3-98bf-4288-b09b-7a23bb117c0e;
 					- _percent = 50;
-				}
-				{ CGIMessageLabel 
-					- _id = GUID 4899d172-1072-46f1-ba9c-1272f5681ad0;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID fccd44b8-b898-40e6-99a1-2a51a527c96a;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "2.2. HashMapPiezas=getPiezas()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  211 -9  211 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 1;
-						- m_transform = 1 0 0 0.888889 678 240 ;
-						- m_nHorizontalSpacing = 15;
-						- m_nVerticalSpacing = -5;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID bc83ef73-43f6-443c-a5cb-919861d381ec;
-					- _percent = 57;
 				}
 				{ CGIMessageLabel 
 					- _id = GUID d6f0a6eb-1fa2-4393-a5da-38f8be4f9168;
@@ -57933,15 +57883,121 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  248 -9  248 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 677 286 ;
-						- m_nHorizontalSpacing = 14;
-						- m_nVerticalSpacing = 3;
+						- m_transform = 1 0 0 1 886 250 ;
+						- m_nHorizontalSpacing = 26;
+						- m_nVerticalSpacing = -27;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID bc83ef73-43f6-443c-a5cb-919861d381ec;
 					- _percent = 37;
+				}
+				{ CGIAssociationRole 
+					- _id = GUID 97189c57-a95a-44ef-b9e2-5282971af0d5;
+					- m_type = 159;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IAssociationRole";
+						- _id = GUID 14020678-ed23-4fc7-956a-778a867a2529;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8192;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID fdf2e671-f2d2-47f2-94fb-bc7a11cbf9ba;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID 769c3a27-58de-4007-8c6d-07d0b154f47c;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "associationrole_4";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_arrow = 1 565 126  ;
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 2;
+					- m_SourcePort = 554 30 ;
+					- m_TargetPort = 410 566 ;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID b9f3eac5-1526-4569-b968-78a70767b62a;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID c88089e5-998b-4804-bf3d-38a9f4061fd9;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "1.2. Loggeado=log(user, pass)";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  199 -9  199 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 353 294 ;
+						- m_nHorizontalSpacing = -218;
+						- m_nVerticalSpacing = -4;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 97189c57-a95a-44ef-b9e2-5282971af0d5;
+					- _percent = 12;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID b604d959-7f8d-46fd-8c82-fd73b6ed1c55;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 3399f506-4956-4cd8-941f-9743133f9a66;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "2.2. HashMapPiezas=getPiezas()";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  217 -9  217 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 1;
+						- m_transform = 1 0 0 0.777778 337 203 ;
+						- m_nHorizontalSpacing = -234;
+						- m_nVerticalSpacing = -29;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 97189c57-a95a-44ef-b9e2-5282971af0d5;
+					- _percent = 26;
 				}
 				
 				- m_access = 'Z';
@@ -57966,16 +58022,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 16c89134-60f2-4bfb-871f-77733a47d7c0;
-				- _objectCreation = "2013977265520181895661220";
-				- _umlDependencyID = "1653";
+				- _objectCreation = "4812448274220181176501248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 5;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID 1ca783a5-e9f9-483b-b707-b4e82dd2df8c;
 						- _myState = 2048;
-						- _objectCreation = "2013979265520181895641220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812450274220181176481248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -57992,8 +58048,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID f1b13dd0-9b17-4ee8-8b2f-7435000389f3;
 						- _myState = 2048;
-						- _objectCreation = "2013981265520181895621220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812452274220181176461248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -58010,8 +58066,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 93d4efa5-b41c-417c-a2d4-fab44d74d4a5;
 						- _myState = 2048;
-						- _objectCreation = "2013983265520181895601220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812454274220181176441248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -58028,8 +58084,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 75ca744a-e928-4980-a521-4ce469cac450;
 						- _myState = 2048;
-						- _objectCreation = "2013985265520181895581220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812456274220181176421248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -58046,8 +58102,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID aa21b523-53e5-46a0-a88e-6f41663730e3;
 						- _myState = 2048;
-						- _objectCreation = "2013987265520181895561220";
-						- _umlDependencyID = "1653";
+						- _objectCreation = "4812458274220181176401248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -58063,14 +58119,14 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 				}
 				- AssociationRoles = { IRPYRawContainer 
-					- size = 4;
+					- size = 5;
 					- value = 
 					{ IAssociationRole 
 						- _id = GUID a05ee183-0802-4131-8d76-22cc1e4cc277;
 						- _myState = 2048;
 						- _name = "associationrole_0";
-						- _objectCreation = "2013989265520181895541220";
-						- _umlDependencyID = "3411";
+						- _objectCreation = "4812460274220181176381248";
+						- _umlDependencyID = "3405";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -58092,8 +58148,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 94512398-d240-4381-91ea-8c308ac5abf1;
 						- _myState = 2048;
 						- _name = "associationrole_1";
-						- _objectCreation = "2013991265520181895521220";
-						- _umlDependencyID = "3403";
+						- _objectCreation = "4812462274220181176361248";
+						- _umlDependencyID = "3406";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -58115,8 +58171,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 2a1b3c5d-6e0e-48f0-9531-c665ff3c97f7;
 						- _myState = 2048;
 						- _name = "associationrole_2";
-						- _objectCreation = "2013993265520181895501220";
-						- _umlDependencyID = "3404";
+						- _objectCreation = "4812464274220181176341248";
+						- _umlDependencyID = "3407";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -58138,8 +58194,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID fe4982d8-40cd-400b-9d33-9208622f514e;
 						- _myState = 2048;
 						- _name = "associationrole_3";
-						- _objectCreation = "2013995265520181895481220";
-						- _umlDependencyID = "3414";
+						- _objectCreation = "4812466274220181176321248";
+						- _umlDependencyID = "3408";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -58157,6 +58213,29 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _id = GUID f1b13dd0-9b17-4ee8-8b2f-7435000389f3;
 						}
 					}
+					{ IAssociationRole 
+						- _id = GUID 14020678-ed23-4fc7-956a-778a867a2529;
+						- _myState = 2048;
+						- _name = "associationrole_4";
+						- _objectCreation = "4812468274220181176301248";
+						- _umlDependencyID = "3409";
+						- m_fAssocType1 = UNSPECIFIED;
+						- m_fAssocType2 = UNSPECIFIED;
+						- m_pFormalAssoc1 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pFormalAssoc2 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pSource = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 1ca783a5-e9f9-483b-b707-b4e82dd2df8c;
+						}
+						- m_pTarget = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID f1b13dd0-9b17-4ee8-8b2f-7435000389f3;
+						}
+					}
 				}
 				- Messages = { IRPYRawContainer 
 					- size = 11;
@@ -58164,8 +58243,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 041a988f-df78-4d14-879b-e0e4558e167a;
 						- _name = "onClickLogger";
-						- _objectCreation = "2013997265520181895461220";
-						- _umlDependencyID = "2968";
+						- _objectCreation = "4812470274220181176281248";
+						- _umlDependencyID = "2962";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -58201,8 +58280,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 7ed19871-c25e-4105-8383-a298a8838465;
 						- _myState = 8192;
 						- _name = "log";
-						- _objectCreation = "2013999265520181895441220";
-						- _umlDependencyID = "1975";
+						- _objectCreation = "4812472274220181176261248";
+						- _umlDependencyID = "1969";
 						- m_szSequence = "1.1.";
 						- m_szActualArgs = "user, pass";
 						- m_szReturnVal = "";
@@ -58235,47 +58314,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID ec9714ca-9203-4401-93b6-df73e1a92b27;
-						- _myState = 8192;
-						- _name = "log";
-						- _objectCreation = "2014001265520181895421220";
-						- _umlDependencyID = "1948";
-						- m_szSequence = "1.2.";
-						- m_szActualArgs = "user, pass";
-						- m_szReturnVal = "Loggeado";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID fe4982d8-40cd-400b-9d33-9208622f514e;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID f1b13dd0-9b17-4ee8-8b2f-7435000389f3;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 93d4efa5-b41c-417c-a2d4-fab44d74d4a5;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "log(RhpString,RhpString)";
-							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 325e96ad-71fa-4332-87c3-6912fe2a1653;
 						- _name = "onClickMostrarPieza";
-						- _objectCreation = "2014003265520181895401220";
-						- _umlDependencyID = "3582";
+						- _objectCreation = "4812474274220181176241248";
+						- _umlDependencyID = "3603";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -58310,8 +58352,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID a94451cc-faf4-411c-a041-a74729201fd0;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2014005265520181895381220";
-						- _umlDependencyID = "3031";
+						- _objectCreation = "4812476274220181176221248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "2.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -58344,46 +58386,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID fccd44b8-b898-40e6-99a1-2a51a527c96a;
-						- _name = "getPiezas";
-						- _objectCreation = "2014007265520181895361220";
-						- _umlDependencyID = "2575";
-						- m_szSequence = "2.2.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "HashMapPiezas";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID fe4982d8-40cd-400b-9d33-9208622f514e;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID f1b13dd0-9b17-4ee8-8b2f-7435000389f3;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 93d4efa5-b41c-417c-a2d4-fab44d74d4a5;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getPiezas()";
-							- _id = GUID b9d78979-0016-4485-bb06-5547faeff5d5;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 67d77c86-36e8-4b5b-a5b5-df27795b2a26;
 						- _name = "onClickBorrarPieza";
-						- _objectCreation = "2014009265520181895341220";
-						- _umlDependencyID = "3463";
+						- _objectCreation = "4812478274220181176201248";
+						- _umlDependencyID = "3475";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -58419,8 +58425,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 111e809a-9842-4ba5-b121-075ca01a19e2;
 						- _myState = 8192;
 						- _name = "editarPieza";
-						- _objectCreation = "2014011265520181895321220";
-						- _umlDependencyID = "2764";
+						- _objectCreation = "4812480274220181176181248";
+						- _umlDependencyID = "2785";
 						- m_szSequence = "3.1.";
 						- m_szActualArgs = "idPieza, borrar";
 						- m_szReturnVal = "";
@@ -58456,8 +58462,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 556bdeb1-fef9-403a-8f16-a9780d598af2;
 						- _myState = 8192;
 						- _name = "editar";
-						- _objectCreation = "2014013265520181895301220";
-						- _umlDependencyID = "2259";
+						- _objectCreation = "4812482274220181176161248";
+						- _umlDependencyID = "2280";
 						- m_szSequence = "3.2.";
 						- m_szActualArgs = "datos";
 						- m_szReturnVal = "";
@@ -58493,8 +58499,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID c2eb3cc2-3afe-42b8-839d-07132f8ece76;
 						- _myState = 8192;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2014015265520181895281220";
-						- _umlDependencyID = "3031";
+						- _objectCreation = "4812484274220181176141248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "3.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "Pieza";
@@ -58530,8 +58536,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID cc6ea69e-a448-421c-97ce-ef8d5d206974;
 						- _myState = 8192;
 						- _name = "borrarPieza";
-						- _objectCreation = "2014017265520181895261220";
-						- _umlDependencyID = "2788";
+						- _objectCreation = "4812486274220181176121248";
+						- _umlDependencyID = "2800";
 						- m_szSequence = "3.4.";
 						- m_szActualArgs = "Pieza";
 						- m_szReturnVal = "Confirmacion";
@@ -58554,6 +58560,79 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _class = "Fachada";
 							- _name = "borrarPieza(Piezas)";
 							- _id = GUID 45681437-61b2-4f18-b0d8-d1ad8ff2ae8c;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID c88089e5-998b-4804-bf3d-38a9f4061fd9;
+						- _myState = 8192;
+						- _name = "log";
+						- _objectCreation = "4812488274220181176101248";
+						- _umlDependencyID = "1969";
+						- m_szSequence = "1.2.";
+						- m_szActualArgs = "user, pass";
+						- m_szReturnVal = "Loggeado";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID 14020678-ed23-4fc7-956a-778a867a2529;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID f1b13dd0-9b17-4ee8-8b2f-7435000389f3;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 1ca783a5-e9f9-483b-b707-b4e82dd2df8c;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "log(RhpString,RhpString)";
+							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 3399f506-4956-4cd8-941f-9743133f9a66;
+						- _name = "getPiezas";
+						- _objectCreation = "4812490274220181176081248";
+						- _umlDependencyID = "2587";
+						- m_szSequence = "2.2.";
+						- m_szActualArgs = "";
+						- m_szReturnVal = "HashMapPiezas";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID 14020678-ed23-4fc7-956a-778a867a2529;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID f1b13dd0-9b17-4ee8-8b2f-7435000389f3;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 1ca783a5-e9f9-483b-b707-b4e82dd2df8c;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getPiezas()";
+							- _id = GUID b9d78979-0016-4485-bb06-5547faeff5d5;
 						}
 						- m_eType = PRIMITIVE;
 						- m_targetExec = { IHandle 
@@ -58657,9 +58736,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "ColaboracionSolicitarPeticionTrabajo";
-			- _objectCreation = "2014019265520181895241220";
-			- _umlDependencyID = "5335";
-			- _lastModifiedTime = "12.26.2018::11:48:42";
+			- _objectCreation = "4812492274220181176061248";
+			- _umlDependencyID = "5347";
+			- _lastModifiedTime = "12.27.2018::10:40:59";
 			- _graphicChart = { CCollaborationChart 
 				- _id = GUID 0411eaad-0c1b-4fb0-9e66-675b88a14b08;
 				- m_type = 0;
@@ -58683,7 +58762,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 				- m_drawBehavior = 4096;
 				- m_bIsPreferencesInitialized = 1;
-				- elementList = 21;
+				- elementList = 22;
 				{ CGIBox 
 					- _id = GUID 98626849-d94c-48f2-a198-d7d3d4359791;
 					- m_type = 154;
@@ -58789,7 +58868,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.0974729 0 0 0.0671642 935 266 ;
+					- m_transform = 0.0974729 0 0 0.0671642 1082 267 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -58817,7 +58896,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.0974729 0 0 0.0671642 600 524 ;
+					- m_transform = 0.0974729 0 0 0.0671642 747 525 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -58845,7 +58924,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.0974729 0 0 0.0671642 927 534 ;
+					- m_transform = 0.0974729 0 0 0.0671642 1074 535 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -58943,7 +59022,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
 					- m_SourcePort = 1049 521 ;
-					- m_TargetPort = 144 551 ;
+					- m_TargetPort = 144 536 ;
 				}
 				{ CGIAssociationRole 
 					- _id = GUID 95e3403e-5620-4460-9572-613635b727b7;
@@ -59127,35 +59206,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- _percent = 16;
 				}
 				{ CGIMessageLabel 
-					- _id = GUID bbd14503-9c47-4c2e-b11e-93a9da11cbf9;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 6d2307ab-9140-4008-b6c0-aa36e1bc2521;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "1.2. Loggear=log(user, pass)";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  187 -9  187 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 1018 372 ;
-						- m_nHorizontalSpacing = 21;
-						- m_nVerticalSpacing = -128;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 95e3403e-5620-4460-9572-613635b727b7;
-					- _percent = 18;
-				}
-				{ CGIMessageLabel 
 					- _id = GUID b8245512-5a50-406b-afbf-1bea12182779;
 					- m_type = 160;
 					- m_pModelObject = { IHandle 
@@ -59174,9 +59224,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  131 -9  131 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 753 542 ;
-						- m_nHorizontalSpacing = -54;
-						- m_nVerticalSpacing = -21;
+						- m_transform = 1 0 0 1 750 539 ;
+						- m_nHorizontalSpacing = -57;
+						- m_nVerticalSpacing = -24;
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
@@ -59232,9 +59282,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  199 -9  199 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 768 402 ;
-						- m_nHorizontalSpacing = 22;
-						- m_nVerticalSpacing = 75;
+						- m_transform = 1 0 0 1 1005 436 ;
+						- m_nHorizontalSpacing = 18;
+						- m_nVerticalSpacing = 16;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
@@ -59261,9 +59311,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  152 -9  152 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 448 530 ;
-						- m_nHorizontalSpacing = -19;
-						- m_nVerticalSpacing = -22;
+						- m_transform = 1 0 0 1 534 528 ;
+						- m_nHorizontalSpacing = -47;
+						- m_nVerticalSpacing = -24;
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
@@ -59301,35 +59351,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- _percent = 49;
 				}
 				{ CGIMessageLabel 
-					- _id = GUID 65db35be-7a7d-4bef-8b92-62e0faa2cc12;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID be4061ae-0fd8-4f58-91f9-bd428f4bc5c1;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "2.2. HashMapPeticiones=getPeticiones()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  266 -9  266 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 1019 432 ;
-						- m_nHorizontalSpacing = 22;
-						- m_nVerticalSpacing = 19;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 95e3403e-5620-4460-9572-613635b727b7;
-					- _percent = 62;
-				}
-				{ CGIMessageLabel 
 					- _id = GUID 8695cad2-78e0-4023-a4c9-4150cf131360;
 					- m_type = 160;
 					- m_pModelObject = { IHandle 
@@ -59345,18 +59366,123 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- m_bgColor = 0;
 							- m_bgFlag = 0;
 						}
-						- m_position = 4 -6 -9  215 -9  215 9  -6 9  ;
+						- m_position = 4 -6 -9  239 -9  239 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 415 594 ;
-						- m_nHorizontalSpacing = -105;
-						- m_nVerticalSpacing = 42;
+						- m_transform = 1 0 0 1 412 589 ;
+						- m_nHorizontalSpacing = -160;
+						- m_nVerticalSpacing = 37;
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 658acd47-c52d-4c33-919e-e05ae30e55f8;
 					- _percent = 86;
+				}
+				{ CGIAssociationRole 
+					- _id = GUID b36ba073-f6a7-4cfa-bec1-e18d94919de5;
+					- m_type = 159;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IAssociationRole";
+						- _id = GUID b94e7582-6e20-4047-a63f-a83439356b05;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8192;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID c6b4120a-f96f-49c4-af0a-9e499a52c9af;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID cf644b26-372c-4877-b0b3-bac27565038d;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "associationrole_4";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_arrow = 1 798 302  ;
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 2;
+					- m_SourcePort = 523 74 ;
+					- m_TargetPort = 195 521 ;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID 46ea932b-f3bd-404a-a75d-2da97f6e4245;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 27327122-9da1-4759-8f24-d121ced65f64;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "1.2. Loggear=log(user, pass)";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  187 -9  187 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 445 454 ;
+						- m_nHorizontalSpacing = -212;
+						- m_nVerticalSpacing = -3;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID b36ba073-f6a7-4cfa-bec1-e18d94919de5;
+					- _percent = 13;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID af33b644-1c10-426f-b9dd-35855a1c0e53;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 51a19869-98bd-4511-8599-3ff9b2df4420;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "2.2. HashMapPeticiones=getPeticiones()";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  266 -9  266 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 368 392 ;
+						- m_nHorizontalSpacing = -289;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID b36ba073-f6a7-4cfa-bec1-e18d94919de5;
+					- _percent = 26;
 				}
 				
 				- m_access = 'Z';
@@ -59381,16 +59507,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID a1492e53-eb2e-4529-8025-19b5de2b4502;
-				- _objectCreation = "2014021265520181895221220";
-				- _umlDependencyID = "1626";
+				- _objectCreation = "4812494274220181176041248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 5;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID 5ba5f364-001a-400d-bca1-5da61208e64c;
 						- _myState = 2048;
-						- _objectCreation = "2014023265520181895201220";
-						- _umlDependencyID = "1626";
+						- _objectCreation = "4812496274220181176021248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -59407,8 +59533,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID d6af99d0-ea37-425a-9fe6-c64a353a4ac6;
 						- _myState = 2048;
-						- _objectCreation = "2014025265520181895181220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812498274220181176001248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -59425,8 +59551,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 086cdb57-bbda-4c4b-9ca9-d72f6bbf74e5;
 						- _myState = 2048;
-						- _objectCreation = "2014027265520181895161220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812500274220181175981248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -59443,8 +59569,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 45dcf4c4-0f66-4a36-9a1f-097821d2820b;
 						- _myState = 2048;
-						- _objectCreation = "2014029265520181895141220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812502274220181175961248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -59461,8 +59587,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 7997d1b0-20ec-4551-aa2c-9b81f75b0906;
 						- _myState = 2048;
-						- _objectCreation = "2014031265520181895121220";
-						- _umlDependencyID = "1626";
+						- _objectCreation = "4812504274220181175941248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -59478,14 +59604,14 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 				}
 				- AssociationRoles = { IRPYRawContainer 
-					- size = 4;
+					- size = 5;
 					- value = 
 					{ IAssociationRole 
 						- _id = GUID c0467523-4f49-4b54-b08d-3672b8fb32b4;
 						- _myState = 2048;
 						- _name = "associationrole_0";
-						- _objectCreation = "2014033265520181895101220";
-						- _umlDependencyID = "3384";
+						- _objectCreation = "4812506274220181175921248";
+						- _umlDependencyID = "3405";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -59507,8 +59633,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 44005fe1-9efe-4cb9-afef-bdc83ed09ad0;
 						- _myState = 2048;
 						- _name = "associationrole_1";
-						- _objectCreation = "2014035265520181895081220";
-						- _umlDependencyID = "3394";
+						- _objectCreation = "4812508274220181175901248";
+						- _umlDependencyID = "3406";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -59530,8 +59656,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID c5a3254b-1235-481e-b8fc-5c0fce8b417c;
 						- _myState = 2048;
 						- _name = "associationrole_2";
-						- _objectCreation = "2014037265520181895061220";
-						- _umlDependencyID = "3395";
+						- _objectCreation = "4812510274220181175881248";
+						- _umlDependencyID = "3407";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -59553,8 +59679,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 50db472d-5f05-4e31-903d-cbc716a70239;
 						- _myState = 2048;
 						- _name = "associationrole_3";
-						- _objectCreation = "2014039265520181895041220";
-						- _umlDependencyID = "3396";
+						- _objectCreation = "4812512274220181175861248";
+						- _umlDependencyID = "3408";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -59572,6 +59698,29 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _id = GUID 7997d1b0-20ec-4551-aa2c-9b81f75b0906;
 						}
 					}
+					{ IAssociationRole 
+						- _id = GUID b94e7582-6e20-4047-a63f-a83439356b05;
+						- _myState = 2048;
+						- _name = "associationrole_4";
+						- _objectCreation = "4812514274220181175841248";
+						- _umlDependencyID = "3409";
+						- m_fAssocType1 = UNSPECIFIED;
+						- m_fAssocType2 = UNSPECIFIED;
+						- m_pFormalAssoc1 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pFormalAssoc2 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pSource = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 45dcf4c4-0f66-4a36-9a1f-097821d2820b;
+						}
+						- m_pTarget = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 086cdb57-bbda-4c4b-9ca9-d72f6bbf74e5;
+						}
+					}
 				}
 				- Messages = { IRPYRawContainer 
 					- size = 11;
@@ -59579,8 +59728,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 35b9825c-8f31-4c1d-9dab-6a35938a6c32;
 						- _name = "onClickLogger";
-						- _objectCreation = "2014041265520181895021220";
-						- _umlDependencyID = "2941";
+						- _objectCreation = "4812516274220181175821248";
+						- _umlDependencyID = "2962";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -59615,8 +59764,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 8b17a7bb-ddc2-4112-bfa0-97a96f42ef83;
 						- _name = "onClickSolicitarPeticion";
-						- _objectCreation = "2014043265520181895001220";
-						- _umlDependencyID = "4098";
+						- _objectCreation = "4812518274220181175801248";
+						- _umlDependencyID = "4119";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -59652,8 +59801,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID a50b1916-084c-4e29-a3b4-4ae870b63b36;
 						- _myState = 8192;
 						- _name = "log";
-						- _objectCreation = "2014045265520181894981220";
-						- _umlDependencyID = "1966";
+						- _objectCreation = "4812520274220181175781248";
+						- _umlDependencyID = "1969";
 						- m_szSequence = "1.1.";
 						- m_szActualArgs = "user, pass";
 						- m_szReturnVal = "";
@@ -59686,48 +59835,11 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 6d2307ab-9140-4008-b6c0-aa36e1bc2521;
-						- _myState = 8192;
-						- _name = "log";
-						- _objectCreation = "2014047265520181894961220";
-						- _umlDependencyID = "1966";
-						- m_szSequence = "1.2.";
-						- m_szActualArgs = "user, pass";
-						- m_szReturnVal = "Loggear";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID c5a3254b-1235-481e-b8fc-5c0fce8b417c;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 086cdb57-bbda-4c4b-9ca9-d72f6bbf74e5;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 7997d1b0-20ec-4551-aa2c-9b81f75b0906;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "log(RhpString,RhpString)";
-							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID fe8cef4f-1252-4c1f-bd98-5ae913155623;
 						- _myState = 8192;
 						- _name = "Peticion";
-						- _objectCreation = "2014049265520181894941220";
-						- _umlDependencyID = "2471";
+						- _objectCreation = "4812522274220181175761248";
+						- _umlDependencyID = "2474";
 						- m_szSequence = "3.2.";
 						- m_szActualArgs = "datos";
 						- m_szReturnVal = "";
@@ -59762,8 +59874,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID d9b79712-546e-4c4f-96b7-caa90e32c0d8;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2014051265520181894921220";
-						- _umlDependencyID = "3454";
+						- _objectCreation = "4812524274220181175741248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "3.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "Peticion";
@@ -59799,8 +59911,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID d414d9ab-3000-45f3-9860-be4b9c1df291;
 						- _myState = 8192;
 						- _name = "guardarPeticion";
-						- _objectCreation = "2014053265520181894901220";
-						- _umlDependencyID = "3204";
+						- _objectCreation = "4812526274220181175721248";
+						- _umlDependencyID = "3216";
 						- m_szSequence = "3.4.";
 						- m_szActualArgs = "Peticion";
 						- m_szReturnVal = "";
@@ -59835,8 +59947,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID f3452aa8-8483-4fa7-bc2d-a8217ff43541;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2014055265520181894881220";
-						- _umlDependencyID = "3463";
+						- _objectCreation = "4812528274220181175701248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "2.1";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -59871,8 +59983,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID c6debb3f-3557-4ba7-a873-9d73d5a21085;
 						- _name = "onClickMostrarPeticiones";
-						- _objectCreation = "2014057265520181894861220";
-						- _umlDependencyID = "4138";
+						- _objectCreation = "4812530274220181175681248";
+						- _umlDependencyID = "4141";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -59905,47 +60017,11 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID be4061ae-0fd8-4f58-91f9-bd428f4bc5c1;
-						- _name = "getPeticiones";
-						- _objectCreation = "2014059265520181894841220";
-						- _umlDependencyID = "3007";
-						- m_szSequence = "2.2";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "HashMapPeticiones";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID c5a3254b-1235-481e-b8fc-5c0fce8b417c;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 086cdb57-bbda-4c4b-9ca9-d72f6bbf74e5;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 7997d1b0-20ec-4551-aa2c-9b81f75b0906;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getPeticiones()";
-							- _id = GUID 4de1f549-22b0-4b22-8b87-6004a18efe08;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID a8b81c7a-5cbf-4e60-b804-f552ef1aadb7;
 						- _myState = 8192;
 						- _name = "editarPeticion";
-						- _objectCreation = "2014061265520181894821220";
-						- _umlDependencyID = "3095";
+						- _objectCreation = "4812532274220181175661248";
+						- _umlDependencyID = "3107";
 						- m_szSequence = "3.1.";
 						- m_szActualArgs = "idPeticion, crear";
 						- m_szReturnVal = "";
@@ -59968,6 +60044,79 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _class = "SISTEMA";
 							- _name = "editarPeticion(int,TipoAccion)";
 							- _id = GUID 880129df-5959-43bb-b448-4d983e52b84e;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 27327122-9da1-4759-8f24-d121ced65f64;
+						- _myState = 8192;
+						- _name = "log";
+						- _objectCreation = "4812534274220181175641248";
+						- _umlDependencyID = "1969";
+						- m_szSequence = "1.2.";
+						- m_szActualArgs = "user, pass";
+						- m_szReturnVal = "Loggear";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID b94e7582-6e20-4047-a63f-a83439356b05;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 086cdb57-bbda-4c4b-9ca9-d72f6bbf74e5;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 45dcf4c4-0f66-4a36-9a1f-097821d2820b;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "log(RhpString,RhpString)";
+							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 51a19869-98bd-4511-8599-3ff9b2df4420;
+						- _name = "getPeticiones";
+						- _objectCreation = "4812536274220181175621248";
+						- _umlDependencyID = "3010";
+						- m_szSequence = "2.2.";
+						- m_szActualArgs = "";
+						- m_szReturnVal = "HashMapPeticiones";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID b94e7582-6e20-4047-a63f-a83439356b05;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 086cdb57-bbda-4c4b-9ca9-d72f6bbf74e5;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 45dcf4c4-0f66-4a36-9a1f-097821d2820b;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getPeticiones()";
+							- _id = GUID 4de1f549-22b0-4b22-8b87-6004a18efe08;
 						}
 						- m_eType = PRIMITIVE;
 						- m_targetExec = { IHandle 
@@ -60071,9 +60220,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "ColaboracionAsignarPeticionTrabajo";
-			- _objectCreation = "2014063265520181894801220";
-			- _umlDependencyID = "5106";
-			- _lastModifiedTime = "12.26.2018::17:54:39";
+			- _objectCreation = "4812538274220181175601248";
+			- _umlDependencyID = "5118";
+			- _lastModifiedTime = "12.27.2018::10:42:22";
 			- _graphicChart = { CCollaborationChart 
 				- _id = GUID e45d7a5f-4cc5-479b-b5c6-e30448a0709a;
 				- m_type = 0;
@@ -60097,7 +60246,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 				- m_drawBehavior = 4096;
 				- m_bIsPreferencesInitialized = 1;
-				- elementList = 26;
+				- elementList = 25;
 				{ CGIBox 
 					- _id = GUID 6e5fef28-be46-451f-a343-a9cc145557d7;
 					- m_type = 154;
@@ -60537,35 +60686,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- _percent = 8;
 				}
 				{ CGIMessageLabel 
-					- _id = GUID 25872dab-6f84-4fa3-be7c-5c57a3b77b7a;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 596ec060-6812-4f8a-851c-a07795283035;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "1.2. Loggear=log(user, pass)";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  27 -9  27 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 800 207 ;
-						- m_nHorizontalSpacing = 16;
-						- m_nVerticalSpacing = 6;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 2ecbfd4f-13a1-43ed-8b3b-d6655c74f649;
-					- _percent = 92;
-				}
-				{ CGIMessageLabel 
 					- _id = GUID f7f095f0-4bdc-436a-a0a2-2a08b1112fb0;
 					- m_type = 160;
 					- m_pModelObject = { IHandle 
@@ -60624,35 +60744,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- _percent = 36;
 				}
 				{ CGIMessageLabel 
-					- _id = GUID 577f2d66-0910-4027-8ebc-23a0c186b3e2;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 4c8d3512-804a-452d-a7be-69c0dc09db05;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "2.2. HashMapPeticiones=getPeticiones()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  266 -9  266 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 802 248 ;
-						- m_nHorizontalSpacing = 18;
-						- m_nVerticalSpacing = 5;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 2ecbfd4f-13a1-43ed-8b3b-d6655c74f649;
-					- _percent = 70;
-				}
-				{ CGIMessageLabel 
 					- _id = GUID be37b210-1b59-4dd5-95e5-dbea1331f887;
 					- m_type = 160;
 					- m_pModelObject = { IHandle 
@@ -60709,35 +60800,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 895f0e42-0cf6-438c-80ca-3040815ce1e3;
 					- _percent = 31;
-				}
-				{ CGIMessageLabel 
-					- _id = GUID f6a77356-d822-459c-9599-57efa099a6d6;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 1ebcddb7-e881-4533-8529-16db5ea30e76;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "3.2. ArrayListTecnicos=getTecnicos()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  241 -9  241 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 799 290 ;
-						- m_nHorizontalSpacing = 15;
-						- m_nVerticalSpacing = 8;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 2ecbfd4f-13a1-43ed-8b3b-d6655c74f649;
-					- _percent = 50;
 				}
 				{ CGIMessageLabel 
 					- _id = GUID f6f606ad-8f20-4530-a91f-cdd3ec10b2f1;
@@ -60870,12 +60932,12 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- m_bgColor = 0;
 							- m_bgFlag = 0;
 						}
-						- m_position = 4 -6 -9  270 -9  270 9  -6 9  ;
+						- m_position = 4 -6 -9  293 -9  293 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 802 333 ;
-						- m_nHorizontalSpacing = 18;
-						- m_nVerticalSpacing = -3;
+						- m_transform = 1 0 0 1 1030 278 ;
+						- m_nHorizontalSpacing = 15;
+						- m_nVerticalSpacing = -52;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
@@ -60924,11 +60986,11 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_bImplicitSetRectPoints = 0;
 						- m_nOrientationCtrlPt = 8;
 					}
-					- m_arrow = 1 698 125  ;
+					- m_arrow = 1 741 125  ;
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
-					- m_SourcePort = 657 328 ;
+					- m_SourcePort = 1108 328 ;
 					- m_TargetPort = 205 313 ;
 				}
 				{ CGIMessageLabel 
@@ -60940,19 +61002,77 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					- m_pParent = ;
 					- m_name = { CGIText 
-						- m_str = "1. log_0()";
+						- m_str = "1.2 Loggear=log(user, pass)";
 						- m_style = "Arial" 10 0 0 0 1 ;
 						- m_color = { IColor 
 							- m_fgColor = 0;
 							- m_bgColor = 0;
 							- m_bgFlag = 0;
 						}
-						- m_position = 4 22 -8  55 -8  55 10  22 10  ;
+						- m_position = 4 -6 -9  183 -9  183 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 690 247 ;
-						- m_nHorizontalSpacing = 14;
-						- m_nVerticalSpacing = 10;
+						- m_transform = 1 0 0 1 543 312 ;
+						- m_nHorizontalSpacing = -204;
+						- m_nVerticalSpacing = 64;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 52e80f49-9789-444a-bc69-e35dc3797f08;
+					- _percent = 28;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID 5785f6a6-bfd9-47bd-943a-bb6a416a6253;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 547ec35d-b217-4809-8c40-95682f83cc15;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "3.2 ArrayListTecnicos=getTecnicos()";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  237 -9  237 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 1;
+						- m_transform = 1 0 0 0.722222 489 185.5 ;
+						- m_nHorizontalSpacing = -258;
+						- m_nVerticalSpacing = -101;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 52e80f49-9789-444a-bc69-e35dc3797f08;
+					- _percent = 20;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID 3c5dd3bd-ca08-4293-90a0-79c2c1c0ee1f;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID f70293d8-ec55-4953-a847-7f31ca8d8430;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "2.2. HashMapPeticiones=getPeticiones()";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  266 -9  266 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 459 249 ;
+						- m_nHorizontalSpacing = -288;
+						- m_nVerticalSpacing = 1;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
@@ -60983,16 +61103,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID fff0c57f-a144-440d-ad53-7fde92dd59da;
-				- _objectCreation = "2014065265520181894781220";
-				- _umlDependencyID = "1644";
+				- _objectCreation = "4812540274220181175581248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 5;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID 3b4b1cc3-0a2d-44c9-9602-36eeccbd6d0a;
 						- _myState = 2048;
-						- _objectCreation = "2014067265520181894761220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812542274220181175561248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -61009,8 +61129,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 730f3849-d23f-4d43-aeea-6d23c870a84b;
 						- _myState = 2048;
-						- _objectCreation = "2014069265520181894741220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812544274220181175541248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -61027,8 +61147,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID fc29f18a-a6ac-4a40-b7de-d785899c3b5c;
 						- _myState = 2048;
-						- _objectCreation = "2014071265520181894721220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812546274220181175521248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -61045,8 +61165,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 90a7cf2d-913d-4331-837c-3770e80ba77c;
 						- _myState = 2048;
-						- _objectCreation = "2014073265520181894701220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812548274220181175501248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -61063,8 +61183,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 0f9ca2dd-bd0f-4aad-a008-8b9a692ba41a;
 						- _myState = 2048;
-						- _objectCreation = "2014075265520181894681220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812550274220181175481248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -61086,8 +61206,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 481afaeb-441b-448b-98f6-e1ec7e0002fc;
 						- _myState = 2048;
 						- _name = "associationrole_0";
-						- _objectCreation = "2014077265520181894661220";
-						- _umlDependencyID = "3402";
+						- _objectCreation = "4812552274220181175461248";
+						- _umlDependencyID = "3405";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -61109,8 +61229,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 6fdb9049-a1ce-4078-81fb-7368c3187127;
 						- _myState = 2048;
 						- _name = "associationrole_1";
-						- _objectCreation = "2014079265520181894641220";
-						- _umlDependencyID = "3403";
+						- _objectCreation = "4812554274220181175441248";
+						- _umlDependencyID = "3406";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -61132,8 +61252,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID a7fff5f0-8663-4bf3-b380-a372941807af;
 						- _myState = 2048;
 						- _name = "associationrole_2";
-						- _objectCreation = "2014081265520181894621220";
-						- _umlDependencyID = "3395";
+						- _objectCreation = "4812556274220181175421248";
+						- _umlDependencyID = "3407";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -61155,8 +61275,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID e9cab903-1a4b-4894-82d9-1448ee02afd8;
 						- _myState = 2048;
 						- _name = "associationrole_3";
-						- _objectCreation = "2014083265520181894601220";
-						- _umlDependencyID = "3396";
+						- _objectCreation = "4812558274220181175401248";
+						- _umlDependencyID = "3408";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -61178,8 +61298,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID bc897150-e9ef-497f-821a-86490ca98110;
 						- _myState = 2048;
 						- _name = "associationrole_4";
-						- _objectCreation = "2014085265520181894581220";
-						- _umlDependencyID = "3406";
+						- _objectCreation = "4812560274220181175381248";
+						- _umlDependencyID = "3409";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -61199,13 +61319,13 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 				}
 				- Messages = { IRPYRawContainer 
-					- size = 15;
+					- size = 14;
 					- value = 
 					{ IMessage 
 						- _id = GUID 8f842a45-ba55-4a59-a9d3-45f8cf0d6f42;
 						- _name = "onClickLogger";
-						- _objectCreation = "2014087265520181894561220";
-						- _umlDependencyID = "2959";
+						- _objectCreation = "4812562274220181175361248";
+						- _umlDependencyID = "2962";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -61241,8 +61361,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID a67ccbb7-1369-4d42-a228-c8d06e0d672e;
 						- _myState = 8192;
 						- _name = "log";
-						- _objectCreation = "2014089265520181894541220";
-						- _umlDependencyID = "1966";
+						- _objectCreation = "4812564274220181175341248";
+						- _umlDependencyID = "1969";
 						- m_szSequence = "1.1.";
 						- m_szActualArgs = "user, pass";
 						- m_szReturnVal = "";
@@ -61275,47 +61395,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 596ec060-6812-4f8a-851c-a07795283035;
-						- _myState = 8192;
-						- _name = "log";
-						- _objectCreation = "2014091265520181894521220";
-						- _umlDependencyID = "1957";
-						- m_szSequence = "1.2.";
-						- m_szActualArgs = "user, pass";
-						- m_szReturnVal = "Loggear";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID a7fff5f0-8663-4bf3-b380-a372941807af;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 90a7cf2d-913d-4331-837c-3770e80ba77c;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 0f9ca2dd-bd0f-4aad-a008-8b9a692ba41a;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "log(RhpString,RhpString)";
-							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 79565904-6f03-463e-ac19-4b806eb9c80e;
 						- _name = "onClickMostrarPeticiones";
-						- _objectCreation = "2014093265520181894501220";
-						- _umlDependencyID = "4129";
+						- _objectCreation = "4812566274220181175321248";
+						- _umlDependencyID = "4141";
 						- m_szSequence = "2";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -61350,8 +61433,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 68131a5c-0864-4f5c-9a7e-51fee46c220e;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2014095265520181894481220";
-						- _umlDependencyID = "3463";
+						- _objectCreation = "4812568274220181175301248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "2.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -61384,46 +61467,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 4c8d3512-804a-452d-a7be-69c0dc09db05;
-						- _name = "getPeticiones";
-						- _objectCreation = "2014097265520181894461220";
-						- _umlDependencyID = "3007";
-						- m_szSequence = "2.2.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "HashMapPeticiones";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID a7fff5f0-8663-4bf3-b380-a372941807af;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 90a7cf2d-913d-4331-837c-3770e80ba77c;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 0f9ca2dd-bd0f-4aad-a008-8b9a692ba41a;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getPeticiones()";
-							- _id = GUID 4de1f549-22b0-4b22-8b87-6004a18efe08;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 46834eac-e84d-4b52-ac58-32d89edd8edf;
 						- _name = "onClickAsignarTecnico";
-						- _objectCreation = "2014099265520181894441220";
-						- _umlDependencyID = "3769";
+						- _objectCreation = "4812570274220181175281248";
+						- _umlDependencyID = "3772";
 						- m_szSequence = "4.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -61458,8 +61505,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID ae11b6c3-8669-4aa2-b19e-38121bc6eaab;
 						- _name = "mostrarTecnicos";
-						- _objectCreation = "2014101265520181894421220";
-						- _umlDependencyID = "3226";
+						- _objectCreation = "4812572274220181175261248";
+						- _umlDependencyID = "3247";
 						- m_szSequence = "3.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -61492,46 +61539,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 1ebcddb7-e881-4533-8529-16db5ea30e76;
-						- _name = "getTecnicos";
-						- _objectCreation = "2014103265520181894401220";
-						- _umlDependencyID = "2770";
-						- m_szSequence = "3.2.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "ArrayListTecnicos";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID a7fff5f0-8663-4bf3-b380-a372941807af;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 90a7cf2d-913d-4331-837c-3770e80ba77c;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 0f9ca2dd-bd0f-4aad-a008-8b9a692ba41a;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getTecnicos()";
-							- _id = GUID bc2e8d7f-1097-4180-b3e7-189e7512e250;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID d24b4dc1-006c-4943-9939-bde66ec7d1e7;
 						- _name = "editar";
-						- _objectCreation = "2014105265520181894381220";
-						- _umlDependencyID = "2268";
+						- _objectCreation = "4812574274220181175241248";
+						- _umlDependencyID = "2280";
 						- m_szSequence = "4.2.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -61566,8 +61577,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 0522a5dd-15b2-4c1d-8944-ef4c07ba1124;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2014107265520181894361220";
-						- _umlDependencyID = "3454";
+						- _objectCreation = "4812576274220181175221248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "4.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "Peticion";
@@ -61603,8 +61614,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 7eb14593-d272-4247-a3c3-00ebdc894389;
 						- _myState = 8192;
 						- _name = "editarPeticion";
-						- _objectCreation = "2014109265520181894341220";
-						- _umlDependencyID = "3095";
+						- _objectCreation = "4812578274220181175201248";
+						- _umlDependencyID = "3107";
 						- m_szSequence = "4.1.";
 						- m_szActualArgs = "id_peticion, crear";
 						- m_szReturnVal = "";
@@ -61639,8 +61650,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID a1e8cb13-0e3e-428f-870a-36a8b16972e5;
 						- _name = "onClickMostrarTecnico";
-						- _objectCreation = "2014111265520181894321220";
-						- _umlDependencyID = "3786";
+						- _objectCreation = "4812580274220181175181248";
+						- _umlDependencyID = "3807";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -61676,8 +61687,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 1936f7d9-b71e-44f0-b2d7-4e9672d50b56;
 						- _myState = 8192;
 						- _name = "guardarPeticion";
-						- _objectCreation = "2014113265520181894301220";
-						- _umlDependencyID = "3195";
+						- _objectCreation = "4812582274220181175161248";
+						- _umlDependencyID = "3216";
 						- m_szSequence = "4.4.";
 						- m_szActualArgs = "Peticion";
 						- m_szReturnVal = "Confirmacion";
@@ -61711,13 +61722,13 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 					{ IMessage 
 						- _id = GUID a98ecbb8-ca1a-40d7-9441-73c782f7497f;
-						- _name = "log_0";
-						- _displayName = "log";
-						- _objectCreation = "2014115265520181894281220";
-						- _umlDependencyID = "2100";
-						- m_szSequence = "1.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "";
+						- _myState = 8192;
+						- _name = "log";
+						- _objectCreation = "4812584274220181175141248";
+						- _umlDependencyID = "1969";
+						- m_szSequence = "1.2";
+						- m_szActualArgs = "user, pass";
+						- m_szReturnVal = "Loggear";
 						- m_pCommunicationConnection = { IHandle 
 							- _m2Class = "IAssociationRole";
 							- _id = GUID bc897150-e9ef-497f-821a-86490ca98110;
@@ -61731,7 +61742,84 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _id = GUID fc29f18a-a6ac-4a40-b7de-d785899c3b5c;
 						}
 						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "log(RhpString,RhpString)";
+							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
 							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 547ec35d-b217-4809-8c40-95682f83cc15;
+						- _name = "getTecnicos";
+						- _objectCreation = "4812586274220181175121248";
+						- _umlDependencyID = "2791";
+						- m_szSequence = "3.2.";
+						- m_szActualArgs = "";
+						- m_szReturnVal = "ArrayListTecnicos";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID bc897150-e9ef-497f-821a-86490ca98110;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 90a7cf2d-913d-4331-837c-3770e80ba77c;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID fc29f18a-a6ac-4a40-b7de-d785899c3b5c;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getTecnicos()";
+							- _id = GUID bc2e8d7f-1097-4180-b3e7-189e7512e250;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID f70293d8-ec55-4953-a847-7f31ca8d8430;
+						- _name = "getPeticiones";
+						- _objectCreation = "4812588274220181175101248";
+						- _umlDependencyID = "3010";
+						- m_szSequence = "2.2.";
+						- m_szActualArgs = "";
+						- m_szReturnVal = "HashMapPeticiones";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID bc897150-e9ef-497f-821a-86490ca98110;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 90a7cf2d-913d-4331-837c-3770e80ba77c;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID fc29f18a-a6ac-4a40-b7de-d785899c3b5c;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getPeticiones()";
+							- _id = GUID 4de1f549-22b0-4b22-8b87-6004a18efe08;
 						}
 						- m_eType = PRIMITIVE;
 						- m_targetExec = { IHandle 
@@ -61835,9 +61923,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "ColaboracionCrearParteTrabajo";
-			- _objectCreation = "2014117265520181894261220";
-			- _umlDependencyID = "4571";
-			- _lastModifiedTime = "12.26.2018::11:42:4";
+			- _objectCreation = "4812590274220181175081248";
+			- _umlDependencyID = "4583";
+			- _lastModifiedTime = "12.27.2018::10:41:59";
 			- _graphicChart = { CCollaborationChart 
 				- _id = GUID ea642f5a-df4c-4d69-984c-641200c9203b;
 				- m_type = 0;
@@ -61861,7 +61949,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 				- m_drawBehavior = 4096;
 				- m_bIsPreferencesInitialized = 1;
-				- elementList = 29;
+				- elementList = 30;
 				{ CGIBox 
 					- _id = GUID 3b367273-8ed5-40be-acde-d7f9d3d8f8ae;
 					- m_type = 154;
@@ -62277,35 +62365,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_pCommunicationConnection = GUID 2aa9ed01-0a16-4c2b-ae99-5a71e72c915d;
 					- _percent = 9;
 				}
-				{ CGIMessageLabel 
-					- _id = GUID d9bfac00-7455-4599-9d30-63c528ee8b60;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 25a38e19-ef5a-4b59-9a33-143e139916c9;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "1.2. Loggear=log(user, pass)";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  187 -9  187 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 705 180 ;
-						- m_nHorizontalSpacing = 16;
-						- m_nVerticalSpacing = -48;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 4cdf233f-ccfc-40ea-a0d1-71627fcdd8bc;
-					- _percent = 69;
-				}
 				{ CGIAssociationRole 
 					- _id = GUID a9f9a067-2894-458f-9767-094ae9ad53ba;
 					- m_type = 159;
@@ -62410,35 +62469,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 2aa9ed01-0a16-4c2b-ae99-5a71e72c915d;
 					- _percent = 53;
-				}
-				{ CGIMessageLabel 
-					- _id = GUID 5b396be3-ed30-40b3-b0fb-ef8da9a65a5f;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 704a1cb7-854e-4c87-bc29-cec9ed6ecfe3;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "2.2. HashMapPeticiones=getPeticiones()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  266 -9  266 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 703 223 ;
-						- m_nHorizontalSpacing = 14;
-						- m_nVerticalSpacing = 2;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 4cdf233f-ccfc-40ea-a0d1-71627fcdd8bc;
-					- _percent = 72;
 				}
 				{ CGIMessageLabel 
 					- _id = GUID 2df3fa96-f69b-4cfb-8628-9fa311bd06fc;
@@ -62575,8 +62605,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  306 -9  306 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 703 265 ;
-						- m_nHorizontalSpacing = 14;
+						- m_transform = 1 0 0 1 1054 305 ;
+						- m_nHorizontalSpacing = 19;
+						- m_nVerticalSpacing = 49;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
@@ -62641,34 +62672,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 2aa9ed01-0a16-4c2b-ae99-5a71e72c915d;
 					- _percent = 90;
-				}
-				{ CGIMessageLabel 
-					- _id = GUID 8ee0a3ce-ea84-45d5-a5aa-45f2ff86c495;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 4dfc8d2f-4253-49ab-979e-92062e879a92;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "4.2. ArrayListPiezas=getPiezas()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  211 -9  211 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 704 304 ;
-						- m_nHorizontalSpacing = 15;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 4cdf233f-ccfc-40ea-a0d1-71627fcdd8bc;
-					- _percent = 36;
 				}
 				{ CGIMessageLabel 
 					- _id = GUID c92c089f-e7de-45d6-8790-6e3cf73affaf;
@@ -62802,18 +62805,153 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- m_bgColor = 0;
 							- m_bgFlag = 0;
 						}
-						- m_position = 4 -6 -9  310 -9  310 9  -6 9  ;
+						- m_position = 4 -6 -9  362 -9  362 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 703 349 ;
-						- m_nHorizontalSpacing = 14;
-						- m_nVerticalSpacing = 3;
+						- m_transform = 1 0 0 1 1053 220 ;
+						- m_nHorizontalSpacing = 18;
+						- m_nVerticalSpacing = -127;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 4cdf233f-ccfc-40ea-a0d1-71627fcdd8bc;
 					- _percent = 18;
+				}
+				{ CGIAssociationRole 
+					- _id = GUID 2fc5df40-417d-4959-bd14-f41bf53909f5;
+					- m_type = 159;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IAssociationRole";
+						- _id = GUID f95e79c5-cf5b-446e-a8fd-e6e9f485239d;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8192;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 7f80eb0a-e416-4285-ba86-da312b68ba2a;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID 86743e24-46f9-40dc-828b-c8f829aac666;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "associationrole_4";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_arrow = 1 663 103  ;
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 2;
+					- m_SourcePort = 533 104 ;
+					- m_TargetPort = 369 625 ;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID dc50d2ca-c39c-495a-a0e5-9b92e52e2129;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 7385354b-4870-4883-9e1f-33a2f94825a3;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "1.2. Loggear=log(user, pass)";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  187 -9  187 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 460 290 ;
+						- m_nHorizontalSpacing = -209;
+						- m_nVerticalSpacing = -44;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 2fc5df40-417d-4959-bd14-f41bf53909f5;
+					- _percent = 9;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID ada3114b-994b-41e4-b07a-9b5cf2d69e59;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 36469146-f356-45e7-9bc7-05a17bcce426;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "2.1. getPeticiones(HashMapPeticiones)";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  258 -9  258 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 388 229 ;
+						- m_nHorizontalSpacing = -281;
+						- m_nVerticalSpacing = -45;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 2fc5df40-417d-4959-bd14-f41bf53909f5;
+					- _percent = 19;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID 1728212f-24ab-4182-9662-ce7bcd19ae52;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 03e13e3b-e395-42f6-b644-9d6c483a6d81;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "4.1. ArrayListPiezas=getPiezas()";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  211 -9  211 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 434 168 ;
+						- m_nHorizontalSpacing = -235;
+						- m_nVerticalSpacing = -40;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 2fc5df40-417d-4959-bd14-f41bf53909f5;
+					- _percent = 30;
 				}
 				
 				- m_access = 'Z';
@@ -62838,16 +62976,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 3d8564e5-feab-4dd5-b2ec-8f02d7e9e25b;
-				- _objectCreation = "2014119265520181894241220";
-				- _umlDependencyID = "1635";
+				- _objectCreation = "4812592274220181175061248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 5;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID b283dc82-cb86-4643-8e81-059a9bf9cab5;
 						- _myState = 2048;
-						- _objectCreation = "2014121265520181894221220";
-						- _umlDependencyID = "1626";
+						- _objectCreation = "4812594274220181175041248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -62864,8 +63002,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 138dae4e-0459-4251-a189-bad541da1f3f;
 						- _myState = 2048;
-						- _objectCreation = "2014123265520181894201220";
-						- _umlDependencyID = "1626";
+						- _objectCreation = "4812596274220181175021248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -62882,8 +63020,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 43f37957-3925-456b-b69d-9d28cdbe5e0d;
 						- _myState = 2048;
-						- _objectCreation = "2014125265520181894181220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812598274220181175001248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -62900,8 +63038,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 5d7f056f-cb1f-491d-ad04-500d14bba73e;
 						- _myState = 2048;
-						- _objectCreation = "2014127265520181894161220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812600274220181174981248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -62918,8 +63056,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 64f1046a-5da1-430c-b512-a65c7ffbc165;
 						- _myState = 2048;
-						- _objectCreation = "2014129265520181894141220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812602274220181174961248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -62935,14 +63073,14 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 				}
 				- AssociationRoles = { IRPYRawContainer 
-					- size = 4;
+					- size = 5;
 					- value = 
 					{ IAssociationRole 
 						- _id = GUID 87622e4f-c995-494f-b7a2-406946d86618;
 						- _myState = 2048;
 						- _name = "associationrole_0";
-						- _objectCreation = "2014131265520181894121220";
-						- _umlDependencyID = "3384";
+						- _objectCreation = "4812604274220181174941248";
+						- _umlDependencyID = "3405";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -62964,8 +63102,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 6d7b0007-15d6-4835-9b1b-2a4165984685;
 						- _myState = 2048;
 						- _name = "associationrole_1";
-						- _objectCreation = "2014133265520181894101220";
-						- _umlDependencyID = "3385";
+						- _objectCreation = "4812606274220181174921248";
+						- _umlDependencyID = "3406";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -62987,8 +63125,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 2f74d469-5bb1-48a1-8b15-a9d7f7c6581c;
 						- _myState = 2048;
 						- _name = "associationrole_2";
-						- _objectCreation = "2014135265520181894081220";
-						- _umlDependencyID = "3395";
+						- _objectCreation = "4812608274220181174901248";
+						- _umlDependencyID = "3407";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -63010,8 +63148,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 96ef9be7-4ffb-424d-b0f2-9fd89e91e549;
 						- _myState = 2048;
 						- _name = "associationrole_3";
-						- _objectCreation = "2014137265520181894061220";
-						- _umlDependencyID = "3396";
+						- _objectCreation = "4812610274220181174881248";
+						- _umlDependencyID = "3408";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -63029,6 +63167,29 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _id = GUID 64f1046a-5da1-430c-b512-a65c7ffbc165;
 						}
 					}
+					{ IAssociationRole 
+						- _id = GUID f95e79c5-cf5b-446e-a8fd-e6e9f485239d;
+						- _myState = 2048;
+						- _name = "associationrole_4";
+						- _objectCreation = "4812612274220181174861248";
+						- _umlDependencyID = "3409";
+						- m_fAssocType1 = UNSPECIFIED;
+						- m_fAssocType2 = UNSPECIFIED;
+						- m_pFormalAssoc1 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pFormalAssoc2 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pSource = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 43f37957-3925-456b-b69d-9d28cdbe5e0d;
+						}
+						- m_pTarget = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 5d7f056f-cb1f-491d-ad04-500d14bba73e;
+						}
+					}
 				}
 				- Messages = { IRPYRawContainer 
 					- size = 19;
@@ -63036,8 +63197,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 515ee077-c490-40c4-96d1-2b4ce58032df;
 						- _name = "onClickLogger";
-						- _objectCreation = "2014139265520181894041220";
-						- _umlDependencyID = "2950";
+						- _objectCreation = "4812614274220181174841248";
+						- _umlDependencyID = "2962";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -63073,8 +63234,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 18f7cecb-7f79-4eb4-b78d-2f9465f04dc1;
 						- _myState = 8192;
 						- _name = "log";
-						- _objectCreation = "2014141265520181894021220";
-						- _umlDependencyID = "1948";
+						- _objectCreation = "4812616274220181174821248";
+						- _umlDependencyID = "1969";
 						- m_szSequence = "1.1";
 						- m_szActualArgs = "user, pass";
 						- m_szReturnVal = "";
@@ -63107,47 +63268,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 25a38e19-ef5a-4b59-9a33-143e139916c9;
-						- _myState = 8192;
-						- _name = "log";
-						- _objectCreation = "2014143265520181894001220";
-						- _umlDependencyID = "1948";
-						- m_szSequence = "1.2.";
-						- m_szActualArgs = "user, pass";
-						- m_szReturnVal = "Loggear";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 2f74d469-5bb1-48a1-8b15-a9d7f7c6581c;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 5d7f056f-cb1f-491d-ad04-500d14bba73e;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 64f1046a-5da1-430c-b512-a65c7ffbc165;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "log(RhpString,RhpString)";
-							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 63688790-9e65-4d93-8d2a-a82c1fa3e98e;
 						- _name = "onClickMostrarPeticiones";
-						- _objectCreation = "2014145265520181893981220";
-						- _umlDependencyID = "4138";
+						- _objectCreation = "4812618274220181174801248";
+						- _umlDependencyID = "4141";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -63182,8 +63306,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID faa64ed7-7a6c-4ff8-afa5-dd8b47fd5985;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2014147265520181893961220";
-						- _umlDependencyID = "3463";
+						- _objectCreation = "4812620274220181174781248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "2.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -63216,46 +63340,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 704a1cb7-854e-4c87-bc29-cec9ed6ecfe3;
-						- _name = "getPeticiones";
-						- _objectCreation = "2014149265520181893941220";
-						- _umlDependencyID = "3007";
-						- m_szSequence = "2.2.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "HashMapPeticiones";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 2f74d469-5bb1-48a1-8b15-a9d7f7c6581c;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 5d7f056f-cb1f-491d-ad04-500d14bba73e;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 64f1046a-5da1-430c-b512-a65c7ffbc165;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getPeticiones()";
-							- _id = GUID 4de1f549-22b0-4b22-8b87-6004a18efe08;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID c152e8d5-81fd-4b3c-98d0-50e69da755f6;
 						- _name = "onClickCrearParte";
-						- _objectCreation = "2014151265520181893921220";
-						- _umlDependencyID = "3343";
+						- _objectCreation = "4812622274220181174761248";
+						- _umlDependencyID = "3355";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -63291,8 +63379,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 6a5ce089-76bc-48cd-86b8-e5b4c694a661;
 						- _myState = 8192;
 						- _name = "crearParte";
-						- _objectCreation = "2014153265520181893901220";
-						- _umlDependencyID = "2668";
+						- _objectCreation = "4812624274220181174741248";
+						- _umlDependencyID = "2680";
 						- m_szSequence = "3.1.";
 						- m_szActualArgs = "idParte";
 						- m_szReturnVal = "";
@@ -63328,8 +63416,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 910d8907-1129-483d-b4f6-03d4360a35b0;
 						- _myState = 8192;
 						- _name = "Parte_Trabajo";
-						- _objectCreation = "2014155265520181893881220";
-						- _umlDependencyID = "2954";
+						- _objectCreation = "4812626274220181174721248";
+						- _umlDependencyID = "2957";
 						- m_szSequence = "3.2.";
 						- m_szActualArgs = "datos";
 						- m_szReturnVal = "";
@@ -63365,8 +63453,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 682ba5a5-41c6-47db-a135-2747bb3ce728;
 						- _myState = 8192;
 						- _name = "mostrarPartes";
-						- _objectCreation = "2014157265520181893861220";
-						- _umlDependencyID = "3043";
+						- _objectCreation = "4812628274220181174701248";
+						- _umlDependencyID = "3046";
 						- m_szSequence = "3.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "ParteTrabajo";
@@ -63402,8 +63490,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID d027b169-d7b6-43f4-9d9e-53a1e75e732a;
 						- _myState = 8192;
 						- _name = "guardarParte";
-						- _objectCreation = "2014159265520181893841220";
-						- _umlDependencyID = "2894";
+						- _objectCreation = "4812630274220181174681248";
+						- _umlDependencyID = "2897";
 						- m_szSequence = "3.4.";
 						- m_szActualArgs = "ParteTrabajo";
 						- m_szReturnVal = "Confirmacion";
@@ -63438,8 +63526,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID fc31459c-1cdf-4d7d-bd56-e4bbc5e9b4ef;
 						- _name = "onClickMostrarPiezas";
-						- _objectCreation = "2014161265520181893821220";
-						- _umlDependencyID = "3706";
+						- _objectCreation = "4812632274220181174661248";
+						- _umlDependencyID = "3718";
 						- m_szSequence = "4.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -63474,8 +63562,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID f3f355ce-d545-44b8-99d7-17a64de66572;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2014163265520181893801220";
-						- _umlDependencyID = "3031";
+						- _objectCreation = "4812634274220181174641248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "4.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -63508,46 +63596,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 4dfc8d2f-4253-49ab-979e-92062e879a92;
-						- _name = "getPiezas";
-						- _objectCreation = "2014165265520181893781220";
-						- _umlDependencyID = "2584";
-						- m_szSequence = "4.2.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "ArrayListPiezas";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 2f74d469-5bb1-48a1-8b15-a9d7f7c6581c;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 5d7f056f-cb1f-491d-ad04-500d14bba73e;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 64f1046a-5da1-430c-b512-a65c7ffbc165;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getPiezas()";
-							- _id = GUID b9d78979-0016-4485-bb06-5547faeff5d5;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 4dbf34c5-3cf5-4121-a6fa-444e6b9d1097;
 						- _name = "onClickModificarParte";
-						- _objectCreation = "2014167265520181893761220";
-						- _umlDependencyID = "3769";
+						- _objectCreation = "4812636274220181174621248";
+						- _umlDependencyID = "3772";
 						- m_szSequence = "5.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -63583,8 +63635,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 438c95b4-fcff-46b8-bd4a-04afc19b1c90;
 						- _myState = 8192;
 						- _name = "editarParte";
-						- _objectCreation = "2014169265520181893741220";
-						- _umlDependencyID = "2785";
+						- _objectCreation = "4812638274220181174601248";
+						- _umlDependencyID = "2788";
 						- m_szSequence = "5.1.";
 						- m_szActualArgs = "idParte, modificar";
 						- m_szReturnVal = "";
@@ -63620,8 +63672,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 142272b3-64d6-48d3-a7a7-7bfa7c0d403e;
 						- _myState = 8192;
 						- _name = "editar";
-						- _objectCreation = "2014171265520181893721220";
-						- _umlDependencyID = "2268";
+						- _objectCreation = "4812640274220181174581248";
+						- _umlDependencyID = "2280";
 						- m_szSequence = "5.2.";
 						- m_szActualArgs = "datos";
 						- m_szReturnVal = "";
@@ -63656,8 +63708,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 3dc85946-4729-45ad-bcd7-dee23d688a65;
 						- _name = "mostrarPartes";
-						- _objectCreation = "2014173265520181893701220";
-						- _umlDependencyID = "3034";
+						- _objectCreation = "4812642274220181174561248";
+						- _umlDependencyID = "3046";
 						- m_szSequence = "5.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "ParteTrabajo";
@@ -63693,8 +63745,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 4d98fabe-b0d3-4ab4-9d80-bd8e8b700413;
 						- _myState = 8192;
 						- _name = "editarParte";
-						- _objectCreation = "2014175265520181893681220";
-						- _umlDependencyID = "2785";
+						- _objectCreation = "4812644274220181174541248";
+						- _umlDependencyID = "2788";
 						- m_szSequence = "5.4.";
 						- m_szActualArgs = "ParteTrabajo, modificar";
 						- m_szReturnVal = "Confirmacion";
@@ -63717,6 +63769,116 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _class = "Fachada";
 							- _name = "editarParte(Parte_Trabajo,TipoAccion)";
 							- _id = GUID 84b470d1-12d9-492c-bc7c-ee17519c298f;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 7385354b-4870-4883-9e1f-33a2f94825a3;
+						- _myState = 8192;
+						- _name = "log";
+						- _objectCreation = "4812646274220181174521248";
+						- _umlDependencyID = "1969";
+						- m_szSequence = "1.2.";
+						- m_szActualArgs = "user, pass";
+						- m_szReturnVal = "Loggear";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID f95e79c5-cf5b-446e-a8fd-e6e9f485239d;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 5d7f056f-cb1f-491d-ad04-500d14bba73e;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 43f37957-3925-456b-b69d-9d28cdbe5e0d;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "log(RhpString,RhpString)";
+							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 36469146-f356-45e7-9bc7-05a17bcce426;
+						- _myState = 8192;
+						- _name = "getPeticiones";
+						- _objectCreation = "4812648274220181174501248";
+						- _umlDependencyID = "3010";
+						- m_szSequence = "2.1.";
+						- m_szActualArgs = "HashMapPeticiones";
+						- m_szReturnVal = "";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID f95e79c5-cf5b-446e-a8fd-e6e9f485239d;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 5d7f056f-cb1f-491d-ad04-500d14bba73e;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 43f37957-3925-456b-b69d-9d28cdbe5e0d;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getPeticiones()";
+							- _id = GUID 4de1f549-22b0-4b22-8b87-6004a18efe08;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 03e13e3b-e395-42f6-b644-9d6c483a6d81;
+						- _name = "getPiezas";
+						- _objectCreation = "4812650274220181174481248";
+						- _umlDependencyID = "2587";
+						- m_szSequence = "4.1.";
+						- m_szActualArgs = "";
+						- m_szReturnVal = "ArrayListPiezas";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID f95e79c5-cf5b-446e-a8fd-e6e9f485239d;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 5d7f056f-cb1f-491d-ad04-500d14bba73e;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 43f37957-3925-456b-b69d-9d28cdbe5e0d;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getPiezas()";
+							- _id = GUID b9d78979-0016-4485-bb06-5547faeff5d5;
 						}
 						- m_eType = PRIMITIVE;
 						- m_targetExec = { IHandle 
@@ -63862,9 +64024,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "ColaboracionCrearPedidoPiezasEspeciales";
-			- _objectCreation = "2014177265520181893661220";
-			- _umlDependencyID = "5604";
-			- _lastModifiedTime = "12.26.2018::17:11:10";
+			- _objectCreation = "4812652274220181174461248";
+			- _umlDependencyID = "5607";
+			- _lastModifiedTime = "12.27.2018::10:41:20";
 			- _graphicChart = { CCollaborationChart 
 				- _id = GUID e76f70c2-2dc7-4336-83f4-4cca9dc92ee9;
 				- m_type = 0;
@@ -63888,7 +64050,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 				- m_drawBehavior = 4096;
 				- m_bIsPreferencesInitialized = 1;
-				- elementList = 21;
+				- elementList = 22;
 				{ CGIBox 
 					- _id = GUID d622f7a1-ffaf-4b12-b276-c925b5c0aa79;
 					- m_type = 154;
@@ -64382,35 +64544,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- _percent = 12;
 				}
 				{ CGIMessageLabel 
-					- _id = GUID e985bf2b-3105-480f-a7f2-2828e4099663;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 077fa465-6228-46dc-8304-c723a96872d1;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "1.2. Loggear=log(user, pass)";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  187 -9  187 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 1;
-						- m_transform = 1 0 0 1 735 257 ;
-						- m_nHorizontalSpacing = 24;
-						- m_nVerticalSpacing = -4;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 5c2365c4-2a42-4f7f-99b4-6424a681c293;
-					- _percent = 81;
-				}
-				{ CGIMessageLabel 
 					- _id = GUID e08d6b19-a591-4a10-a8cf-8c4d63d2d672;
 					- m_type = 160;
 					- m_pModelObject = { IHandle 
@@ -64467,35 +64600,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 92d2c59f-0230-4caa-b66d-e7c03199d3e4;
 					- _percent = 61;
-				}
-				{ CGIMessageLabel 
-					- _id = GUID 4005b082-4f21-4830-b992-4857b2d448d5;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 549656c6-72e2-4bb1-920d-711bd9a05bc1;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "2.2. HashMapPiezas=getPiezas()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  217 -9  217 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 733 318 ;
-						- m_nHorizontalSpacing = 22;
-						- m_nVerticalSpacing = -11;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID 5c2365c4-2a42-4f7f-99b4-6424a681c293;
-					- _percent = 51;
 				}
 				{ CGIMessageLabel 
 					- _id = GUID 9c702b04-cdf0-4427-8f44-ea773a422431;
@@ -64600,17 +64704,123 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- m_bgColor = 0;
 							- m_bgFlag = 0;
 						}
-						- m_position = 4 -6 -9  139 -9  139 9  -6 9  ;
+						- m_position = 4 -6 -9  280 -9  280 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 735 375 ;
-						- m_nHorizontalSpacing = 24;
-						- m_nVerticalSpacing = 5;
+						- m_transform = 1 0 0 1 931 366 ;
+						- m_nHorizontalSpacing = 22;
+						- m_nVerticalSpacing = -29;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 5c2365c4-2a42-4f7f-99b4-6424a681c293;
+					- _percent = 33;
+				}
+				{ CGIAssociationRole 
+					- _id = GUID a8d5c853-e006-46ea-b13e-ae53278d109b;
+					- m_type = 159;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IAssociationRole";
+						- _id = GUID 90a77728-669d-4168-ade9-44b9074c184f;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8192;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 5e8bfc72-4c30-4005-9ba2-52930786b380;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID e18aa1a0-6ea4-447c-8b91-6c5b5470daa6;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "associationrole_4";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_arrow = 1 624 231  ;
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 2;
+					- m_SourcePort = 575 60 ;
+					- m_TargetPort = 349 506 ;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID c5d5ac8d-57dd-40bc-ad49-11e77b15c411;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 5b0482d1-8935-4d41-a70d-4dae260aa257;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "1.2. Loggear=log(user, pass)";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  187 -9  187 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 422 370 ;
+						- m_nHorizontalSpacing = -208;
+						- m_nVerticalSpacing = 2;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID a8d5c853-e006-46ea-b13e-ae53278d109b;
+					- _percent = 18;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID 4fc3324d-0953-41e7-ad7f-83389e658d12;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 4f83c57c-63a3-4a1a-866a-29ca8a44af95;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "2.2. HashMapPiezas=getPiezas()";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  217 -9  217 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 392 310 ;
+						- m_nHorizontalSpacing = -238;
+						- m_nVerticalSpacing = 7;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID a8d5c853-e006-46ea-b13e-ae53278d109b;
 					- _percent = 33;
 				}
 				
@@ -64636,8 +64846,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 9a3aadff-99b2-450e-856e-a28f134feba8;
-				- _objectCreation = "2014179265520181893641220";
-				- _umlDependencyID = "1644";
+				- _objectCreation = "4812654274220181174441248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 5;
 					- value = 
@@ -64648,8 +64858,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 \\viewkind4\\uc1\\pard\\fs20 responsable de almac\\'e9n\\par
 }
 ";
-						- _objectCreation = "2014181265520181893621220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812656274220181174421248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -64667,8 +64877,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID b1b2dc20-3fbf-45ad-8cb2-55f06c1f144b;
 						- _myState = 2048;
 						- _displayName = "Interfaz ";
-						- _objectCreation = "2014183265520181893601220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812658274220181174401248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -64685,8 +64895,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID c36a1ad2-345c-46ae-bc69-a75338f5ac64;
 						- _myState = 2048;
-						- _objectCreation = "2014185265520181893581220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812660274220181174381248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -64703,8 +64913,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 0cc40852-c2ca-437f-907a-0613228c52e9;
 						- _myState = 2048;
-						- _objectCreation = "2014187265520181893561220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812662274220181174361248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -64721,8 +64931,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 1a74f354-9469-42bc-9057-ca2ad3bdbbff;
 						- _myState = 2048;
-						- _objectCreation = "2014189265520181893541220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812664274220181174341248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -64738,14 +64948,14 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 				}
 				- AssociationRoles = { IRPYRawContainer 
-					- size = 4;
+					- size = 5;
 					- value = 
 					{ IAssociationRole 
 						- _id = GUID e55b9d99-9e26-4df1-8de0-2fcfbbba6ab5;
 						- _myState = 2048;
 						- _name = "associationrole_0";
-						- _objectCreation = "2014191265520181893521220";
-						- _umlDependencyID = "3393";
+						- _objectCreation = "4812666274220181174321248";
+						- _umlDependencyID = "3405";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -64767,8 +64977,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID f3516269-ce60-49a5-b1c7-ca8b8164dfae;
 						- _myState = 2048;
 						- _name = "associationrole_1";
-						- _objectCreation = "2014193265520181893501220";
-						- _umlDependencyID = "3394";
+						- _objectCreation = "4812668274220181174301248";
+						- _umlDependencyID = "3406";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -64790,8 +65000,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 6970eb76-333b-4bb0-baba-4d6d2c0e9571;
 						- _myState = 2048;
 						- _name = "associationrole_2";
-						- _objectCreation = "2014195265520181893481220";
-						- _umlDependencyID = "3404";
+						- _objectCreation = "4812670274220181174281248";
+						- _umlDependencyID = "3407";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -64813,8 +65023,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID cd87717e-6fe7-4270-ba51-7d7beaf4ab50;
 						- _myState = 2048;
 						- _name = "associationrole_3";
-						- _objectCreation = "2014197265520181893461220";
-						- _umlDependencyID = "3405";
+						- _objectCreation = "4812672274220181174261248";
+						- _umlDependencyID = "3408";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -64832,6 +65042,29 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _id = GUID 1a74f354-9469-42bc-9057-ca2ad3bdbbff;
 						}
 					}
+					{ IAssociationRole 
+						- _id = GUID 90a77728-669d-4168-ade9-44b9074c184f;
+						- _myState = 2048;
+						- _name = "associationrole_4";
+						- _objectCreation = "4812674274220181174241248";
+						- _umlDependencyID = "3409";
+						- m_fAssocType1 = UNSPECIFIED;
+						- m_fAssocType2 = UNSPECIFIED;
+						- m_pFormalAssoc1 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pFormalAssoc2 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pSource = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID c36a1ad2-345c-46ae-bc69-a75338f5ac64;
+						}
+						- m_pTarget = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 0cc40852-c2ca-437f-907a-0613228c52e9;
+						}
+					}
 				}
 				- Messages = { IRPYRawContainer 
 					- size = 11;
@@ -64839,8 +65072,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 22a056e7-1960-4dbb-b4f9-ea124cff2b01;
 						- _name = "onClickLogger";
-						- _objectCreation = "2014199265520181893441220";
-						- _umlDependencyID = "2959";
+						- _objectCreation = "4812676274220181174221248";
+						- _umlDependencyID = "2962";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -64875,8 +65108,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID bf732d96-235b-4340-a562-37e3c2041b9a;
 						- _name = "onClickNuevoPedido";
-						- _objectCreation = "2014201265520181893421220";
-						- _umlDependencyID = "3455";
+						- _objectCreation = "4812678274220181174201248";
+						- _umlDependencyID = "3476";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -64912,8 +65145,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 8400838b-83a1-4372-a11e-6202ca78ff69;
 						- _myState = 8192;
 						- _name = "log";
-						- _objectCreation = "2014203265520181893401220";
-						- _umlDependencyID = "1948";
+						- _objectCreation = "4812680274220181174181248";
+						- _umlDependencyID = "1969";
 						- m_szSequence = "1.1.";
 						- m_szActualArgs = "user, pass";
 						- m_szReturnVal = "";
@@ -64946,47 +65179,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 077fa465-6228-46dc-8304-c723a96872d1;
-						- _myState = 8192;
-						- _name = "log";
-						- _objectCreation = "2014205265520181893381220";
-						- _umlDependencyID = "1957";
-						- m_szSequence = "1.2.";
-						- m_szActualArgs = "user, pass";
-						- m_szReturnVal = "Loggear";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 6970eb76-333b-4bb0-baba-4d6d2c0e9571;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 0cc40852-c2ca-437f-907a-0613228c52e9;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 1a74f354-9469-42bc-9057-ca2ad3bdbbff;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "log(RhpString,RhpString)";
-							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 03054098-fb76-4a18-a28e-e5138fcdbed5;
 						- _name = "onClickMostrarPiezas";
-						- _objectCreation = "2014207265520181893361220";
-						- _umlDependencyID = "3706";
+						- _objectCreation = "4812682274220181174161248";
+						- _umlDependencyID = "3718";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -65021,8 +65217,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 4f78c3a1-a214-4205-a5e2-f6c6362470fa;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2014209265520181893341220";
-						- _umlDependencyID = "3031";
+						- _objectCreation = "4812684274220181174141248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "2.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -65055,46 +65251,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 549656c6-72e2-4bb1-920d-711bd9a05bc1;
-						- _name = "getPiezas";
-						- _objectCreation = "2014211265520181893321220";
-						- _umlDependencyID = "2566";
-						- m_szSequence = "2.2.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "HashMapPiezas";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 6970eb76-333b-4bb0-baba-4d6d2c0e9571;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 0cc40852-c2ca-437f-907a-0613228c52e9;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 1a74f354-9469-42bc-9057-ca2ad3bdbbff;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getPiezas()";
-							- _id = GUID b9d78979-0016-4485-bb06-5547faeff5d5;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 7b972a0d-1b43-4839-9094-dbe950500a84;
 						- _name = "crearPedidos";
-						- _objectCreation = "2014213265520181893301220";
-						- _umlDependencyID = "2863";
+						- _objectCreation = "4812686274220181174121248";
+						- _umlDependencyID = "2884";
 						- m_szSequence = "3.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -65130,8 +65290,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 7b4fa333-6646-4175-b46a-13d8d98e2350;
 						- _myState = 8192;
 						- _name = "Pedidos";
-						- _objectCreation = "2014215265520181893281220";
-						- _umlDependencyID = "2347";
+						- _objectCreation = "4812688274220181174101248";
+						- _umlDependencyID = "2359";
 						- m_szSequence = "3.2.";
 						- m_szActualArgs = "datos";
 						- m_szReturnVal = "";
@@ -65166,8 +65326,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID c16f86ac-3cc1-49af-a1a1-56e29c09a25b;
 						- _name = "mostrarPedidos";
-						- _objectCreation = "2014217265520181893261220";
-						- _umlDependencyID = "3123";
+						- _objectCreation = "4812690274220181174081248";
+						- _umlDependencyID = "3135";
 						- m_szSequence = "3.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "Pedido";
@@ -65204,8 +65364,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _myState = 8192;
 						- _name = "guardarPedido";
 						- _displayName = "guardarParte()";
-						- _objectCreation = "2014219265520181893241220";
-						- _umlDependencyID = "2974";
+						- _objectCreation = "4812692274220181174061248";
+						- _umlDependencyID = "2986";
 						- m_szSequence = "3.4.";
 						- m_szActualArgs = "Pedido";
 						- m_szReturnVal = "Confirmacion";
@@ -65228,6 +65388,79 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _class = "Fachada";
 							- _name = "guardarPedido(Pedidos)";
 							- _id = GUID 6518a4df-e0eb-4e82-89a8-4551a7fdd96e;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 5b0482d1-8935-4d41-a70d-4dae260aa257;
+						- _myState = 8192;
+						- _name = "log";
+						- _objectCreation = "4812694274220181174041248";
+						- _umlDependencyID = "1969";
+						- m_szSequence = "1.2.";
+						- m_szActualArgs = "user, pass";
+						- m_szReturnVal = "Loggear";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID 90a77728-669d-4168-ade9-44b9074c184f;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 0cc40852-c2ca-437f-907a-0613228c52e9;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID c36a1ad2-345c-46ae-bc69-a75338f5ac64;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "log(RhpString,RhpString)";
+							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 4f83c57c-63a3-4a1a-866a-29ca8a44af95;
+						- _name = "getPiezas";
+						- _objectCreation = "4812696274220181174021248";
+						- _umlDependencyID = "2587";
+						- m_szSequence = "2.2.";
+						- m_szActualArgs = "";
+						- m_szReturnVal = "HashMapPiezas";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID 90a77728-669d-4168-ade9-44b9074c184f;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 0cc40852-c2ca-437f-907a-0613228c52e9;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID c36a1ad2-345c-46ae-bc69-a75338f5ac64;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getPiezas()";
+							- _id = GUID b9d78979-0016-4485-bb06-5547faeff5d5;
 						}
 						- m_eType = PRIMITIVE;
 						- m_targetExec = { IHandle 
@@ -65331,9 +65564,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "ColaboracionDarAltaCliente";
-			- _objectCreation = "2014221265520181893221220";
-			- _umlDependencyID = "4227";
-			- _lastModifiedTime = "12.26.2018::11:47:41";
+			- _objectCreation = "4812698274220181174001248";
+			- _umlDependencyID = "4248";
+			- _lastModifiedTime = "12.27.2018::10:40:47";
 			- _graphicChart = { CCollaborationChart 
 				- _id = GUID 0ce152b5-09e9-40a1-9a14-097fee6231e5;
 				- m_type = 0;
@@ -65357,7 +65590,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 				- m_drawBehavior = 4096;
 				- m_bIsPreferencesInitialized = 1;
-				- elementList = 21;
+				- elementList = 22;
 				{ CGIBox 
 					- _id = GUID a2bf2e69-c5c5-40e6-a47b-752e7d3b5c81;
 					- m_type = 154;
@@ -65513,7 +65746,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.0974729 0 0 0.0671642 459 383 ;
+					- m_transform = 0.0974729 0 0 0.0671642 520 387 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -65541,7 +65774,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.0974729 0 0 0.0671642 768 130 ;
+					- m_transform = 0.0974729 0 0 0.0671642 896 139 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -65569,7 +65802,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.0974729 0 0 0.0671642 757 383 ;
+					- m_transform = 0.0974729 0 0 0.0671642 885 392 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -65667,7 +65900,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
 					- m_SourcePort = 1083 581 ;
-					- m_TargetPort = 185 566 ;
+					- m_TargetPort = 185 506 ;
 				}
 				{ CGIAssociationRole 
 					- _id = GUID 88e3ae36-673e-4e29-9ad5-a0efd36f28b7;
@@ -65714,7 +65947,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
 					- m_SourcePort = 1005 536 ;
-					- m_TargetPort = 82 536 ;
+					- m_TargetPort = 82 462 ;
 				}
 				{ CGIAssociationRole 
 					- _id = GUID f45cc7d1-8447-42c2-aac5-66a911f1b222;
@@ -65822,35 +66055,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- _percent = 18;
 				}
 				{ CGIMessageLabel 
-					- _id = GUID 583334ce-d6e4-4797-92a7-00b5cbdbe82f;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 27eeb2a5-2586-4a43-8d9e-b24495585949;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "1.2. Loggear=log(user, pass)";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  187 -9  187 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 859 233 ;
-						- m_nHorizontalSpacing = 20;
-						- m_nVerticalSpacing = 7;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID f45cc7d1-8447-42c2-aac5-66a911f1b222;
-					- _percent = 87;
-				}
-				{ CGIMessageLabel 
 					- _id = GUID f52b72d4-dfca-4b2c-92ef-be727f1f630f;
 					- m_type = 160;
 					- m_pModelObject = { IHandle 
@@ -65907,35 +66111,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 2c9208d0-336e-403b-8f66-01b5f0f17f5e;
 					- _percent = 62;
-				}
-				{ CGIMessageLabel 
-					- _id = GUID 74b3ef86-6cfb-45a8-8368-8005de206f88;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID c444880c-2201-4da8-9702-ccc2c924972f;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "2.2. HashMapCliente=getClientes()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  231 -9  231 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 859 289 ;
-						- m_nHorizontalSpacing = 20;
-						- m_nVerticalSpacing = 3;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID f45cc7d1-8447-42c2-aac5-66a911f1b222;
-					- _percent = 54;
 				}
 				{ CGIMessageLabel 
 					- _id = GUID 735a214b-6ff9-4195-a071-154020c6cbfd;
@@ -66070,15 +66245,121 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  307 -9  307 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 859 344 ;
-						- m_nHorizontalSpacing = 20;
-						- m_nVerticalSpacing = 23;
+						- m_transform = 1 0 0 1 969 311 ;
+						- m_nHorizontalSpacing = 18;
+						- m_nVerticalSpacing = -18;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID f45cc7d1-8447-42c2-aac5-66a911f1b222;
 					- _percent = 35;
+				}
+				{ CGIAssociationRole 
+					- _id = GUID 93954086-a56f-413a-98e3-3e2eacf8a617;
+					- m_type = 159;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IAssociationRole";
+						- _id = GUID 31f86e04-7ef0-4cb3-ab0e-15cc0c688c18;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8192;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 0fcf2ded-827d-474c-b9a7-30cd44b92804;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID 80a28fba-b364-431a-9e85-f6e22d82e3da;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "associationrole_4";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_arrow = 1 644 175  ;
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 2;
+					- m_SourcePort = 585 134 ;
+					- m_TargetPort = 277 536 ;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID 3d9aa0ea-8437-4165-8de0-22916c82c997;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 8f55a989-f1aa-4f07-87cd-c6c3b8bdc6f2;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "1.2. Loggear=log(user, pass)";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  174 -9  174 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 388 308 ;
+						- m_nHorizontalSpacing = -195;
+						- m_nVerticalSpacing = 44;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 93954086-a56f-413a-98e3-3e2eacf8a617;
+					- _percent = 23;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID 4b7c1e37-b576-4a10-a350-8a61525ced6f;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 9fed65e7-35ad-41bb-b4ba-5bbf7869f679;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "2.2. HashMapClientes=getClientes()";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  236 -9  236 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 326 239 ;
+						- m_nHorizontalSpacing = -257;
+						- m_nVerticalSpacing = 28;
+						- m_nOrientationCtrlPt = 7;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 93954086-a56f-413a-98e3-3e2eacf8a617;
+					- _percent = 33;
 				}
 				
 				- m_access = 'Z';
@@ -66103,16 +66384,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 97de03b8-083b-4f71-839f-3bc68b5961f3;
-				- _objectCreation = "2014223265520181893201220";
-				- _umlDependencyID = "1626";
+				- _objectCreation = "4812700274220181173981248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 5;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID ddf0591c-f713-43e2-a5c9-df0c6997e73a;
 						- _myState = 2048;
-						- _objectCreation = "2014225265520181893181220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812702274220181173961248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -66129,8 +66410,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID de1292f5-7004-420f-84d7-2ad924a90ae8;
 						- _myState = 2048;
-						- _objectCreation = "2014227265520181893161220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812704274220181173941248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -66147,8 +66428,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 771690dc-1902-476e-be60-00b6cb60e0d5;
 						- _myState = 2048;
-						- _objectCreation = "2014229265520181893141220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812706274220181173921248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -66165,8 +66446,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 3b0e7f5e-927a-4ee4-b465-e5ccd15e5529;
 						- _myState = 2048;
-						- _objectCreation = "2014231265520181893121220";
-						- _umlDependencyID = "1626";
+						- _objectCreation = "4812708274220181173901248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -66183,8 +66464,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 6b75b921-55a4-4186-a792-e5a2848c76ef;
 						- _myState = 2048;
-						- _objectCreation = "2014233265520181893101220";
-						- _umlDependencyID = "1626";
+						- _objectCreation = "4812710274220181173881248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -66200,14 +66481,14 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 				}
 				- AssociationRoles = { IRPYRawContainer 
-					- size = 4;
+					- size = 5;
 					- value = 
 					{ IAssociationRole 
 						- _id = GUID 0fbf0325-f486-4762-93d5-9fc2250a2013;
 						- _myState = 2048;
 						- _name = "associationrole_0";
-						- _objectCreation = "2014235265520181893081220";
-						- _umlDependencyID = "3393";
+						- _objectCreation = "4812712274220181173861248";
+						- _umlDependencyID = "3405";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -66229,8 +66510,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 89f97829-5cfd-44d2-add4-0741863591d6;
 						- _myState = 2048;
 						- _name = "associationrole_1";
-						- _objectCreation = "2014237265520181893061220";
-						- _umlDependencyID = "3394";
+						- _objectCreation = "4812714274220181173841248";
+						- _umlDependencyID = "3406";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -66252,8 +66533,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 6c7330be-ce6d-40f4-ac8c-d8e2d8f6d98d;
 						- _myState = 2048;
 						- _name = "associationrole_2";
-						- _objectCreation = "2014239265520181893041220";
-						- _umlDependencyID = "3395";
+						- _objectCreation = "4812716274220181173821248";
+						- _umlDependencyID = "3407";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -66275,8 +66556,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 68f16397-ccdb-43a8-8648-33f80b18a8eb;
 						- _myState = 2048;
 						- _name = "associationrole_3";
-						- _objectCreation = "2014241265520181893021220";
-						- _umlDependencyID = "3387";
+						- _objectCreation = "4812718274220181173801248";
+						- _umlDependencyID = "3408";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -66294,6 +66575,29 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _id = GUID 3b0e7f5e-927a-4ee4-b465-e5ccd15e5529;
 						}
 					}
+					{ IAssociationRole 
+						- _id = GUID 31f86e04-7ef0-4cb3-ab0e-15cc0c688c18;
+						- _myState = 2048;
+						- _name = "associationrole_4";
+						- _objectCreation = "4812720274220181173781248";
+						- _umlDependencyID = "3409";
+						- m_fAssocType1 = UNSPECIFIED;
+						- m_fAssocType2 = UNSPECIFIED;
+						- m_pFormalAssoc1 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pFormalAssoc2 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pSource = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 771690dc-1902-476e-be60-00b6cb60e0d5;
+						}
+						- m_pTarget = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 3b0e7f5e-927a-4ee4-b465-e5ccd15e5529;
+						}
+					}
 				}
 				- Messages = { IRPYRawContainer 
 					- size = 11;
@@ -66301,8 +66605,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 2e4a81e3-f9d6-463b-87a1-90ad8615b8d0;
 						- _name = "onClickLogger";
-						- _objectCreation = "2014243265520181893001220";
-						- _umlDependencyID = "2941";
+						- _objectCreation = "4812722274220181173761248";
+						- _umlDependencyID = "2962";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -66338,8 +66642,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 71a42f33-914a-4c8b-af82-1d76852a2b7f;
 						- _myState = 8192;
 						- _name = "log";
-						- _objectCreation = "2014245265520181892981220";
-						- _umlDependencyID = "1966";
+						- _objectCreation = "4812724274220181173741248";
+						- _umlDependencyID = "1969";
 						- m_szSequence = "1.1.";
 						- m_szActualArgs = "user, pass";
 						- m_szReturnVal = "";
@@ -66372,47 +66676,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 27eeb2a5-2586-4a43-8d9e-b24495585949;
-						- _myState = 8192;
-						- _name = "log";
-						- _objectCreation = "2014247265520181892961220";
-						- _umlDependencyID = "1966";
-						- m_szSequence = "1.2.";
-						- m_szActualArgs = "user, pass";
-						- m_szReturnVal = "Loggear";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 68f16397-ccdb-43a8-8648-33f80b18a8eb;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 3b0e7f5e-927a-4ee4-b465-e5ccd15e5529;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 6b75b921-55a4-4186-a792-e5a2848c76ef;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "log(RhpString,RhpString)";
-							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID f3935462-dd75-431c-aaa7-6b79bb197e29;
 						- _name = "onClickMostrarCliente";
-						- _objectCreation = "2014249265520181892941220";
-						- _umlDependencyID = "3803";
+						- _objectCreation = "4812726274220181173721248";
+						- _umlDependencyID = "3806";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -66447,8 +66714,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 78768e6e-5f74-4fb4-ae44-82b0bcc11d65;
 						- _name = "mostrarClientes";
-						- _objectCreation = "2014251265520181892921220";
-						- _umlDependencyID = "3234";
+						- _objectCreation = "4812728274220181173701248";
+						- _umlDependencyID = "3246";
 						- m_szSequence = "2.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -66481,46 +66748,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID c444880c-2201-4da8-9702-ccc2c924972f;
-						- _name = "getClientes";
-						- _objectCreation = "2014253265520181892901220";
-						- _umlDependencyID = "2778";
-						- m_szSequence = "2.2.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "HashMapCliente";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 68f16397-ccdb-43a8-8648-33f80b18a8eb;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 3b0e7f5e-927a-4ee4-b465-e5ccd15e5529;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 6b75b921-55a4-4186-a792-e5a2848c76ef;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getClientes()";
-							- _id = GUID 5397326f-c1c1-40e8-be59-7559fc1bfb12;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 787d1c38-f45d-4c88-addb-eb9cde488370;
 						- _name = "onClickNuevoCliente";
-						- _objectCreation = "2014255265520181892881220";
-						- _umlDependencyID = "3584";
+						- _objectCreation = "4812730274220181173681248";
+						- _umlDependencyID = "3587";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -66556,8 +66787,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 0c89d9eb-fca6-45f6-be8e-2bd1db3d3540;
 						- _myState = 8192;
 						- _name = "editarCliente";
-						- _objectCreation = "2014257265520181892861220";
-						- _umlDependencyID = "2985";
+						- _objectCreation = "4812732274220181173661248";
+						- _umlDependencyID = "2988";
 						- m_szSequence = "3.1.";
 						- m_szActualArgs = "datos, crear";
 						- m_szReturnVal = "";
@@ -66593,8 +66824,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 4169c5bb-e692-49fe-bfd0-f99121911814;
 						- _myState = 8192;
 						- _name = "Cliente";
-						- _objectCreation = "2014259265520181892841220";
-						- _umlDependencyID = "2352";
+						- _objectCreation = "4812734274220181173641248";
+						- _umlDependencyID = "2355";
 						- m_szSequence = "3.2.";
 						- m_szActualArgs = "datos";
 						- m_szReturnVal = "";
@@ -66629,8 +66860,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID df6c0557-bb59-4ea1-b86d-bbef0abda1bd;
 						- _name = "mostrarClientes";
-						- _objectCreation = "2014261265520181892821220";
-						- _umlDependencyID = "3234";
+						- _objectCreation = "4812736274220181173621248";
+						- _umlDependencyID = "3246";
 						- m_szSequence = "3.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "Cliente";
@@ -66666,8 +66897,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 13c8a2c5-aa78-469c-bbcd-8059de72f739;
 						- _myState = 8192;
 						- _name = "editarCliente";
-						- _objectCreation = "2014263265520181892801220";
-						- _umlDependencyID = "2976";
+						- _objectCreation = "4812738274220181173601248";
+						- _umlDependencyID = "2988";
 						- m_szSequence = "3.4.";
 						- m_szActualArgs = "Cliente, crear";
 						- m_szReturnVal = "Confirmacion";
@@ -66690,6 +66921,79 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _class = "Fachada";
 							- _name = "editarCliente(Cliente,TipoAccion)";
 							- _id = GUID 3f057210-7814-44e4-bbbd-fd2559bf824d;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 8f55a989-f1aa-4f07-87cd-c6c3b8bdc6f2;
+						- _myState = 8192;
+						- _name = "log";
+						- _objectCreation = "4812740274220181173581248";
+						- _umlDependencyID = "1969";
+						- m_szSequence = "1.2.";
+						- m_szActualArgs = "user, pass";
+						- m_szReturnVal = "Loggear";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID 31f86e04-7ef0-4cb3-ab0e-15cc0c688c18;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 3b0e7f5e-927a-4ee4-b465-e5ccd15e5529;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 771690dc-1902-476e-be60-00b6cb60e0d5;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "log(RhpString,RhpString)";
+							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 9fed65e7-35ad-41bb-b4ba-5bbf7869f679;
+						- _name = "getClientes";
+						- _objectCreation = "4812742274220181173561248";
+						- _umlDependencyID = "2790";
+						- m_szSequence = "2.2.";
+						- m_szActualArgs = "";
+						- m_szReturnVal = "HashMapClientes";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID 31f86e04-7ef0-4cb3-ab0e-15cc0c688c18;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 3b0e7f5e-927a-4ee4-b465-e5ccd15e5529;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 771690dc-1902-476e-be60-00b6cb60e0d5;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getClientes()";
+							- _id = GUID 5397326f-c1c1-40e8-be59-7559fc1bfb12;
 						}
 						- m_eType = PRIMITIVE;
 						- m_targetExec = { IHandle 
@@ -66793,9 +67097,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 			}
 			- _name = "ColaboracionCrearPresupuesto";
-			- _objectCreation = "2014265265520181892781220";
-			- _umlDependencyID = "4564";
-			- _lastModifiedTime = "12.26.2018::11:46:50";
+			- _objectCreation = "4812744274220181173541248";
+			- _umlDependencyID = "4567";
+			- _lastModifiedTime = "12.27.2018::10:37:21";
 			- _graphicChart = { CCollaborationChart 
 				- _id = GUID cd098a78-94cb-42ea-920a-2f73f7a761e3;
 				- m_type = 0;
@@ -66819,7 +67123,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 				}
 				- m_drawBehavior = 4096;
 				- m_bIsPreferencesInitialized = 1;
-				- elementList = 32;
+				- elementList = 33;
 				{ CGIBox 
 					- _id = GUID a8da54ea-2b72-443f-9408-58bf31c3906e;
 					- m_type = 154;
@@ -67003,7 +67307,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.0974729 0 0 0.0671642 1128 664 ;
+					- m_transform = 0.0974729 0 0 0.0671642 1264 393 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -67031,7 +67335,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.0974729 0 0 0.0671642 1120 380 ;
+					- m_transform = 0.0974729 0 0 0.0671642 726 110 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -67059,7 +67363,7 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
-					- m_transform = 0.0974729 0 0 0.0671642 687 654 ;
+					- m_transform = 0.0974729 0 0 0.0671642 673 709 ;
 					- m_bIsPreferencesInitialized = 1;
 					- m_polygon = 4 0 0  0 1072  1108 1072  1108 0  ;
 					- m_nNameFormat = 0;
@@ -67200,11 +67504,12 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_bImplicitSetRectPoints = 0;
 						- m_nOrientationCtrlPt = 8;
 					}
+					- m_arrow = 1 1328 142  ;
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
-					- m_SourcePort = 554 179 ;
-					- m_TargetPort = 472 893 ;
+					- m_SourcePort = 1067 476 ;
+					- m_TargetPort = 657 893 ;
 				}
 				{ CGIAssociationRole 
 					- _id = GUID 1e004757-ee3c-4355-afd6-f216cfa34e3b;
@@ -67250,8 +67555,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
-					- m_SourcePort = 431 849 ;
-					- m_TargetPort = 626 119 ;
+					- m_SourcePort = 215 849 ;
+					- m_TargetPort = 554 119 ;
 				}
 				{ CGIAssociationRole 
 					- _id = GUID c82bf48e-8314-49c6-9091-f5a53ca8a120;
@@ -67297,8 +67602,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
-					- m_SourcePort = 1016 521 ;
-					- m_TargetPort = 133 506 ;
+					- m_SourcePort = 554 60 ;
+					- m_TargetPort = 349 998 ;
 				}
 				{ CGIMessageLabel 
 					- _id = GUID 9a1714c2-b52b-4048-878e-7fd6c3e11e3e;
@@ -67357,35 +67662,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_bIsPreferencesInitialized = 1;
 					- m_pCommunicationConnection = GUID 9dd3d7a0-89e4-40f8-9c15-63500f8b90e4;
 					- _percent = 8;
-				}
-				{ CGIMessageLabel 
-					- _id = GUID 6d0c24de-20ef-4020-8297-4e0bfc2fcb09;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 21066781-ec07-49df-a41f-3b9fec1e4e44;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "1.2. Logger=log(user, pass)";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  178 -9  178 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 1144 483 ;
-						- m_nHorizontalSpacing = 23;
-						- m_nVerticalSpacing = -174;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID ea5f745e-cf98-423e-8d78-6570915b70dd;
-					- _percent = 87;
 				}
 				{ CGIMessageLabel 
 					- _id = GUID d27586de-64d1-4394-a0de-ebfd787c6085;
@@ -67504,35 +67780,6 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- _percent = 75;
 				}
 				{ CGIMessageLabel 
-					- _id = GUID f6eeeb94-116b-48b5-a55d-989ed6e0e5c6;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID fd8b9d28-663b-4c10-962f-26f0b6bb0b00;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "3.2. ArrayListPiezas=getPiezas()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  211 -9  211 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 1144 603 ;
-						- m_nHorizontalSpacing = 23;
-						- m_nVerticalSpacing = -2;
-						- m_nOrientationCtrlPt = 7;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID ea5f745e-cf98-423e-8d78-6570915b70dd;
-					- _percent = 41;
-				}
-				{ CGIMessageLabel 
 					- _id = GUID 96656d31-a4ef-4e41-a764-7c90c8502ef0;
 					- m_type = 160;
 					- m_pModelObject = { IHandle 
@@ -67609,10 +67856,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  155 -9  155 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 865 386 ;
-						- m_nHorizontalSpacing = -26;
-						- m_nVerticalSpacing = -19;
-						- m_nOrientationCtrlPt = 5;
+						- m_transform = 1 0 0 1 780 244 ;
+						- m_nHorizontalSpacing = 14;
+						- m_nVerticalSpacing = 1;
+						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
 					- m_bIsPreferencesInitialized = 1;
@@ -67638,10 +67885,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  259 -9  259 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 788 443 ;
-						- m_nHorizontalSpacing = 6;
-						- m_nVerticalSpacing = 38;
-						- m_nOrientationCtrlPt = 5;
+						- m_transform = 1 0 0 1 479 241 ;
+						- m_nHorizontalSpacing = -287;
+						- m_nVerticalSpacing = -45;
+						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
 					- m_bIsPreferencesInitialized = 1;
@@ -67667,10 +67914,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  370 -9  370 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 1143 618 ;
-						- m_nHorizontalSpacing = 22;
-						- m_nVerticalSpacing = 106;
-						- m_nOrientationCtrlPt = 7;
+						- m_transform = 1 0 0 1 899 172 ;
+						- m_nHorizontalSpacing = 54;
+						- m_nVerticalSpacing = 39;
+						- m_nOrientationCtrlPt = 5;
 					}
 					- m_drawBehavior = 4096;
 					- m_bIsPreferencesInitialized = 1;
@@ -67754,9 +68001,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  114 -9  114 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 755 497 ;
-						- m_nHorizontalSpacing = 21;
-						- m_nVerticalSpacing = 3;
+						- m_transform = 1 0 0 1 773 567 ;
+						- m_nHorizontalSpacing = 19;
+						- m_nVerticalSpacing = 59;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
@@ -67783,9 +68030,9 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_position = 4 -6 -9  218 -9  218 9  -6 9  ;
 						- m_nIdent = 0;
 						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 490 521 ;
-						- m_nHorizontalSpacing = -244;
-						- m_nVerticalSpacing = 8;
+						- m_transform = 1 0 0 1 511 563 ;
+						- m_nHorizontalSpacing = -243;
+						- m_nVerticalSpacing = 31;
 						- m_nOrientationCtrlPt = 7;
 					}
 					- m_drawBehavior = 4096;
@@ -67834,40 +68081,12 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- m_bImplicitSetRectPoints = 0;
 						- m_nOrientationCtrlPt = 8;
 					}
+					- m_arrow = 1 1320 736  ;
 					- m_anglePoint1 = 0 0 ;
 					- m_anglePoint2 = 0 0 ;
 					- m_line_style = 2;
-					- m_SourcePort = 893 655 ;
-					- m_TargetPort = 544 506 ;
-				}
-				{ CGIMessageLabel 
-					- _id = GUID 345e46e3-4fbf-43e5-8b27-27f1934e3d42;
-					- m_type = 160;
-					- m_pModelObject = { IHandle 
-						- _m2Class = "IMessage";
-						- _id = GUID 430e245e-ef42-4277-8508-404a17e9d324;
-					}
-					- m_pParent = ;
-					- m_name = { CGIText 
-						- m_str = "2.2. HashMapPeticiones=getPeticiones()";
-						- m_style = "Arial" 10 0 0 0 1 ;
-						- m_color = { IColor 
-							- m_fgColor = 0;
-							- m_bgColor = 0;
-							- m_bgFlag = 0;
-						}
-						- m_position = 4 -6 -9  254 -9  254 9  -6 9  ;
-						- m_nIdent = 0;
-						- m_bImplicitSetRectPoints = 0;
-						- m_transform = 1 0 0 1 806 673 ;
-						- m_nHorizontalSpacing = -7;
-						- m_nVerticalSpacing = -16;
-						- m_nOrientationCtrlPt = 5;
-					}
-					- m_drawBehavior = 4096;
-					- m_bIsPreferencesInitialized = 1;
-					- m_pCommunicationConnection = GUID ecd13c1c-305c-4825-a808-d90020e54cf2;
-					- _percent = 52;
+					- m_SourcePort = 893 402 ;
+					- m_TargetPort = 575 1027 ;
 				}
 				{ CGIMessageLabel 
 					- _id = GUID 8b4c0ac5-67aa-44ec-bc0b-610dc5e611b9;
@@ -67898,6 +68117,140 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					- m_pCommunicationConnection = GUID ecd13c1c-305c-4825-a808-d90020e54cf2;
 					- _percent = 26;
 				}
+				{ CGIAssociationRole 
+					- _id = GUID 8834efc3-3b7e-4b2d-8830-e0771ef22c19;
+					- m_type = 159;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IAssociationRole";
+						- _id = GUID 264a3cd4-8d50-4de0-9405-df6b812c98c4;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_drawBehavior = 8192;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pSource = GUID 8ebbd2e0-9364-4976-8af0-c941503fcb25;
+					- m_sourceType = 'F';
+					- m_pTarget = GUID bc08c9b9-2f4b-44b9-8b80-9ca54d9539f5;
+					- m_targetType = 'T';
+					- m_direction = ' ';
+					- m_rpn = { CGIText 
+						- m_str = "associationrole_6";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 8;
+					}
+					- m_anglePoint1 = 0 0 ;
+					- m_anglePoint2 = 0 0 ;
+					- m_line_style = 2;
+					- m_SourcePort = 1098 610 ;
+					- m_TargetPort = 421 402 ;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID 1d47354e-04d3-4a92-aaaa-8887f04d53dc;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID b09b1ee2-e2f5-45d3-97d9-d54a7f4c80d6;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "1.2. Logger=log(user, pass)";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  178 -9  178 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 824 393 ;
+						- m_nHorizontalSpacing = 51;
+						- m_nVerticalSpacing = -18;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 8834efc3-3b7e-4b2d-8830-e0771ef22c19;
+					- _percent = 10;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID 8ef5a0ee-e1cf-4b48-af4d-76a794fc4886;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID de2dde77-ba6a-4714-82e8-159e141de924;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "3.2. ArrayListPiezas=getPiezas()";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  211 -9  211 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 949 447 ;
+						- m_nHorizontalSpacing = 147;
+						- m_nVerticalSpacing = 36;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 8834efc3-3b7e-4b2d-8830-e0771ef22c19;
+					- _percent = 20;
+				}
+				{ CGIMessageLabel 
+					- _id = GUID ea6007d7-3d57-4255-8e0d-0eaa05a9cd07;
+					- m_type = 160;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IMessage";
+						- _id = GUID 138b1245-96e8-4d83-b795-9117f5466a0d;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "2.2. HashMapPeticiones=getPeticiones()";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 4 -6 -9  266 -9  266 9  -6 9  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_transform = 1 0 0 1 1005 395 ;
+						- m_nHorizontalSpacing = 199;
+						- m_nVerticalSpacing = -16;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 4096;
+					- m_bIsPreferencesInitialized = 1;
+					- m_pCommunicationConnection = GUID 8834efc3-3b7e-4b2d-8830-e0771ef22c19;
+					- _percent = 27;
+				}
 				
 				- m_access = 'Z';
 				- m_modified = 'N';
@@ -67921,16 +68274,16 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 			}
 			- m_pICollaboration = { ICollaboration 
 				- _id = GUID 586eec6c-8f3d-45bf-bbf8-14f310319629;
-				- _objectCreation = "2014267265520181892761220";
-				- _umlDependencyID = "1644";
+				- _objectCreation = "4812746274220181173521248";
+				- _umlDependencyID = "1647";
 				- ClassifierRoles = { IRPYRawContainer 
 					- size = 6;
 					- value = 
 					{ IClassifierRole 
 						- _id = GUID e29e0ffd-4ac0-480d-8bbc-87455e04c6a0;
 						- _myState = 2048;
-						- _objectCreation = "2014269265520181892741220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812748274220181173501248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -67947,8 +68300,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 87bb5233-cc3b-43d1-a604-8f5345ec172b;
 						- _myState = 2048;
-						- _objectCreation = "2014271265520181892721220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812750274220181173481248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -67965,8 +68318,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 7dc204f9-7835-4c84-a4c6-969e0d10ad32;
 						- _myState = 2048;
-						- _objectCreation = "2014273265520181892701220";
-						- _umlDependencyID = "1635";
+						- _objectCreation = "4812752274220181173461248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -67983,8 +68336,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID 2ad1ff11-ae8e-4fde-8919-868f0e9c505b;
 						- _myState = 2048;
-						- _objectCreation = "2014275265520181892681220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812754274220181173441248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -68001,8 +68354,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID e538b18f-206f-4a15-9317-e708e98e506b;
 						- _myState = 2048;
-						- _objectCreation = "2014277265520181892661220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812756274220181173421248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -68019,8 +68372,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IClassifierRole 
 						- _id = GUID d0cd9454-6724-489a-98f9-9146cffc5f39;
 						- _myState = 2048;
-						- _objectCreation = "2014279265520181892641220";
-						- _umlDependencyID = "1644";
+						- _objectCreation = "4812758274220181173401248";
+						- _umlDependencyID = "1647";
 						- m_eRoleType = UNSPECIFIED;
 						- m_pBase = { IHandle 
 							- _m2Class = "IClass";
@@ -68036,14 +68389,14 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					}
 				}
 				- AssociationRoles = { IRPYRawContainer 
-					- size = 6;
+					- size = 7;
 					- value = 
 					{ IAssociationRole 
 						- _id = GUID c1c299a3-14e8-4f8a-826d-88c67f035dc8;
 						- _myState = 2048;
 						- _name = "associationrole_0";
-						- _objectCreation = "2014281265520181892621220";
-						- _umlDependencyID = "3393";
+						- _objectCreation = "4812760274220181173381248";
+						- _umlDependencyID = "3405";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -68065,8 +68418,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 36d9ebda-9687-47cc-a081-ea7bc0e2be18;
 						- _myState = 2048;
 						- _name = "associationrole_1";
-						- _objectCreation = "2014283265520181892601220";
-						- _umlDependencyID = "3394";
+						- _objectCreation = "4812762274220181173361248";
+						- _umlDependencyID = "3406";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -68088,8 +68441,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 1bb423a2-b9ec-412c-ae7e-45cebb9a4a19;
 						- _myState = 2048;
 						- _name = "associationrole_2";
-						- _objectCreation = "2014285265520181892581220";
-						- _umlDependencyID = "3404";
+						- _objectCreation = "4812764274220181173341248";
+						- _umlDependencyID = "3407";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -68111,8 +68464,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID eb047490-967e-44cf-afa8-be346488e6bb;
 						- _myState = 2048;
 						- _name = "associationrole_3";
-						- _objectCreation = "2014287265520181892561220";
-						- _umlDependencyID = "3405";
+						- _objectCreation = "4812766274220181173321248";
+						- _umlDependencyID = "3408";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -68134,8 +68487,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 9202e644-a715-496e-b219-6ddf825ddea5;
 						- _myState = 2048;
 						- _name = "associationrole_4";
-						- _objectCreation = "2014289265520181892541220";
-						- _umlDependencyID = "3406";
+						- _objectCreation = "4812768274220181173301248";
+						- _umlDependencyID = "3409";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -68157,8 +68510,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 6b34d9bb-c4e3-4c10-8763-56dd07df128f;
 						- _myState = 2048;
 						- _name = "associationrole_5";
-						- _objectCreation = "2014291265520181892521220";
-						- _umlDependencyID = "3398";
+						- _objectCreation = "4812770274220181173281248";
+						- _umlDependencyID = "3410";
 						- m_fAssocType1 = UNSPECIFIED;
 						- m_fAssocType2 = UNSPECIFIED;
 						- m_pFormalAssoc1 = { IHandle 
@@ -68176,6 +68529,29 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _id = GUID 2ad1ff11-ae8e-4fde-8919-868f0e9c505b;
 						}
 					}
+					{ IAssociationRole 
+						- _id = GUID 264a3cd4-8d50-4de0-9405-df6b812c98c4;
+						- _myState = 2048;
+						- _name = "associationrole_6";
+						- _objectCreation = "4812772274220181173261248";
+						- _umlDependencyID = "3411";
+						- m_fAssocType1 = UNSPECIFIED;
+						- m_fAssocType2 = UNSPECIFIED;
+						- m_pFormalAssoc1 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pFormalAssoc2 = { IHandle 
+							- _m2Class = "";
+						}
+						- m_pSource = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 7dc204f9-7835-4c84-a4c6-969e0d10ad32;
+						}
+						- m_pTarget = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 2ad1ff11-ae8e-4fde-8919-868f0e9c505b;
+						}
+					}
 				}
 				- Messages = { IRPYRawContainer 
 					- size = 19;
@@ -68183,8 +68559,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 44aa77e8-8375-4017-a52b-c8343e64911d;
 						- _name = "onClickLogger";
-						- _objectCreation = "2014293265520181892501220";
-						- _umlDependencyID = "2950";
+						- _objectCreation = "4812774274220181173241248";
+						- _umlDependencyID = "2962";
 						- m_szSequence = "1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -68220,8 +68596,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 9ecd0731-de83-453f-a826-c17de2c20b01;
 						- _myState = 8192;
 						- _name = "log";
-						- _objectCreation = "2014295265520181892481220";
-						- _umlDependencyID = "1966";
+						- _objectCreation = "4812776274220181173221248";
+						- _umlDependencyID = "1969";
 						- m_szSequence = "1.1.";
 						- m_szActualArgs = "user, pass";
 						- m_szReturnVal = "";
@@ -68254,47 +68630,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 21066781-ec07-49df-a41f-3b9fec1e4e44;
-						- _myState = 8192;
-						- _name = "log";
-						- _objectCreation = "2014297265520181892461220";
-						- _umlDependencyID = "1966";
-						- m_szSequence = "1.2.";
-						- m_szActualArgs = "user, pass";
-						- m_szReturnVal = "Logger";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 1bb423a2-b9ec-412c-ae7e-45cebb9a4a19;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 2ad1ff11-ae8e-4fde-8919-868f0e9c505b;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID e538b18f-206f-4a15-9317-e708e98e506b;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "log(RhpString,RhpString)";
-							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID aa643c48-7e31-4afa-b7a9-313c20d0af34;
 						- _name = "onClickMostrarPeticiones";
-						- _objectCreation = "2014299265520181892441220";
-						- _umlDependencyID = "4138";
+						- _objectCreation = "4812778274220181173201248";
+						- _umlDependencyID = "4141";
 						- m_szSequence = "2.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -68329,8 +68668,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 0c280d92-0a50-4e8a-832b-bc9ab439032c;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2014301265520181892421220";
-						- _umlDependencyID = "3445";
+						- _objectCreation = "4812780274220181173181248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "2.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -68365,8 +68704,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID cec16c44-c8ca-48b5-b760-0d23c024e35a;
 						- _name = "onClickMostrarPiezas";
-						- _objectCreation = "2014303265520181892401220";
-						- _umlDependencyID = "3697";
+						- _objectCreation = "4812782274220181173161248";
+						- _umlDependencyID = "3718";
 						- m_szSequence = "3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -68401,8 +68740,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 7c5a539e-a3a8-45c5-b4b1-4c4dd5e40ba2;
 						- _name = "mostrarPiezas";
-						- _objectCreation = "2014305265520181892381220";
-						- _umlDependencyID = "3031";
+						- _objectCreation = "4812784274220181173141248";
+						- _umlDependencyID = "3043";
 						- m_szSequence = "3.1.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -68435,46 +68774,10 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID fd8b9d28-663b-4c10-962f-26f0b6bb0b00;
-						- _name = "getPiezas";
-						- _objectCreation = "2014307265520181892361220";
-						- _umlDependencyID = "2575";
-						- m_szSequence = "3.2.";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "ArrayListPiezas";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 1bb423a2-b9ec-412c-ae7e-45cebb9a4a19;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 2ad1ff11-ae8e-4fde-8919-868f0e9c505b;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID e538b18f-206f-4a15-9317-e708e98e506b;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getPiezas()";
-							- _id = GUID b9d78979-0016-4485-bb06-5547faeff5d5;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID de8e096a-da29-4323-9953-6b00f6ad9afa;
 						- _name = "onClickNuevoPresupuesto";
-						- _objectCreation = "2014309265520181892341220";
-						- _umlDependencyID = "4066";
+						- _objectCreation = "4812786274220181173121248";
+						- _umlDependencyID = "4078";
 						- m_szSequence = "4.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -68510,8 +68813,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 57f8c943-1b11-4a2c-b8c3-c122eea0acd4;
 						- _myState = 8192;
 						- _name = "editarPresupuesto";
-						- _objectCreation = "2014311265520181892321220";
-						- _umlDependencyID = "3458";
+						- _objectCreation = "4812788274220181173101248";
+						- _umlDependencyID = "3479";
 						- m_szSequence = "4.1.";
 						- m_szActualArgs = "idPresupuesto, crear";
 						- m_szReturnVal = "";
@@ -68547,8 +68850,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID b48de89a-7f03-4c50-9351-4e853bf2ad4d;
 						- _myState = 8192;
 						- _name = "Presupuesto";
-						- _objectCreation = "2014313265520181892301220";
-						- _umlDependencyID = "2825";
+						- _objectCreation = "4812790274220181173081248";
+						- _umlDependencyID = "2846";
 						- m_szSequence = "4.2.";
 						- m_szActualArgs = "datos";
 						- m_szReturnVal = "";
@@ -68583,8 +68886,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 2b732500-5d92-4527-912c-2f6f1b6ecd5d;
 						- _name = "mostrarPresupuestos";
-						- _objectCreation = "2014315265520181892281220";
-						- _umlDependencyID = "3725";
+						- _objectCreation = "4812792274220181173061248";
+						- _umlDependencyID = "3737";
 						- m_szSequence = "4.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "Presupuesto";
@@ -68620,8 +68923,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 426eff63-2a41-4efd-8deb-781670949f2d;
 						- _myState = 8192;
 						- _name = "editarPresupuesto";
-						- _objectCreation = "2014317265520181892261220";
-						- _umlDependencyID = "3467";
+						- _objectCreation = "4812794274220181173041248";
+						- _umlDependencyID = "3479";
 						- m_szSequence = "4.4.";
 						- m_szActualArgs = "Presupuesto, crear";
 						- m_szReturnVal = "Confirmacion";
@@ -68656,8 +68959,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 05594f1f-d2b8-4bd7-9cd6-891ef425df30;
 						- _name = "onClickModificarPeticion";
-						- _objectCreation = "2014319265520181892241220";
-						- _umlDependencyID = "4079";
+						- _objectCreation = "4812796274220181173021248";
+						- _umlDependencyID = "4091";
 						- m_szSequence = "5.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "";
@@ -68693,8 +68996,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID abb083df-61c5-4a4d-b619-b779c8044fac;
 						- _myState = 8192;
 						- _name = "editarPeticion";
-						- _objectCreation = "2014321265520181892221220";
-						- _umlDependencyID = "3086";
+						- _objectCreation = "4812798274220181173001248";
+						- _umlDependencyID = "3107";
 						- m_szSequence = "5.1.";
 						- m_szActualArgs = "idPeticion, modificar";
 						- m_szReturnVal = "";
@@ -68730,8 +69033,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						- _id = GUID 1557d167-95a2-403c-b0de-edc2ff551b2c;
 						- _myState = 8192;
 						- _name = "editar";
-						- _objectCreation = "2014323265520181892201220";
-						- _umlDependencyID = "2259";
+						- _objectCreation = "4812800274220181172981248";
+						- _umlDependencyID = "2280";
 						- m_szSequence = "5.2.";
 						- m_szActualArgs = "datos";
 						- m_szReturnVal = "";
@@ -68766,8 +69069,8 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 					{ IMessage 
 						- _id = GUID 33c8e0f0-e91e-4895-8bb6-703b9c622b66;
 						- _name = "mostrarPeticiones";
-						- _objectCreation = "2014325265520181892181220";
-						- _umlDependencyID = "3454";
+						- _objectCreation = "4812802274220181172961248";
+						- _umlDependencyID = "3466";
 						- m_szSequence = "5.3.";
 						- m_szActualArgs = "";
 						- m_szReturnVal = "Peticion";
@@ -68800,47 +69103,11 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 						}
 					}
 					{ IMessage 
-						- _id = GUID 430e245e-ef42-4277-8508-404a17e9d324;
-						- _name = "getPeticiones";
-						- _objectCreation = "2014327265520181892161220";
-						- _umlDependencyID = "2998";
-						- m_szSequence = "2.2";
-						- m_szActualArgs = "";
-						- m_szReturnVal = "HashMapPeticiones";
-						- m_pCommunicationConnection = { IHandle 
-							- _m2Class = "IAssociationRole";
-							- _id = GUID 6b34d9bb-c4e3-4c10-8763-56dd07df128f;
-						}
-						- m_pReceiver = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID 2ad1ff11-ae8e-4fde-8919-868f0e9c505b;
-						}
-						- m_pSender = { IHandle 
-							- _m2Class = "IClassifierRole";
-							- _id = GUID d0cd9454-6724-489a-98f9-9146cffc5f39;
-						}
-						- m_pFormalMessage = { IHandle 
-							- _m2Class = "IPrimitiveOperation";
-							- _filename = "BaseDeDatos.sbs";
-							- _subsystem = "Aplicacion::BaseDeDatos";
-							- _class = "Fachada";
-							- _name = "getPeticiones()";
-							- _id = GUID 4de1f549-22b0-4b22-8b87-6004a18efe08;
-						}
-						- m_eType = PRIMITIVE;
-						- m_targetExec = { IHandle 
-							- _m2Class = "";
-						}
-						- m_srcExec = { IHandle 
-							- _m2Class = "";
-						}
-					}
-					{ IMessage 
 						- _id = GUID 3b50c0f2-2566-44d4-83dd-8c2339fe2802;
 						- _myState = 8192;
 						- _name = "editarPeticion";
-						- _objectCreation = "2014329265520181892141220";
-						- _umlDependencyID = "3095";
+						- _objectCreation = "4812804274220181172941248";
+						- _umlDependencyID = "3107";
 						- m_szSequence = "5.4.";
 						- m_szActualArgs = "Peticion, modificar";
 						- m_szReturnVal = "Confirmacion";
@@ -68863,6 +69130,115 @@ MODIFICAMOS, al finalizar a\ñadimos la fecha de finalizacion del parte";
 							- _class = "Fachada";
 							- _name = "editarPeticion(Peticion,TipoAccion)";
 							- _id = GUID bec7465e-aea6-4127-aae8-1088aa8910ca;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID b09b1ee2-e2f5-45d3-97d9-d54a7f4c80d6;
+						- _myState = 8192;
+						- _name = "log";
+						- _objectCreation = "4812806274220181172921248";
+						- _umlDependencyID = "1969";
+						- m_szSequence = "1.2.";
+						- m_szActualArgs = "user, pass";
+						- m_szReturnVal = "Logger";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID 264a3cd4-8d50-4de0-9405-df6b812c98c4;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 2ad1ff11-ae8e-4fde-8919-868f0e9c505b;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 7dc204f9-7835-4c84-a4c6-969e0d10ad32;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "log(RhpString,RhpString)";
+							- _id = GUID 354622bb-fb69-4818-a54f-beeb67b0907c;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID de2dde77-ba6a-4714-82e8-159e141de924;
+						- _name = "getPiezas";
+						- _objectCreation = "4812808274220181172901248";
+						- _umlDependencyID = "2587";
+						- m_szSequence = "3.2.";
+						- m_szActualArgs = "";
+						- m_szReturnVal = "ArrayListPiezas";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID 264a3cd4-8d50-4de0-9405-df6b812c98c4;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 2ad1ff11-ae8e-4fde-8919-868f0e9c505b;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 7dc204f9-7835-4c84-a4c6-969e0d10ad32;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getPiezas()";
+							- _id = GUID b9d78979-0016-4485-bb06-5547faeff5d5;
+						}
+						- m_eType = PRIMITIVE;
+						- m_targetExec = { IHandle 
+							- _m2Class = "";
+						}
+						- m_srcExec = { IHandle 
+							- _m2Class = "";
+						}
+					}
+					{ IMessage 
+						- _id = GUID 138b1245-96e8-4d83-b795-9117f5466a0d;
+						- _name = "getPeticiones";
+						- _objectCreation = "4812810274220181172881248";
+						- _umlDependencyID = "3010";
+						- m_szSequence = "2.2.";
+						- m_szActualArgs = "";
+						- m_szReturnVal = "HashMapPeticiones";
+						- m_pCommunicationConnection = { IHandle 
+							- _m2Class = "IAssociationRole";
+							- _id = GUID 264a3cd4-8d50-4de0-9405-df6b812c98c4;
+						}
+						- m_pReceiver = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 2ad1ff11-ae8e-4fde-8919-868f0e9c505b;
+						}
+						- m_pSender = { IHandle 
+							- _m2Class = "IClassifierRole";
+							- _id = GUID 7dc204f9-7835-4c84-a4c6-969e0d10ad32;
+						}
+						- m_pFormalMessage = { IHandle 
+							- _m2Class = "IPrimitiveOperation";
+							- _filename = "BaseDeDatos.sbs";
+							- _subsystem = "Aplicacion::BaseDeDatos";
+							- _class = "Fachada";
+							- _name = "getPeticiones()";
+							- _id = GUID 4de1f549-22b0-4b22-8b87-6004a18efe08;
 						}
 						- m_eType = PRIMITIVE;
 						- m_targetExec = { IHandle 
