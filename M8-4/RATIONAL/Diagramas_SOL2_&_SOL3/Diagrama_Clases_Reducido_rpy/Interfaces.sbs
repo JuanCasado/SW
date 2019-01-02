@@ -1,0 +1,133 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Aplicacion.sbs";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Aplicacion";
+		- _id = GUID 6b40c8d5-fb1a-4ddb-903d-2fbc97e1cd27;
+	}
+	- _id = GUID 749727ef-f85e-4f7e-9979-338ef4bca025;
+	- _myState = 8192;
+	- _name = "Interfaces";
+	- _objectCreation = "41346322630201812-296301241";
+	- _umlDependencyID = "2752";
+	- _lastID = 3;
+	- Declaratives = { IRPYRawContainer 
+		- size = 3;
+		- value = 
+		{ ISubsystem 
+			- fileName = "InterfazUsuarioEscritorio";
+			- _id = GUID 9720a023-3d12-4dcb-999f-7427221e7749;
+		}
+		{ ISubsystem 
+			- fileName = "InterfazUsuarioTecnico";
+			- _id = GUID 81401dc0-7265-47e4-82e4-d45bc64cb965;
+		}
+		{ ISubsystem 
+			- fileName = "InterfazUsuarioCliente";
+			- _id = GUID 430107c4-e92a-4573-ae63-0aea00fff140;
+		}
+	}
+	- weakCGTime = 12.26.2018::11:28:46;
+	- strongCGTime = 12.23.2018::17:29:56;
+	- _defaultComposite = GUID 05e9fd10-e313-41e5-a2bd-d0720e4f8118;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IClass 
+			- _id = GUID 05e9fd10-e313-41e5-a2bd-d0720e4f8118;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "41346622630201812-296601241";
+			- _umlDependencyID = "2541";
+			- weakCGTime = 12.23.2018::17:32:6;
+			- strongCGTime = 12.23.2018::17:29:56;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID 8190df97-cec0-4086-af26-ae5d33f512fc;
+			- _myState = 8192;
+			- _name = "Interface_InterfazUsuario";
+			- _objectCreation = "41346642630201812-296621241";
+			- _umlDependencyID = "4321";
+			- Dependencies = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IDependency 
+					- _id = GUID e47c1fb4-b512-486a-9731-1781a0d74976;
+					- _myState = 2048;
+					- _name = "InterfazUsuarioCliente";
+					- _objectCreation = "41346662630201812-296641241";
+					- _umlDependencyID = "4025";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IComponent";
+						- _filename = "InterfazUsuarioCliente.cmp";
+						- _subsystem = "";
+						- _class = "";
+						- _name = "InterfazUsuarioCliente";
+						- _id = GUID d6196748-ee06-4e74-ae82-a49cf8934391;
+					}
+				}
+				{ IDependency 
+					- _id = GUID f5e6d883-bc05-425c-ac54-db4e89118726;
+					- _myState = 2048;
+					- _name = "InterfazUsuarioEscritorio";
+					- _objectCreation = "41346682630201812-296661241";
+					- _umlDependencyID = "4380";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IComponent";
+						- _filename = "InterfazUsuarioEscritorio.cmp";
+						- _subsystem = "";
+						- _class = "";
+						- _name = "InterfazUsuarioEscritorio";
+						- _id = GUID 24a65310-c917-4917-a0a4-57d0052f4fcd;
+					}
+				}
+				{ IDependency 
+					- _id = GUID e8c28cf8-5b0d-4f07-bdf4-9dbdd3a1bd9e;
+					- _myState = 2048;
+					- _name = "InterfazUsuarioTecnico";
+					- _objectCreation = "41346702630201812-296681241";
+					- _umlDependencyID = "4025";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IComponent";
+						- _filename = "InterfazUsuarioTecnico.cmp";
+						- _subsystem = "";
+						- _class = "";
+						- _name = "InterfazUsuarioTecnico";
+						- _id = GUID 283ae4c0-0024-4311-aae5-8e016a4b76ad;
+					}
+				}
+			}
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "PredefinedTypes.sbs";
+					- _subsystem = "PredefinedTypes";
+					- _class = "";
+					- _name = "Interface";
+					- _id = GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1;
+				}
+			}
+			- _lastID = 3;
+			- weakCGTime = 12.26.2018::11:0:27;
+			- strongCGTime = 12.26.2018::10:36:56;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 12.26.2018::11:28:41;
+}
+
