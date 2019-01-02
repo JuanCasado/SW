@@ -1,0 +1,18 @@
+"Resumen de trabajo" : {
+	"@fecha" : "1940-10-09",
+	"@direccion" : "string",
+	"@numero" : "integer",
+	"Trabajos nuevos" : {
+		"Totales" : "integer",
+		"Media" : "integer"
+	},
+	"Trabajos completados" : {
+		"Totales" : "integer",
+		"Media" : "integer"
+	},
+	"Trabajos pendientes" : {
+		"Totales" : "integer",
+		"Acumulados" : "integer"
+	},
+	"Personal_extra" : "integer" 
+}

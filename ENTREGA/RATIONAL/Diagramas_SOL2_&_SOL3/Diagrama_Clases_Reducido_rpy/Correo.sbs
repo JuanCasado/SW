@@ -1,0 +1,298 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Aplicacion.sbs";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Aplicacion";
+		- _id = GUID 6b40c8d5-fb1a-4ddb-903d-2fbc97e1cd27;
+	}
+	- _id = GUID 4ba816ef-04db-4e26-8fa3-65478dea8a25;
+	- _myState = 8192;
+	- _name = "Correo";
+	- _objectCreation = "04192926182018125819120";
+	- _umlDependencyID = "2159";
+	- weakCGTime = 12.26.2018::11:17:26;
+	- strongCGTime = 12.23.2018::17:29:43;
+	- _defaultComposite = GUID b7274885-8d58-4890-845b-6820aefb9d1b;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 3;
+		- value = 
+		{ IClass 
+			- _id = GUID b7274885-8d58-4890-845b-6820aefb9d1b;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "04193126182018125817120";
+			- _umlDependencyID = "2343";
+			- weakCGTime = 12.23.2018::17:31:35;
+			- strongCGTime = 12.23.2018::17:29:43;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID ada514db-fb93-47ec-a41b-9e05ad01af8f;
+			- _myState = 8192;
+			- _name = "Generador_email";
+			- _objectCreation = "04193326182018125815120";
+			- _umlDependencyID = "3066";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Diagrama_Sistema";
+				- _id = GUID c93eb477-b00d-4cf8-aa36-f9038195275e;
+			}
+			- _lastID = 5;
+			- Declaratives = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IClass 
+					- _id = GUID 7a572f64-70cc-46b8-8c89-00dec75b602b;
+					- _myState = 8192;
+					- _name = "Interface_GeneradorEmail";
+					- _objectCreation = "04193526182018125813120";
+					- _umlDependencyID = "3947";
+					- Dependencies = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IDependency 
+							- _id = GUID f92d174c-675e-4790-87e9-073727cc20d8;
+							- _myState = 2048;
+							- _name = "GeneradorEmail";
+							- _objectCreation = "04193726182018125811120";
+							- _umlDependencyID = "2939";
+							- _dependsOn = { INObjectHandle 
+								- _m2Class = "IComponent";
+								- _filename = "GeneradorEmail.cmp";
+								- _subsystem = "";
+								- _class = "";
+								- _name = "GeneradorEmail";
+								- _id = GUID 067556b6-bf85-44f6-9a20-c5453a3d4e72;
+							}
+						}
+					}
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _class = "";
+							- _name = "Interface";
+							- _id = GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1;
+						}
+					}
+					- _lastID = 1;
+					- weakCGTime = 12.26.2018::11:17:35;
+					- strongCGTime = 12.26.2018::11:17:26;
+					- _multiplicity = "";
+					- _itsStateChart = { IHandle 
+						- _m2Class = "";
+					}
+					- _classModifier = Unspecified;
+				}
+			}
+			- weakCGTime = 12.26.2018::11:17:35;
+			- strongCGTime = 12.23.2018::17:31:20;
+			- Operations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IPrimitiveOperation 
+					- _id = GUID 63782e8b-913d-40bc-bb28-ff43e285a183;
+					- _myState = 8192;
+					- _name = "enviarEmail";
+					- _objectCreation = "04193926182018125809120";
+					- _umlDependencyID = "2674";
+					- _virtual = 0;
+					- Args = { IRPYRawContainer 
+						- size = 0;
+					}
+					- _returnType = { IHandle 
+						- _m2Class = "IType";
+						- _filename = "PredefinedTypesC++.sbs";
+						- _subsystem = "PredefinedTypesCpp";
+						- _class = "";
+						- _name = "void";
+						- _id = GUID c6b70728-b655-45a0-abb7-8ea5d3da94be;
+					}
+					- _abstract = 0;
+					- _final = 0;
+					- _concurrency = Sequential;
+					- _protection = iPublic;
+					- _static = 0;
+					- _constant = 0;
+				}
+			}
+			- Attrs = { IRPYRawContainer 
+				- size = 4;
+				- value = 
+				{ IAttribute 
+					- _id = GUID 1b20ae0d-2e5c-4004-ae52-e746153a246a;
+					- _name = "texto";
+					- _objectCreation = "04194126182018125807120";
+					- _umlDependencyID = "2096";
+					- _typeOf = { IHandle 
+						- _m2Class = "IType";
+						- _filename = "PredefinedTypes.sbs";
+						- _subsystem = "PredefinedTypes";
+						- _class = "";
+						- _name = "RhpString";
+						- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+					}
+					- _isOrdered = 0;
+					- _protection = iPublic;
+					- _static = 0;
+					- _isReference = 0;
+					- _isConstant = 0;
+				}
+				{ IAttribute 
+					- _id = GUID 35036263-0f2c-4d10-a244-1b36cf68c65f;
+					- _name = "destinatario";
+					- _objectCreation = "04194326182018125805120";
+					- _umlDependencyID = "2819";
+					- _typeOf = { IHandle 
+						- _m2Class = "IType";
+						- _filename = "PredefinedTypes.sbs";
+						- _subsystem = "PredefinedTypes";
+						- _class = "";
+						- _name = "RhpString";
+						- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+					}
+					- _isOrdered = 0;
+					- _protection = iPublic;
+					- _static = 0;
+					- _isReference = 0;
+					- _isConstant = 0;
+				}
+				{ IAttribute 
+					- _id = GUID 570ecb47-1dbb-4355-a4a0-5d1a04d5a125;
+					- _name = "asunto";
+					- _objectCreation = "04194526182018125803120";
+					- _umlDependencyID = "2198";
+					- _typeOf = { IHandle 
+						- _m2Class = "IType";
+						- _filename = "PredefinedTypes.sbs";
+						- _subsystem = "PredefinedTypes";
+						- _class = "";
+						- _name = "RhpString";
+						- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+					}
+					- _isOrdered = 0;
+					- _protection = iPublic;
+					- _static = 0;
+					- _isReference = 0;
+					- _isConstant = 0;
+				}
+				{ IAttribute 
+					- _id = GUID 4714b7be-3b44-474a-b5b0-0fda94a53fc7;
+					- _name = "host";
+					- _objectCreation = "04194726182018125801120";
+					- _umlDependencyID = "1978";
+					- _typeOf = { IHandle 
+						- _m2Class = "IType";
+						- _filename = "PredefinedTypes.sbs";
+						- _subsystem = "PredefinedTypes";
+						- _class = "";
+						- _name = "RhpString";
+						- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+					}
+					- _isOrdered = 0;
+					- _protection = iPublic;
+					- _static = 0;
+					- _isReference = 0;
+					- _isConstant = 0;
+				}
+			}
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 8a361d4a-6c30-4b3f-9225-8b3e29b5f5e9;
+					- _myState = 10240;
+					- _name = "itsSISTEMA";
+					- _objectCreation = "04194926182018125799120";
+					- _umlDependencyID = "2420";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _filename = "Aplicacion.sbs";
+						- _subsystem = "Aplicacion";
+						- _class = "";
+						- _name = "SISTEMA";
+						- _id = GUID f068015f-94b4-4198-9c32-05bd85573d30;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _filename = "Aplicacion.sbs";
+						- _subsystem = "Aplicacion";
+						- _class = "SISTEMA";
+						- _name = "itsGenerador_email";
+						- _id = GUID d93a7520-b18e-4254-9ac2-671c321968dd;
+					}
+					- _linkName = "";
+					- _linkType = Composition;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID 8dc2cda6-3df2-4ec4-8472-927ec2c8c518;
+			- _myState = 8192;
+			- _name = "Generador_Pedidos";
+			- _objectCreation = "04195126182018125797120";
+			- _umlDependencyID = "3267";
+			- weakCGTime = 12.26.2018::10:6:6;
+			- strongCGTime = 12.23.2018::17:31:35;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 0fe9dd3c-99d2-435b-a8a3-0187e3a9e420;
+					- _myState = 10240;
+					- _name = "itsPedidos";
+					- _objectCreation = "04195326182018125795120";
+					- _umlDependencyID = "2589";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _filename = "ClasesDominio.sbs";
+						- _subsystem = "Aplicacion::ClasesDominio";
+						- _class = "";
+						- _name = "Pedidos";
+						- _id = GUID b04d07a3-f5bf-4b08-8c49-4eb9e0b2d49b;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _filename = "ClasesDominio.sbs";
+						- _subsystem = "Aplicacion::ClasesDominio";
+						- _class = "Pedidos";
+						- _name = "itsGenerador_Pedidos";
+						- _id = GUID 36b32ef9-5f9f-4335-b3be-131629c4e50d;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+
